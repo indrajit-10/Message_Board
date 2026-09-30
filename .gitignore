@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+node_modules
+site-audit/node_modules
+site-audit/*.log
+site-audit/data/pages.json
+site-audit/data/links.json
+site-audit/data/bundles/
+site-audit/agent-work/**/cache/
+site-audit/agent-work/**/html/
+site-audit/agent-work/**/*.html
