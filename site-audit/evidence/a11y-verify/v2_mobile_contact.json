@@ -1,0 +1,396 @@
+{
+ "log": {
+  "path": "/contact-us/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "2.dca _atomic_dca STALE"
+ },
+ "cc": [
+  0,
+  646,
+  390,
+  198
+ ],
+ "shot": "mobile_contact_obscured_8.png",
+ "stops": [
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    10,
+    11,
+    131,
+    21
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    -238,
+    31,
+    146,
+    21
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    -310,
+    100,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "ABOUT US",
+   "rect": [
+    -310,
+    144,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "WHAT TO WRITE IN A CARD",
+   "rect": [
+    -310,
+    188,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "CONTACT US",
+   "rect": [
+    -310,
+    232,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required",
+   "name": "Name*",
+   "rect": [
+    15,
+    644,
+    166,
+    47
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0.95,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "input.wpcf7-form-control.wpcf7-email.wpcf7-validates-as-required",
+   "name": "Email*",
+   "rect": [
+    209,
+    644,
+    166,
+    47
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0.95,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "input.wpcf7-form-control.wpcf7-text",
+   "name": "Subject",
+   "rect": [
+    15,
+    719,
+    360,
+    47
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required",
+   "name": "Your Message",
+   "rect": [
+    15,
+    794,
+    360,
+    120
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "input.wpcf7-form-control.wpcf7-submit.has-spinner",
+   "name": "",
+   "rect": [
+    15,
+    613,
+    150,
+    50
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0.33,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "Terms of Use",
+   "rect": [
+    45,
+    771,
+    83,
+    20
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "a",
+   "name": "Privacy Policy",
+   "rect": [
+    144,
+    771,
+    88,
+    20
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "a",
+   "name": "Cookie Policy",
+   "rect": [
+    248,
+    771,
+    86,
+    20
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "a",
+   "name": "Copyright Policy",
+   "rect": [
+    20,
+    795,
+    105,
+    20
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "a",
+   "name": "Do Not Sell My Info",
+   "rect": [
+    141,
+    795,
+    118,
+    20
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "a",
+   "name": "Request Opt In",
+   "rect": [
+    275,
+    795,
+    95,
+    20
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "cookie"
+  },
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    -230,
+    31,
+    190,
+    21
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "Facebook",
+   "rect": [
+    -168,
+    104,
+    8,
+    14
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "Instagram",
+   "rect": [
+    -143,
+    104,
+    12,
+    14
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "Whatsapp",
+   "rect": [
+    -114,
+    104,
+    12,
+    14
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    -250,
+    164,
+    230,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a.cc-link",
+   "name": "cookies - Cookie Policy.",
+   "rect": [
+    32,
+    726,
+    100,
+    24
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "self"
+  },
+  {
+   "el": "a.cc-btn.cc-dismiss",
+   "name": "Accept cookie",
+   "rect": [
+    32,
+    773,
+    326,
+    40
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "self"
+  },
+  {
+   "el": "span.cc-close",
+   "name": "x cookie",
+   "rect": [
+    367,
+    651,
+    13,
+    19
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "self"
+  },
+  {
+   "el": "body"
+  }
+ ]
+}

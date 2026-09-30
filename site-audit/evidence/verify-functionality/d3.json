@@ -1,0 +1,158 @@
+{
+ "status": 200,
+ "initial": [
+  {
+   "open": true,
+   "title": "When is Father’s Day 2026?",
+   "contentH": 155
+  },
+  {
+   "open": false,
+   "title": "What day of the week is Father’s Day 202",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "Is Father’s Day on the same date everywh",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "When is Father’s Day in India 2026?",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I celebrate Father’s Day if my da",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I wish Happy Father’s Day to my g",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "What’s the difference between Father’s D",
+   "contentH": 0
+  }
+ ],
+ "afterTap1": [
+  {
+   "open": false,
+   "title": "When is Father’s Day 2026?",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "What day of the week is Father’s Day 202",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "Is Father’s Day on the same date everywh",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "When is Father’s Day in India 2026?",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I celebrate Father’s Day if my da",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I wish Happy Father’s Day to my g",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "What’s the difference between Father’s D",
+   "contentH": 0
+  }
+ ],
+ "afterTap2": [
+  {
+   "open": false,
+   "title": "When is Father’s Day 2026?",
+   "contentH": 0
+  },
+  {
+   "open": true,
+   "title": "What day of the week is Father’s Day 202",
+   "contentH": 110
+  },
+  {
+   "open": false,
+   "title": "Is Father’s Day on the same date everywh",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "When is Father’s Day in India 2026?",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I celebrate Father’s Day if my da",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I wish Happy Father’s Day to my g",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "What’s the difference between Father’s D",
+   "contentH": 0
+  }
+ ],
+ "afterEnter3": [
+  {
+   "open": false,
+   "title": "When is Father’s Day 2026?",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "What day of the week is Father’s Day 202",
+   "contentH": 0
+  },
+  {
+   "open": true,
+   "title": "Is Father’s Day on the same date everywh",
+   "contentH": 222
+  },
+  {
+   "open": false,
+   "title": "When is Father’s Day in India 2026?",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I celebrate Father’s Day if my da",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "How do I wish Happy Father’s Day to my g",
+   "contentH": 0
+  },
+  {
+   "open": false,
+   "title": "What’s the difference between Father’s D",
+   "contentH": 0
+  }
+ ],
+ "focusStyle": "none 0px / none",
+ "aria": {
+  "tag": "SUMMARY",
+  "expanded": "true",
+  "controls": "e-n-accordion-item-8402"
+ },
+ "loads": 1
+}

@@ -1,0 +1,152 @@
+== https://blog.123greetings.com/wp-content/themes/soledad/main.css?ver=8.7.6
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: text/css
+last-modified: Wed, 26 Aug 2026 12:22:52 GMT
+vary: Accept-Encoding
+etag: W/"6a8eda9c-1480b9"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 3.dca _atomic_dca HIT
+size_download=180113
+== https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: application/javascript
+last-modified: Mon, 28 Aug 2023 17:14:23 GMT
+vary: Accept-Encoding
+etag: W/"64ecd5ef-15601"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 5.dca _atomic_dca HIT
+size_download=31408
+== https://blog.123greetings.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.2
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: text/css
+last-modified: Fri, 25 Sep 2026 06:17:53 GMT
+vary: Accept-Encoding
+etag: W/"6ab61211-d58a"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 5.dca _atomic_dca HIT
+size_download=7435
+== https://blog.123greetings.com/wp-content/uploads/elementor/css/post-503.css?ver=1790317234
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: text/css
+last-modified: Fri, 25 Sep 2026 06:20:34 GMT
+vary: Accept-Encoding
+etag: W/"6ab612b2-a1a"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 4.dca _atomic_dca HIT
+size_download=503
+== https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1778843412
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: text/css
+last-modified: Fri, 15 May 2026 11:10:12 GMT
+vary: Accept-Encoding
+etag: W/"6a06ff14-191b2"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 1.dca _atomic_dca HIT
+size_download=2018
+== https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-0f7fcdc8.woff2
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: application/font-woff2
+content-length: 43136
+last-modified: Fri, 15 May 2026 11:10:12 GMT
+etag: "6a06ff14-a880"
+expires: Thu, 30 Sep 2027 09:32:13 GMT
+cache-control: max-age=31536000
+x-ac: 1.dca _atomic_dca HIT
+size_download=43136
+== https://blog.123greetings.com/wp-content/themes/soledad/fonts/fontawesome-webfont.woff2?v=4.7.0
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: application/font-woff2
+content-length: 77160
+last-modified: Wed, 26 Aug 2026 12:22:52 GMT
+etag: "6a8eda9c-12d68"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+x-ac: 4.dca _atomic_dca HIT
+size_download=77160
+== https://blog.123greetings.com/wp-content/themes/soledad/fonts/penciicon.ttf?v=1.2
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: application/font-ttf
+last-modified: Fri, 07 Aug 2026 06:21:37 GMT
+vary: Accept-Encoding
+etag: W/"6a757971-8164"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 2.dca _atomic_dca HIT
+size_download=20359
+== https://blog.123greetings.com/wp-content/uploads/2026/04/123greetings.webp
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: image/webp
+content-length: 39748
+last-modified: Mon, 20 Apr 2026 07:47:43 GMT
+etag: "69e5da1f-9b44"
+expires: Thu, 30 Sep 2027 09:40:31 GMT
+cache-control: max-age=31536000
+x-ac: 4.dca _atomic_dca HIT
+size_download=39748
+== https://blog.123greetings.com/wp-content/uploads/2025/10/cropped-favicon.jpg
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 37527
+last-modified: Mon, 06 Oct 2025 06:14:24 GMT
+etag: "68e35e40-9297"
+expires: Sat, 07 Aug 2027 15:32:33 GMT
+cache-control: max-age=31536000
+x-ac: 1.dca _atomic_dca HIT
+size_download=37527
+== https://blog.123greetings.com/_jb_static/??43755b75c1
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: application/javascript
+vary: Accept-Encoding
+vary: Cookie
+last-modified: Wed, 26 Aug 2026 12:22:52 GMT
+cache-control: max-age=31536000
+etag: W/"bc47172b13231fd3320014d155321257"
+content-encoding: br
+x-ac: 5.dca _atomic_dca HIT
+size_download=99736
+== https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/05/Happy_faces.webp?resize=650%2C650&ssl=1
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: image/jpeg
+content-length: 76648
+last-modified: Wed, 30 Sep 2026 11:00:18 GMT
+expires: Fri, 29 Sep 2028 23:00:18 GMT
+cache-control: public, max-age=63115200
+etag: "bcf33ca28355e3dc"
+x-bytes-saved: 4260
+vary: Accept
+size_download=76648
+== https://blog.123greetings.com/wp-content/uploads/custom-css-js/1553.css?v=3293
+HTTP/1.1 200 Connection Established
+HTTP/2 200 
+content-type: text/css
+last-modified: Thu, 25 Jun 2026 13:44:14 GMT
+vary: Accept-Encoding
+etag: W/"6a3d30ae-2803"
+expires: Thu, 31 Dec 2037 23:55:55 GMT
+cache-control: max-age=315360000
+content-encoding: br
+x-ac: 3.dca _atomic_dca HIT
+size_download=2527

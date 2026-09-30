@@ -1,0 +1,24 @@
+{
+ "log": {
+  "path": "/archive/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200
+ },
+ "before": {
+  "name": "More Posts",
+  "text": "LOAD MORE POSTS",
+  "href": "#",
+  "posts": 9
+ },
+ "after": {
+  "posts": 18,
+  "focusTag": "A",
+  "focusClass": "penci-ajax-more-button",
+  "focusText": "LOAD MORE POSTS",
+  "url": "https://blog.123greetings.com/archive/",
+  "live": [
+   "cc-window cc-floating cc-type-info cc-theme-block cc-addedcloseX cc-bottom cc-right cc-color-override-1070757447 "
+  ]
+ }
+}

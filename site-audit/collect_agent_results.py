@@ -3,9 +3,10 @@
 journals and merge them into:
   data/page_review.json   - per URL: verified issues, rejected count, content assessment
   data/site_audit.json    - per area: findings joined with verifier verdicts, plus critic findings
-Usage: python3 collect_agent_results.py <page-review journal.jsonl> <site-audit journal.jsonl>
+Usage: python3 collect_agent_results.py <page-review journal.jsonl> <site-audit journal.jsonl> [critic-verify journal.jsonl]
 """
 import json
+import re
 import sys
 from collections import defaultdict
 
@@ -19,6 +20,14 @@ def read_journal(path):
         elif e["type"] == "result" and e.get("result") is not None:
             out[labels.get(e["agentId"], e["agentId"])] = e["result"]
     return out
+
+
+EMAIL = re.compile(r"[\w.+-]+@(?:gmail|googlemail|yahoo|outlook|hotmail)\.com", re.I)
+
+
+def redact(obj):
+    """Don't repeat personal email addresses found during the audit."""
+    return json.loads(EMAIL.sub("[account email]", json.dumps(obj)))
 
 
 def norm(s):
@@ -66,7 +75,7 @@ def pages(journal):
     return merged
 
 
-def site(journal):
+def site(journal, extra_journals=()):
     res = read_journal(journal)
     areas = {}
     for label, r in res.items():
@@ -96,17 +105,39 @@ def site(journal):
         areas[key] = {"findings": out, "tables": r.get("tables", []), "notes": r.get("notes")}
     critic = res.get("completeness-critic")
     if critic:
-        areas["completeness"] = {"findings": [dict(f, verdict="critic-verified", source="critic") for f in critic["findings"]], "tables": critic.get("tables", []), "notes": critic.get("notes")}
+        verdicts = {}
+        for path in extra_journals:
+            for label, r in read_journal(path).items():
+                if label.startswith("critic-verify"):
+                    verdicts.update({v["title"]: v for v in r["verdicts"]})
+        out = []
+        for f in critic["findings"]:
+            f = dict(f, source="critic")
+            v = verdicts.get(f["title"])
+            if v:
+                f["verdict"] = v["verdict"]
+                f["verify_reason"] = v.get("reason")
+                f["severity"] = v.get("severity") or f["severity"]
+                if v.get("corrected_evidence"):
+                    f["evidence"] = f["evidence"] + "\n[Verifier] " + v["corrected_evidence"]
+                if v.get("corrected_fix"):
+                    f["fix"] = v["corrected_fix"]
+            else:
+                f["verdict"] = "unverified"
+            out.append(f)
+        areas["completeness"] = {"findings": out, "tables": critic.get("tables", []), "notes": critic.get("notes")}
     return areas
 
 
 if __name__ == "__main__":
     pr = pages(sys.argv[1])
+    pr = redact(pr)
     json.dump(pr, open("data/page_review.json", "w"), indent=1)
     n = sum(len(p["issues"]) for p in pr.values())
     print(f"page review: {len(pr)} pages, {n} issues, verified pages {sum(p['verified'] for p in pr.values())}")
     if len(sys.argv) > 2:
-        sa = site(sys.argv[2])
+        sa = site(sys.argv[2], sys.argv[3:])
+        sa = redact(sa)
         json.dump(sa, open("data/site_audit.json", "w"), indent=1)
         for k, a in sa.items():
             c = defaultdict(int)

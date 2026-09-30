@@ -1,0 +1,24 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+server: nginx
+date: Wed, 30 Sep 2026 11:47:37 GMT
+content-type: application/json; charset=UTF-8
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-hacker: Want root?  Visit join.a8c.com and mention this header.
+host-header: WordPress.com
+vary: accept, content-type, cookie
+x-robots-tag: noindex
+link: <https://blog.123greetings.com/wp-json/>; rel="https://api.w.org/"
+x-content-type-options: nosniff
+access-control-expose-headers: X-WP-Total, X-WP-TotalPages, Link
+access-control-allow-headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+x-wp-total: 49
+x-wp-totalpages: 1
+allow: GET
+vary: Origin
+x-ac: 1.dca _atomic_dca MISS
+alt-svc: clear
+server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1284.0
+

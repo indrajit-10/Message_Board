@@ -1,0 +1,15 @@
+{
+ "frameFound": true,
+ "frameUrl": "https://blog.123greetings.com/contact-us/",
+ "title": "Contact 123Greetings Blog – Suggest a Topic or Get in Touch",
+ "form": {
+  "inputs": [
+   "your-name",
+   "your-email",
+   "your-subject",
+   "your-message",
+   "",
+   "_wpcf7_ak_hp_textarea"
+  ]
+ }
+}

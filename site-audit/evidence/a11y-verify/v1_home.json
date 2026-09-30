@@ -1,0 +1,687 @@
+{
+ "log": {
+  "path": "/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "4.dca _atomic_dca HIT"
+ },
+ "landmarks": {
+  "main": 0,
+  "header": 0,
+  "footer": 0,
+  "navs": [
+   "nav.navigation.menu-style-1.no-class|",
+   "nav.navigation.menu-style-1.no-class|",
+   "nav.no-class.normal-click|",
+   "nav#sidebar-nav.header-1.mstyle-default|"
+  ],
+  "skip": [],
+  "firstFocusable": "<a href=\"https://blog.123greetings.com/\">\n            <img class=\"penci-mainlogo penci-limg pclogo-cls\" src=\"https://blog.123greetings.com/w"
+ },
+ "offcanvas": [
+  {
+   "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg.mpos-left",
+   "vis": "visible",
+   "disp": "block",
+   "transform": "matrix(1, 0, 0, 1, -330, 0)",
+   "inert": false,
+   "ariaHidden": null,
+   "rect": [
+    -330,
+    0,
+    330,
+    900
+   ],
+   "focusables": 5
+  },
+  {
+   "el": "nav#sidebar-nav.header-1.mstyle-default",
+   "vis": "visible",
+   "disp": "none",
+   "transform": "none",
+   "inert": false,
+   "ariaHidden": null,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "focusables": 5
+  }
+ ],
+ "tabs": [
+  {
+   "i": 1,
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Card Message",
+   "rect": [
+    98,
+    13,
+    175,
+    23
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t01"
+  },
+  {
+   "i": 2,
+   "el": "a",
+   "name": "Home",
+   "rect": [
+    779,
+    22,
+    50,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t02"
+  },
+  {
+   "i": 3,
+   "el": "a",
+   "name": "About Us",
+   "rect": [
+    859,
+    22,
+    75,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t03"
+  },
+  {
+   "i": 4,
+   "el": "a",
+   "name": "What to write in a card",
+   "rect": [
+    964,
+    22,
+    185,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t04"
+  },
+  {
+   "i": 5,
+   "el": "a",
+   "name": "Contact Us",
+   "rect": [
+    1179,
+    22,
+    89,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t05"
+  },
+  {
+   "i": 6,
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Card Message",
+   "rect": [
+    -238,
+    31,
+    146,
+    23
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 7,
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    -310,
+    100,
+    290,
+    43
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 8,
+   "el": "a",
+   "name": "ABOUT US",
+   "rect": [
+    -310,
+    144,
+    290,
+    43
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(49, 49, 49)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 9,
+   "el": "a",
+   "name": "WHAT TO WRITE IN A CARD",
+   "rect": [
+    -310,
+    188,
+    290,
+    43
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(49, 49, 49)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 10,
+   "el": "a",
+   "name": "CONTACT US",
+   "rect": [
+    -310,
+    232,
+    290,
+    43
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(49, 49, 49)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 11,
+   "el": "a",
+   "name": "123Greetings",
+   "rect": [
+    111,
+    205,
+    91,
+    17
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t11"
+  },
+  {
+   "i": 12,
+   "el": "a.read-toggle",
+   "name": "Read More",
+   "rect": [
+    93,
+    276,
+    78,
+    23
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t12"
+  },
+  {
+   "i": 13,
+   "el": "input#gsc-i-id1.gsc-input",
+   "name": "search",
+   "rect": [
+    151,
+    336,
+    532,
+    24
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(68, 71, 70)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t13"
+  },
+  {
+   "i": 14,
+   "el": "a",
+   "name": "Halloween",
+   "rect": [
+    232,
+    398,
+    74,
+    30
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "home_t14"
+  }
+ ],
+ "cards": [
+  {
+   "text": "Birthday",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgba(0, 83, 123, 0.93)",
+   "bgFrom": "div.elementor-element.elementor-element-a84c74b.onHoverTitleWhite",
+   "ratio": 8.32,
+   "fontSize": "45px",
+   "outline": "none",
+   "fv": true
+  },
+  {
+   "text": "Anniversary",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(250, 246, 238)",
+   "bgFrom": "div.elementor-element.elementor-element-437c55f.elementor-widget__width-initial",
+   "ratio": 1.08,
+   "fontSize": "24px",
+   "outline": "none",
+   "fv": true
+  },
+  {
+   "text": "Thank You",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(250, 246, 238)",
+   "bgFrom": "div.elementor-element.elementor-element-78da114.elementor-widget__width-initial",
+   "ratio": 1.08,
+   "fontSize": "24px",
+   "outline": "none",
+   "fv": true
+  },
+  {
+   "text": "Get Well Soon",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(250, 246, 238)",
+   "bgFrom": "div.elementor-element.elementor-element-5dc8a49.elementor-widget__width-inherit",
+   "ratio": 1.08,
+   "fontSize": "24px",
+   "outline": "none",
+   "fv": true
+  },
+  {
+   "text": "Friendship",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(250, 246, 238)",
+   "bgFrom": "div.elementor-element.elementor-element-0e05142.elementor-widget__width-inherit",
+   "ratio": 1.08,
+   "fontSize": "24px",
+   "outline": "none",
+   "fv": true
+  },
+  {
+   "text": "Family",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(250, 246, 238)",
+   "bgFrom": "div.elementor-element.elementor-element-7da3046.elementor-widget__width-inherit",
+   "ratio": 1.08,
+   "fontSize": "24px",
+   "outline": "none",
+   "fv": true
+  },
+  {
+   "text": "Love",
+   "color": "rgb(255, 255, 255)",
+   "bg": "rgb(250, 246, 238)",
+   "bgFrom": "div.elementor-element.elementor-element-693139f.elementor-widget__width-inherit",
+   "ratio": 1.08,
+   "fontSize": "24px",
+   "outline": "none",
+   "fv": true
+  }
+ ],
+ "alts": {
+  "logos": [
+   {
+    "vis": false,
+    "x": 98,
+    "altLen": 88
+   },
+   {
+    "vis": true,
+    "x": 98,
+    "altLen": 88
+   },
+   {
+    "vis": false,
+    "x": 0,
+    "altLen": 88
+   },
+   {
+    "vis": true,
+    "x": -238,
+    "altLen": 88
+   },
+   {
+    "vis": false,
+    "x": 0,
+    "altLen": 88
+   }
+  ],
+  "badges": [
+   {
+    "tabindex": "-1",
+    "alt": "31oct",
+    "href": "https://blog.123greetings.com/halloween-messages/"
+   },
+   {
+    "tabindex": "-1",
+    "alt": "4th Oct",
+    "href": "https://blog.123greetings.com/st-francis-day-messages/"
+   },
+   {
+    "tabindex": "-1",
+    "alt": "02 Oct",
+    "href": "https://blog.123greetings.com/guardian-angel-day-messages/"
+   },
+   {
+    "tabindex": "-1",
+    "alt": "11 oct",
+    "href": "https://blog.123greetings.com/clergy-appreciation-day-messages/"
+   }
+  ],
+  "h1": {
+   "words": 30,
+   "fontSize": "14px",
+   "weight": "600"
+  },
+  "comingUp": [
+   "\"COMING UP THIS MONTH\"",
+   "\"Halloween\"",
+   "\"St. Francis Day\"",
+   "\"Guardian Angel Day\"",
+   "\"Clergy Appreciation Day\""
+  ]
+ },
+ "axLandmarks": [
+  "navigation:",
+  "navigation:"
+ ],
+ "axH2": [
+  "Get Well Soon",
+  "Friendship",
+  "Family",
+  "Love",
+  "Birthday",
+  "Anniversary",
+  "Thank You",
+  "Halloween",
+  "St. Francis Day",
+  "Guardian Angel Day",
+  "Clergy Appreciation Day",
+  "The message you write on a card is often",
+  " COMING UP THIS MONTH"
+ ],
+ "toggle": {
+  "tag": "A",
+  "href": "#",
+  "role": null,
+  "exp": null,
+  "hiddenStyle": "mh=0px ov=hidden disp=block vis=visible"
+ },
+ "collapsedTextInAX": 2,
+ "goTop": {
+  "tag": "DIV",
+  "tabIndex": -1,
+  "role": null,
+  "label": null,
+  "cls": "penci-go-to-top-floating pgtt-style-1 show-up",
+  "rect": [
+   1306,
+   854,
+   40,
+   40
+  ],
+  "y": 739,
+  "yAfterClick": 739
+ },
+ "axe": {
+  "violations": [
+   {
+    "id": "heading-order",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".elementor-element-a84c74b > .elementor-icon-box-wrapper > .elementor-icon-box-content > h3",
+      "html": "<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<a href=\"https://blog.123greetings.com/birthday-messages/\">\n\t\t\t\t\t\t\tBirthday\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>",
+      "data": null
+     }
+    ]
+   },
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci-desktop-sticky-mid > .container-normal.container > .penci_nav_row > .penci_nav_right.penci_nav_alignright.penci_nav_col > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 15,
+    "nodes": [
+     {
+      "target": ".penci-desktop-sticky-mid > .container-normal.container > .penci_nav_row > .penci_nav_left.penci_nav_alignleft.penci_nav_col",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-1d232dd",
+      "html": "<div class=\"elementor-element elementor-element-1d232dd elementor-widget elementor-widget-penci-text-block\" data-id=\"1d232dd\" data-element_type=\"widget\" data-e-",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#gs_tti50",
+      "html": "<td id=\"gs_tti50\" class=\"gsib_a\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-d6464cc",
+      "html": "<div class=\"elementor-element elementor-element-d6464cc elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-45a7db0",
+      "html": "<div class=\"elementor-element elementor-element-45a7db0 e-con-full e-flex e-con e-child\" data-id=\"45a7db0\" data-element_type=\"container\" data-e-type=\"container\"",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-a84c74b > .elementor-icon-box-wrapper > .elementor-icon-box-content > h3",
+      "html": "<h3 class=\"elementor-icon-box-title\">\n\t\t\t\t\t\t<a href=\"https://blog.123greetings.com/birthday-messages/\">\n\t\t\t\t\t\t\tBirthday\t\t\t\t\t\t</a>\n\t\t\t\t\t</h3>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-a84c74b > .elementor-icon-box-wrapper > .elementor-icon-box-content > .elementor-icon-box-description",
+      "html": "<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\tWhen you’re staring at that blinking cursor wondering how to say more than just \"Happy Birthday,\" personalized ",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-icon-box-content > a",
+      "html": "<a href=\"https://blog.123greetings.com/birthday-messages/\" style=\"color:#fff\">Browse Messages →</a>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-0d8a30d",
+      "html": "<div class=\"elementor-element elementor-element-0d8a30d e-con-full e-flex e-con e-child\" data-id=\"0d8a30d\" data-element_type=\"container\" data-e-type=\"container\"",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-79fe427",
+      "html": "<div class=\"elementor-element elementor-element-79fe427 e-grid e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"79fe427\" data-element_type=\"container\" data-e-t",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "count": 2,
+    "nodes": [
+     {
+      "target": "#gsc-i-id1",
+      "html": "<input autocomplete=\"off\" type=\"text\" size=\"10\" class=\"gsc-input\" name=\"search\" title=\"Search Messages\" aria-label=\"search\" id=\"gsc-i-id1\" style=\"width: 100%; p",
+      "data": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "bgImage",
+       "expectedContrastRatio": "4.5:1"
+      }
+     },
+     {
+      "target": "#cookieconsent\\:desc",
+      "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "data": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "elmPartiallyObscuring",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "cookie": {
+  "html": "<div role=\"dialog\" aria-live=\"polite\" aria-label=\"cookieconsent\" aria-describedby=\"cookieconsent:desc\" class=\"cc-window cc-floating cc-type-info cc-theme-block cc-addedcloseX cc-bottom cc-right cc-color-override-1070757447 \" style=\"\"><!--googleoff: all--><span id=\"cookieconsent:desc\" class=\"cc-message\">We use cookies to make your experience sweeter! By using our site, you agree to our <a aria-label=\"cookies - Cookie Policy. \" role=\"button\" tabindex=\"0\" class=\"cc-link\" href=\"https://www.123greetings.com/cookie_policy.html\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Cookie Policy.</a></span><div class=\"cc-compliance\"><a aria-label=\"Accept cookie\" role=\"button\" tabindex=\"0\" class=\"cc-btn cc-dismiss\">Accept</a></div><span aria-label=\"x cookie\" role=\"button\" tabindex=\"0\" class=\"cc-close\">x</span><!--googleon: all--></div>",
+  "rect": [
+   966,
+   686,
+   384,
+   198
+  ],
+  "domIdx": 448,
+  "domTotal": 454,
+  "closeRect": [
+   1327,
+   691,
+   13,
+   19
+  ],
+  "acceptRect": [
+   998,
+   813,
+   320,
+   40
+  ],
+  "afterSpace": true,
+  "afterEnter": false,
+  "focusAfter": "body.home.wp-singular.page-template"
+ }
+}

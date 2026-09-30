@@ -1,0 +1,385 @@
+{
+ "home": {
+  "log": {
+   "path": "/",
+   "console": [
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+     "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.2",
+     "line": 0
+    },
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+     "url": "https://blog.123greetings.com/_jb_static/??34692c1620",
+     "line": 0
+    },
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+     "url": "https://blog.123greetings.com/_jb_static/??c5f2f102a4",
+     "line": 0
+    },
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+     "url": "https://blog.123greetings.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+     "line": 0
+    },
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+     "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "line": 0
+    },
+    {
+     "type": "warning",
+     "text": "[GroupMarkerNotSet(crbug.com/242999)!:A07020000C0F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+     "url": "https://blog.123greetings.com/",
+     "line": 0
+    },
+    {
+     "type": "warning",
+     "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0A020000C0F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+     "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+     "line": 0
+    }
+   ],
+   "pageErrors": [
+    {
+     "msg": "Cannot read properties of undefined (reading 'hooks')",
+     "stack": "TypeError: Cannot read properties of undefined (reading 'hooks')\n    at https://blog.123greetings.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216:3:709\n    at https://blog.123greetings.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216:3:250\n    at https://blog.123greetings.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216:3:5425\n    at https://blog.123greetings.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216:3:5698\n    at https://blog.123greetings.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216:5:3"
+    },
+    {
+     "msg": "wp is not defined",
+     "stack": "ReferenceError: wp is not defined\n    at wp-i18n-js-after:2:1"
+    },
+    {
+     "msg": "Cannot read properties of undefined (reading 'i18n')",
+     "stack": "TypeError: Cannot read properties of undefined (reading 'i18n')\n    at https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7:1:38\n    at https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7:1:13450"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    },
+    {
+     "msg": "[elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+     "stack": "Error: [elementor] failed to load chunk \"background-video\" from https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2\n    at i.onerror (https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2:1:20138)"
+    }
+   ],
+   "failed": [
+    "net::ERR_ABORTED https://blog.123greetings.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.2",
+    "net::ERR_ABORTED https://blog.123greetings.com/_jb_static/??34692c1620",
+    "net::ERR_ABORTED https://blog.123greetings.com/_jb_static/??c5f2f102a4",
+    "net::ERR_ABORTED https://blog.123greetings.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "net::ERR_ABORTED https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+    "net::ERR_ABORTED https://www.google.com/recaptcha/api2/clr?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL",
+    "net::ERR_ABORTED https://www.google-analytics.com/g/collect?v=2&tid=G-R56NTBBBCB&gtm=45je69s1v9250288339za200zd9250288339xf1&_p=1790765925416&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=610472379.1790765868&frm=0&ngs=1&pscdl=noapi"
+   ],
+   "http": [
+    "429 https://blog.123greetings.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.3.2",
+    "429 https://blog.123greetings.com/_jb_static/??34692c1620",
+    "429 https://blog.123greetings.com/_jb_static/??c5f2f102a4",
+    "429 https://blog.123greetings.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+    "429 https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2"
+   ],
+   "requests": [],
+   "status": 200,
+   "finalUrl": "https://blog.123greetings.com/",
+   "loadMs": 2483,
+   "retriedAfter429": 25,
+   "n429": 5
+  },
+  "cls": {
+   "value": 0.023884863844592267,
+   "entries": [
+    {
+     "t": 1423,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 1469,
+     "v": 0.0004,
+     "src": [
+      "div.elementor-element.elementor-element-79fe427.e-grid"
+     ]
+    },
+    {
+     "t": 1918,
+     "v": 0.0229,
+     "src": [
+      "div.elementor-element.elementor-element-d6464cc.elementor-icon-list--layout-inline",
+      "div.elementor-element.elementor-element-9353f32.e-grid",
+      "div.elementor-element.elementor-element-79fe427.e-grid"
+     ]
+    }
+   ]
+  },
+  "tabs": [
+   {
+    "tag": "a",
+    "text": "",
+    "href": "https://blog.123greetings.com/",
+    "onScreen": true,
+    "rect": [
+     98,
+     13,
+     175,
+     23
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_header penci-header-builder main-builder-hea"
+   },
+   {
+    "tag": "a",
+    "text": "Home",
+    "href": "https://blog.123greetings.com/",
+    "onScreen": true,
+    "rect": [
+     779,
+     22,
+     50,
+     40
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_header penci-header-builder main-builder-hea"
+   },
+   {
+    "tag": "a",
+    "text": "About Us",
+    "href": "https://blog.123greetings.com/about-us/",
+    "onScreen": true,
+    "rect": [
+     859,
+     22,
+     75,
+     40
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_header penci-header-builder main-builder-hea"
+   },
+   {
+    "tag": "a",
+    "text": "What to write in a card",
+    "href": "https://blog.123greetings.com/what-to-write-in-a-card/",
+    "onScreen": true,
+    "rect": [
+     964,
+     22,
+     185,
+     40
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_header penci-header-builder main-builder-hea"
+   },
+   {
+    "tag": "a",
+    "text": "Contact Us",
+    "href": "https://blog.123greetings.com/contact-us/",
+    "onScreen": true,
+    "rect": [
+     1179,
+     22,
+     89,
+     40
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_header penci-header-builder main-builder-hea"
+   },
+   {
+    "tag": "a",
+    "text": "",
+    "href": "https://blog.123greetings.com/",
+    "onScreen": false,
+    "rect": [
+     -238,
+     31,
+     146,
+     23
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_off_canvas"
+   },
+   {
+    "tag": "a",
+    "text": "HOME",
+    "href": "https://blog.123greetings.com/",
+    "onScreen": false,
+    "rect": [
+     -310,
+     100,
+     290,
+     43
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_off_canvas"
+   },
+   {
+    "tag": "a",
+    "text": "ABOUT US",
+    "href": "https://blog.123greetings.com/about-us/",
+    "onScreen": false,
+    "rect": [
+     -310,
+     144,
+     290,
+     43
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_off_canvas"
+   },
+   {
+    "tag": "a",
+    "text": "WHAT TO WRITE IN A CARD",
+    "href": "https://blog.123greetings.com/what-to-write-in-a-card/",
+    "onScreen": false,
+    "rect": [
+     -310,
+     188,
+     290,
+     43
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_off_canvas"
+   },
+   {
+    "tag": "a",
+    "text": "CONTACT US",
+    "href": "https://blog.123greetings.com/contact-us/",
+    "onScreen": false,
+    "rect": [
+     -310,
+     232,
+     290,
+     43
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "penci_off_canvas"
+   },
+   {
+    "tag": "a",
+    "text": "123Greetings",
+    "href": "https://www.123greetings.com/",
+    "onScreen": true,
+    "rect": [
+     111,
+     205,
+     91,
+     17
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "elementor elementor-7608"
+   },
+   {
+    "tag": "a",
+    "text": "Read More",
+    "href": "#",
+    "onScreen": true,
+    "rect": [
+     93,
+     276,
+     78,
+     23
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "elementor elementor-7608"
+   },
+   {
+    "tag": "input",
+    "text": "search",
+    "href": null,
+    "onScreen": true,
+    "rect": [
+     151,
+     336,
+     532,
+     24
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "elementor elementor-7608"
+   },
+   {
+    "tag": "a",
+    "text": "Halloween",
+    "href": "https://blog.123greetings.com/halloween-messages/",
+    "onScreen": true,
+    "rect": [
+     93,
+     433,
+     74,
+     19
+    ],
+    "outline": "none 0px",
+    "shadow": false,
+    "ctx": "elementor elementor-7608"
+   }
+  ]
+ },
+ "initialiseRepro": {
+  "pageErrors": [],
+  "banner": 0,
+  "http": []
+ },
+ "loads": 3
+}

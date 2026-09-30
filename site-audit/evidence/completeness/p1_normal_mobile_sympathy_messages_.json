@@ -1,0 +1,155 @@
+{
+ "path": "/sympathy-messages/",
+ "mode": "normal",
+ "vp": "mobile",
+ "tLoaded": 24176,
+ "nRequests": 88,
+ "hosts": {
+  "blog.123greetings.com": {
+   "n": 65,
+   "first": 146
+  },
+  "fonts-api.wp.com": {
+   "n": 3,
+   "first": 2715
+  },
+  "www.google.com": {
+   "n": 6,
+   "first": 2879
+  },
+  "www.googletagmanager.com": {
+   "n": 1,
+   "first": 3082
+  },
+  "s0.wp.com": {
+   "n": 1,
+   "first": 3134
+  },
+  "stats.wp.com": {
+   "n": 1,
+   "first": 3150
+  },
+  "fonts.wp.com": {
+   "n": 2,
+   "first": 3214
+  },
+  "www.gstatic.com": {
+   "n": 5,
+   "first": 3255
+  },
+  "www.google-analytics.com": {
+   "n": 2,
+   "first": 3391
+  },
+  "pixel.wp.com": {
+   "n": 1,
+   "first": 3584
+  },
+  "fonts.gstatic.com": {
+   "n": 1,
+   "first": 4144
+  }
+ },
+ "cookies": [
+  {
+   "name": "_GRECAPTCHA",
+   "domain": "www.google.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_ga",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_ga_R56NTBBBCB",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  }
+ ],
+ "info": {
+  "cmp": {
+   "tcfapi": "undefined",
+   "gpp": "undefined",
+   "uspapi": "undefined",
+   "googlefc": "undefined",
+   "gtag": "function"
+  },
+  "dataLayer": [
+   "[\"js\",\"2026-09-30T13:35:23.195Z\"]",
+   "[\"config\",\"G-R56NTBBBCB\"]",
+   "[]",
+   "[]",
+   "[]"
+  ],
+  "ls": {
+   "_grecaptcha": "09AKhCRwjM79T7a4bpnefPGIPdbe0g6h-1njoWYSmh21lOxj18zjOMA4iOa2e6OU9GZKDQL0CwITFU0l",
+   "_wpfuj": "{\"1790775323\":\"https%3A%2F%2Fblog.123greetings.com%2Fsympathy-messages%2F%7C%23%"
+  },
+  "banner": {
+   "visible": true,
+   "text": "We use cookies to make your experience sweeter! By using our site, you agree to our Cookie Policy. Accept x",
+   "buttons": [
+    "Cookie Policy.",
+    "Accept",
+    "x"
+   ]
+  },
+  "slots": [],
+  "adEls": [],
+  "docH": 848,
+  "cta": {
+   "href": "https://www.123greetings.com/cookie_policy.html",
+   "text": "Cookie Policy.",
+   "target": "_blank"
+  }
+ },
+ "ga": [
+  {
+   "t": 3391,
+   "tid": "G-R56NTBBBCB",
+   "en": "page_view",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/sympathy-messages/",
+   "ep": [],
+   "body": ""
+  },
+  {
+   "t": 8407,
+   "tid": "G-R56NTBBBCB",
+   "en": "scroll",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/sympathy-messages/",
+   "ep": [
+    [
+     "epn.percent_scrolled",
+     "90"
+    ]
+   ],
+   "body": ""
+  }
+ ],
+ "gam": [],
+ "clickTest": {
+  "before": "https://www.123greetings.com/cookie_policy.html",
+  "hrefAfterMousedown": "https://www.123greetings.com/cookie_policy.html",
+  "requestsAfterClick": []
+ },
+ "stats": {
+  "cached": 64,
+  "fetched": 0,
+  "r429": 0,
+  "f429": 0
+ },
+ "loads": 1
+}

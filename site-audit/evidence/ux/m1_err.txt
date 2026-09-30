@@ -1,0 +1,10 @@
+done home 200 
+done birthdayHub 200 
+done fathersDay 200 
+done mom 200 
+done halloween 200 
+done whatToWrite 200 
+done post 200 
+done contact 200 
+done notFound 404 
+done upcoming 200 

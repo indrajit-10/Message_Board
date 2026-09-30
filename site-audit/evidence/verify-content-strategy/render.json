@@ -1,0 +1,68 @@
+{
+ "wife": {
+  "status": 200,
+  "before": 4,
+  "after": 4,
+  "quoted": 4,
+  "bylineCandidates": {
+   "andrea": false,
+   "updated": false,
+   "year": []
+  },
+  "loadMore": []
+ },
+ "home": {
+  "status": 200,
+  "trending": [
+   "LI:Trending today:",
+   "SPAN:Trending today:",
+   "B:Trending today:"
+  ],
+  "trendBlock": {
+   "text": "Trending today:\nHalloween\nAnniversary\nBirthday\nSummer\nSympathy",
+   "links": [
+    "Halloween -> https://blog.123greetings.com/halloween-messages/",
+    "Anniversary -> https://blog.123greetings.com/anniversary-messages/",
+    "Birthday -> https://blog.123greetings.com/birthday-messages/",
+    "Summer -> https://blog.123greetings.com/summer-messages/",
+    "Sympathy -> https://blog.123greetings.com/sympathy-condolences-messages/"
+   ]
+  }
+ },
+ "upcoming": {
+  "status": 200,
+  "mainText": "",
+  "bodyLen": 367,
+  "iframes": [
+   "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&co=aHR0cHM6Ly9ibG9nLjEyM2dyZWV0aW5ncy5jb206NDQz&hl=en&v=kemdRjWFxNjgsGdhRslyEPwU&size=invisible&anchor-ms=20000&execute-ms=30000&cb=xwmnctiwq4dl",
+   ""
+  ]
+ },
+ "insp": {
+  "status": 200,
+  "meta": []
+ },
+ "wtw": {
+  "status": 200,
+  "activeTab": [
+   "September"
+  ]
+ },
+ "archive": {
+  "status": 200,
+  "posts": [
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob"
+  ],
+  "loadMore": [
+   "LOAD MORE POSTS #"
+  ]
+ }
+}

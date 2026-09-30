@@ -1,0 +1,62 @@
+{
+ "twoH1": {
+  "log": {
+   "path": "/19th-may-your-week-with-bob/",
+   "pageErrors": [],
+   "http": [
+    "429 https://blog.123greetings.com/19th-may-your-week-with-bob/?relatedposts=1"
+   ],
+   "status": 200,
+   "xcache": "3.dca _atomic_dca MISS"
+  },
+  "axH1": [
+   "19th May: Your Week With Bob",
+   "Congratulations Princess Marcus"
+  ],
+  "domH1": [
+   {
+    "text": "19th May: Your Week With Bob",
+    "vis": true,
+    "cls": "post-title single-post-title entry-title",
+    "inEntry": false
+   },
+   {
+    "text": "Congratulations Princess Marcus",
+    "vis": true,
+    "cls": "",
+    "inEntry": true
+   }
+  ]
+ },
+ "fathers": {
+  "log": {
+   "path": "/fathers-day-messages/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200,
+   "xcache": "5.dca _atomic_dca STALE"
+  },
+  "arrowLinks": [
+   "arrow For Your Father",
+   "arrow For Your Stepfather",
+   "arrow For your Mentor",
+   "arrow For your Uncle",
+   "arrow For your Father-in-Law",
+   "arrow For a Single Mother",
+   "arrow For your Godfather",
+   "arrow From Daughters",
+   "arrow From Sons",
+   "arrow From Children",
+   "arrow For your Husband",
+   "arrow For your Grandfather",
+   "arrow Funny Wishes",
+   "arrow For Someone Missing Their Dad",
+   "arrow For your Dad in Heaven",
+   "arrow Formal Wishes"
+  ],
+  "imgs": {
+   "total": 16,
+   "visible": 16
+  }
+ }
+}

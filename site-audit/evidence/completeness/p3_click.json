@@ -1,0 +1,37 @@
+{
+ "PATH": "/summer-messages/",
+ "cta": {
+  "href": "https://www.123greetings.com/events/summer/",
+  "text": "summer",
+  "target": "_blank"
+ },
+ "clicked": 1,
+ "popup": "chrome-error://chromewebdata/",
+ "before": [
+  {
+   "t": 1240,
+   "en": [
+    "page_view"
+   ],
+   "ep": [],
+   "post": ""
+  }
+ ],
+ "after": [
+  {
+   "t": 19117,
+   "en": [
+    "scroll",
+    "click"
+   ],
+   "ep": [],
+   "post": "en=scroll&epn.percent_scrolled=90&_et=12868\r\nen=click&ep.link_id=&ep.link_classes=&ep.link_url=https%3A%2F%2Fwww.123greetings.com%2Fevents%2Fsummer%2F&ep.link_domain=123greetings.com&ep.outbound=true&_et=847"
+  }
+ ],
+ "stats": {
+  "cached": 73,
+  "fetched": 0,
+  "r429": 0,
+  "f429": 0
+ }
+}

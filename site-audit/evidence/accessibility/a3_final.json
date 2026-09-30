@@ -1,0 +1,113 @@
+{
+ "closeX": {
+  "log": {
+   "path": "/tag/alps/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "initial": "visible",
+  "afterSpaceOnX": "visible",
+  "afterEnterOnX": "hidden",
+  "focusAfter": "body.archive.tag.tag-alps"
+ },
+ "accept": {
+  "log": {
+   "path": "/birthday-messages/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "initial": "visible",
+  "tr": [
+   {
+    "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+    "pos": "fixed",
+    "z": "2147483647",
+    "pe": "auto",
+    "vis": "hidden",
+    "op": "1",
+    "bg": "rgba(0, 0, 0, 0.9)",
+    "rect": [
+     0,
+     0,
+     1366,
+     900
+    ],
+    "ariaHidden": null,
+    "role": null,
+    "children": 1,
+    "html": "<div id=\"TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47\" tr-id=\"TR-7a488297-83fe-11f1-8ca4-ad80c4d99cbe\" style=\"display: flex; margin: 0px auto; overflow: unset; height: 100%; width: 100%; position: fixed; background: rgba(0, 0, 0, 0.9); top: 0px; left: 0px; z-index: 2147483647; justify-content: center; align-items: center; visibility: hidden;\"><div class=\"del-TR-7a488297-83fe-11f1-8ca4-ad80c4d99cbe\" sty",
+    "focusables": 1
+   }
+  ],
+  "hitTest": [
+   "div.elementor-element.elementor-element-9e1adb4.msgCards",
+   "a",
+   "h2.inner-arrow"
+  ],
+  "afterSpaceOnAccept": "visible",
+  "afterEnterOnAccept": "hidden",
+  "focusAfter": "body.wp-singular.page-template.page-template-page-fullwidth"
+ },
+ "reflowMom": {
+  "log": {
+   "path": "/birthday-messages-for-mom/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "nOff": 0,
+   "off": [],
+   "title": "115+ Birthday Messages for Mom — Heartfelt, Funny & Sweet"
+  }
+ },
+ "twoH1": {
+  "log": {
+   "path": "/19th-may-your-week-with-bob/",
+   "pageErrors": [],
+   "http": [
+    "429 https://blog.123greetings.com/19th-may-your-week-with-bob/"
+   ],
+   "status": 429
+  },
+  "h1": [
+   "Whoops!"
+  ]
+ },
+ "loadMore": {
+  "log": {
+   "path": "/archive/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "before": {
+   "el": "div.penci-pagination.penci-ajax-more.penci-ajax-home",
+   "tag": "DIV",
+   "href": null,
+   "role": null,
+   "tabIndex": -1,
+   "text": "LOAD MORE POSTS",
+   "rect": [
+    113,
+    2004,
+    1140,
+    41
+   ],
+   "posts": 9,
+   "live": [
+    "div.cc-window.cc-floating.cc-type-info"
+   ]
+  },
+  "focusable": false,
+  "after": {
+   "posts": 9,
+   "focus": "body.wp-singular.page-template.page-template-page-fullwidth",
+   "url": "https://blog.123greetings.com/archive/"
+  }
+ }
+}

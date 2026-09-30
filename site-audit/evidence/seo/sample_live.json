@@ -1,0 +1,1410 @@
+{
+ "/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization"
+  ],
+  "bad_props": [],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion."
+  ],
+  "authors": [],
+  "theme_desc": null,
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/2026/05/Happy_faces.webp"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/"
+  ],
+  "h1": [
+   "The message you write on a card is often the icing on the ca"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-09-30T07:05:27+00:00"
+  ]
+ },
+ "/birthday-messages/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Birthdays For Her For Him For Anyone By Milestone Zodiac Birthday Bela",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Birthdays For Her For Him For Anyone By Milestone Zodiac Birthday Belated Birthday Birthday messages, wishes &",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-05-15T11:36:31+05:30",
+   "2026-07-07T15:55:22+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/elementor/thumbs/arrow-rm9xyqqs6f0h111j0ry2vfvif7n1swqtzuohoasof4.png"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/birthday-messages/"
+  ],
+  "h1": [
+   "Birthday messages, wishes & card ideas"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-07-07T10:25:22+00:00"
+  ]
+ },
+ "/what-to-write-in-a-card/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Every relationship is worthy of a special message We&#8217;ll help you",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Every relationship is worthy of a special message We&#8217;ll help you find the perfect emotion. Thousands of ",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-06-18T11:07:25+05:30",
+   "2026-09-30T11:50:48+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "1 minute"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/what-to-write-in-a-card/"
+  ],
+  "h1": [
+   "Every relationship is worthy of a special message"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-09-30T06:20:48+00:00"
+  ]
+ },
+ "/anniversary-messages/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Anniversary For Her For Him To a Couple By Milestone Work Anniversary ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Anniversary For Her For Him To a Couple By Milestone Work Anniversary Belated Anniversary Special Anniversarie",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-05-20T15:51:49+05:30",
+   "2026-09-01T16:14:36+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/elementor/thumbs/arrow-rm9xyqqs6f0h111j0ry2vfvif7n1swqtzuohoasof4.png"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/anniversary-messages/"
+  ],
+  "h1": [
+   "Anniversary messages, wishes & card ideas"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-09-01T10:44:36+00:00"
+  ]
+ },
+ "/about-us/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: About Us Every feeling has a card. Every message has a heart. Your mes",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "About Us Every feeling has a card. Every message has a heart. Your message is as important as the card&hellip;",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2025-11-25T14:30:03+05:30",
+   "2026-06-04T16:09:20+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/2026/04/Blog-About.webp"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/about-us/"
+  ],
+  "h1": [
+   "About Us"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-06-04T10:39:20+00:00"
+  ]
+ },
+ "/contact-us/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Contact Us Want us to cover something? We know that searching for the ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Contact Us Want us to cover something? We know that searching for the right message isn&#8217;t always as easy",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2025-11-25T14:30:14+05:30",
+   "2026-06-03T15:47:34+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "1 minute"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/2026/04/email-2.png"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/contact-us/"
+  ],
+  "h1": [
+   "Contact Us"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-06-03T10:17:34+00:00"
+  ]
+ },
+ "/birthday-messages-for-mom/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Emotions For Mom Birthday messages, for Mom \u201c\u201d For Mom \u201c\u201d Birthday mes",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Emotions For Mom Birthday messages, for Mom \u201c\u201d For Mom \u201c\u201d Birthday messages for Mom \u201cHappy birthday to the wom",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-05-18T13:39:51+05:30",
+   "2026-09-08T18:46:21+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/elementor/thumbs/arrow-rm9xyqqs6f0h111j0ry2vfvif7n1swqtzuohoasof4.png"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/birthday-messages-for-mom/"
+  ],
+  "h1": [
+   "Birthday messages, for Mom",
+   "Birthday messages for Mom"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-09-08T13:16:21+00:00"
+  ]
+ },
+ "/national-best-friends-day-messages/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Emotions National Best Friends Day National Best Friends Day Messages ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Emotions National Best Friends Day National Best Friends Day Messages \u201c\u201d National Best Friends Day \u201c\u201d National",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-06-02T12:59:24+05:30",
+   "2026-06-02T17:20:30+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "8 minutes"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/elementor/thumbs/arrow-rm9xyqqs6f0h111j0ry2vfvif7n1swqtzuohoasof4.png"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/national-best-friends-day-messages/"
+  ],
+  "h1": [
+   "National Best Friends Day Messages",
+   "National Best Friends Day Messages"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-06-02T11:50:30+00:00"
+  ]
+ },
+ "/anniversary-messages-for-brother/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Emotions for Brother Anniversary messages, for Brother \u201c\u201d for Brother ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Emotions for Brother Anniversary messages, for Brother \u201c\u201d for Brother \u201c\u201d Anniversary messages for Brother \u201cHer",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-05-20T17:25:55+05:30",
+   "2026-06-17T17:19:56+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "1 minute"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/elementor/thumbs/arrow-rm9xyqqs6f0h111j0ry2vfvif7n1swqtzuohoasof4.png"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/anniversary-messages-for-brother/"
+  ],
+  "h1": [
+   "Anniversary messages, for Brother",
+   "Anniversary messages for Brother"
+  ],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-06-17T11:49:56+00:00"
+  ]
+ },
+ "/archive/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Our Archive Maria Has Two Kids Who Love Her Differently. She&#8217;s N",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Our Archive Maria Has Two Kids Who Love Her Differently. She&#8217;s Never Told Either One Which Way She Prefe",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-04-13T13:10:52+05:30",
+   "2026-04-28T15:35:10+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/archive/"
+  ],
+  "h1": [
+   "Our \tArchive"
+  ],
+  "bg_featured": false,
+  "byline": [
+   "by Bob",
+   "by Bob"
+  ],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-04-28T10:05:10+00:00"
+  ]
+ },
+ "/upcoming-events/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme WebPage"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: Upcoming Events - 123Greetings Blog - Free eCards, Card Message Ideas ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "WebPage",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Upcoming Events",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2026-06-19T11:07:51+05:30",
+   "2026-06-19T11:07:51+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/upcoming-events/"
+  ],
+  "h1": [],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": []
+ },
+ "/mothers-day-messages-for-mom-what-to-write-when-she-saved-it-all/": {
+  "status": 200,
+  "blocks": [
+   "yoast Article,WebPage,ImageObject,BreadcrumbList,WebSite,Person",
+   "theme organization",
+   "theme WebSite",
+   "theme BlogPosting"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Bob"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: Mother\u2019s Day Messages for Mom: What to Write When She Saved It All - 1",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "Article",
+    "Bob",
+    null
+   ],
+   [
+    "BlogPosting",
+    "Bob",
+    "https://blog.123greetings.com/author/iblog123greetingsgmail-com/"
+   ]
+  ],
+  "theme_desc": "I borrowed socks from my mom\u2019s drawer. Found a velvet pouch with every tooth I ever lost as a kid. She\u2019s still",
+  "theme_image": "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/04/May-1st.webp?fit=1500%2C844&ssl=1",
+  "theme_dates": [
+   "2026-05-01T15:30:15+05:30",
+   "2026-04-30T12:43:06+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Bob",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "7 minutes"
+  },
+  "og_image": [
+   "https://blog.123greetings.com/wp-content/uploads/2026/04/May-1st.webp"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/mothers-day-messages-for-mom-what-to-write-when-she-saved-it-all/"
+  ],
+  "h1": [
+   "Mother\u2019s Day Messages for Mom: What to Write When She Saved "
+  ],
+  "bg_featured": true,
+  "byline": [
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/five-minutes-with-bob-27th-july/": {
+  "status": 200,
+  "blocks": [
+   "yoast Article,WebPage,ImageObject,BreadcrumbList,WebSite,Person",
+   "theme organization",
+   "theme WebSite",
+   "theme BlogPosting"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Bob"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "Article",
+    "Bob",
+    null
+   ],
+   [
+    "BlogPosting",
+    "Bob",
+    "https://blog.123greetings.com/author/iblog123greetingsgmail-com/"
+   ]
+  ],
+  "theme_desc": "Today, I finally stopped postponing something I had been meaning to do for months.",
+  "theme_image": "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_27th_july_Blog.webp?fit=1200%2C574&ssl=1",
+  "theme_dates": [
+   "2026-07-27T18:30:04+05:30",
+   "2026-07-27T17:05:50+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Bob",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "2 minutes"
+  },
+  "og_image": [
+   "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_27th_july_Blog.webp?fit=1200%2C574&ssl=1"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/five-minutes-with-bob-27th-july/"
+  ],
+  "h1": [
+   "Five Minutes With Bob"
+  ],
+  "bg_featured": true,
+  "byline": [
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/wake-up-with-bob-17th-july/": {
+  "status": 200,
+  "blocks": [
+   "yoast Article,WebPage,ImageObject,BreadcrumbList,WebSite,Person",
+   "theme organization",
+   "theme WebSite",
+   "theme BlogPosting"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Bob"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "Article",
+    "Bob",
+    null
+   ],
+   [
+    "BlogPosting",
+    "Bob",
+    "https://blog.123greetings.com/author/iblog123greetingsgmail-com/"
+   ]
+  ],
+  "theme_desc": "Today I woke up feeling incredibly grateful to be human. \ud83d\udc99\r\nThat feeling came after reading an article during ",
+  "theme_image": "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_17th_july.webp?fit=1200%2C574&ssl=1",
+  "theme_dates": [
+   "2026-07-17T18:30:46+05:30",
+   "2026-07-17T18:10:54+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Bob",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "3 minutes"
+  },
+  "og_image": [
+   "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_17th_july.webp?fit=1200%2C574&ssl=1"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/wake-up-with-bob-17th-july/"
+  ],
+  "h1": [
+   "Wake Up With Bob"
+  ],
+  "bg_featured": true,
+  "byline": [
+   "by Bob",
+   "Karuna"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/13th-july-your-weekly-bobcast/": {
+  "status": 200,
+  "blocks": [
+   "yoast Article,WebPage,ImageObject,BreadcrumbList,WebSite,Person",
+   "theme organization",
+   "theme WebSite",
+   "theme BlogPosting"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Bob"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: 13th JULY: Your Weekly Bobcast! - 123Greetings Blog - Free eCards, Car",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "Article",
+    "Bob",
+    null
+   ],
+   [
+    "BlogPosting",
+    "Bob",
+    "https://blog.123greetings.com/author/iblog123greetingsgmail-com/"
+   ]
+  ],
+  "theme_desc": "This morning, my still half-asleep girlfriend looked me dead in the eye and asked, \"Where's my phone?\"",
+  "theme_image": "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_13th_July_Blog.webp?fit=1200%2C574&ssl=1",
+  "theme_dates": [
+   "2026-07-12T15:30:18+05:30",
+   "2026-07-11T18:16:46+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Bob",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "4 minutes"
+  },
+  "og_image": [
+   "https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_13th_July_Blog.webp?fit=1200%2C574&ssl=1"
+  ],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/13th-july-your-weekly-bobcast/"
+  ],
+  "h1": [
+   "13th JULY: Your Weekly Bobcast!"
+  ],
+  "bg_featured": true,
+  "byline": [
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/tag/bob/": {
+  "status": 200,
+  "blocks": [
+   "yoast CollectionPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization"
+  ],
+  "bad_props": [],
+  "entities": [
+   "name: Bob Archives - 123Greetings Blog - Free eCards, Card Message Ideas &am",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion."
+  ],
+  "authors": [],
+  "theme_desc": null,
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [
+   [
+    [
+     "next"
+    ],
+    "https://blog.123greetings.com/tag/bob/page/2/"
+   ]
+  ],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/tag/bob/"
+  ],
+  "h1": [
+   "Bob"
+  ],
+  "bg_featured": false,
+  "byline": [
+   "by Bob",
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/tag/bob/page/2/": {
+  "status": 200,
+  "blocks": [
+   "yoast CollectionPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization"
+  ],
+  "bad_props": [],
+  "entities": [
+   "name: Bob Archives - Page 2 of 5 - 123Greetings Blog - Free eCards, Card Mes",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion."
+  ],
+  "authors": [],
+  "theme_desc": null,
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [
+   [
+    [
+     "prev"
+    ],
+    "https://blog.123greetings.com/tag/bob/"
+   ],
+   [
+    [
+     "next"
+    ],
+    "https://blog.123greetings.com/tag/bob/page/3/"
+   ]
+  ],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/tag/bob/page/2/"
+  ],
+  "h1": [
+   "Bob"
+  ],
+  "bg_featured": false,
+  "byline": [
+   "by Bob",
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/tag/alps/": {
+  "status": 200,
+  "blocks": [
+   "yoast CollectionPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization"
+  ],
+  "bad_props": [],
+  "entities": [
+   "name: Alps Archives - 123Greetings Blog - Free eCards, Card Message Ideas &a",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion."
+  ],
+  "authors": [],
+  "theme_desc": null,
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/tag/alps/"
+  ],
+  "h1": [
+   "Alps"
+  ],
+  "bg_featured": false,
+  "byline": [
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/category/123greetings/": {
+  "status": 200,
+  "blocks": [
+   "yoast CollectionPage,ImageObject,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization"
+  ],
+  "bad_props": [],
+  "entities": [
+   "name: 123greetings Archives - 123Greetings Blog - Free eCards, Card Message ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion."
+  ],
+  "authors": [],
+  "theme_desc": null,
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [
+   [
+    [
+     "next"
+    ],
+    "https://blog.123greetings.com/category/123greetings/page/2/"
+   ]
+  ],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/category/123greetings/"
+  ],
+  "h1": [
+   "123greetings"
+  ],
+  "bg_featured": false,
+  "byline": [
+   "by Bob",
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/author/iblog123greetingsgmail-com/": {
+  "status": 200,
+  "blocks": [
+   "yoast ProfilePage,ImageObject,BreadcrumbList,WebSite,Person",
+   "theme organization",
+   "theme WebSite"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization"
+  ],
+  "bad_props": [],
+  "entities": [
+   "name: Bob, Author at 123Greetings Blog - Free eCards, Card Message Ideas &am",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion."
+  ],
+  "authors": [],
+  "theme_desc": null,
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [
+   "https://secure.gravatar.com/avatar/7dc5101ac210bbf3844f55d033bd58844672b6a0f0cdcf6c07eefd226c09e8ed?s=500&d=identicon&r=g"
+  ],
+  "hreflang": [],
+  "next_prev": [
+   [
+    [
+     "next"
+    ],
+    "https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/2/"
+   ]
+  ],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/author/iblog123greetingsgmail-com/"
+  ],
+  "h1": [
+   "Bob"
+  ],
+  "bg_featured": false,
+  "byline": [
+   "Home About Us What to write in a card Co",
+   "by Bob"
+  ],
+  "visible_breadcrumb": true,
+  "modified_meta": []
+ },
+ "/penci-block/footer/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme BlogPosting"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: Footer - 123Greetings Blog - Free eCards, Card Message Ideas &amp; Wha",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: Copyright \u00a9 123Greetings.com, Inc. All rights reserved. Terms of Use P",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "BlogPosting",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "Copyright \u00a9 123Greetings.com, Inc. All rights reserved. Terms of Use Privacy Policy Cookie Policy Copyright Po",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2022-07-26T13:16:36+05:30",
+   "2026-04-09T12:14:01+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/penci-block/footer/"
+  ],
+  "h1": [],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2026-04-09T06:44:01+00:00"
+  ]
+ },
+ "/penci-block/mega-menu/": {
+  "status": 200,
+  "blocks": [
+   "yoast WebPage,BreadcrumbList,WebSite",
+   "theme organization",
+   "theme WebSite",
+   "theme BlogPosting"
+  ],
+  "invalid_types": [
+   "organization"
+  ],
+  "relative_ids": [
+   "#organization",
+   "#person-Andreagomes"
+  ],
+  "bad_props": [
+   "datemodified"
+  ],
+  "entities": [
+   "name: Mega Menu - 123Greetings Blog - Free eCards, Card Message Ideas &amp; ",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "description: Card Messages &amp; Wishes for Every Occasion.",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ",
+   "alternateName: Card Messages &amp; Wishes for Every Occasion.",
+   "description: How To Cook And Bake With Kitchen Scraps July 25, 2022 11 Ways to Upcy",
+   "name: 123Greetings Blog - Free eCards, Card Message Ideas &amp; What to Writ"
+  ],
+  "authors": [
+   [
+    "BlogPosting",
+    "Andrea gomes",
+    "https://blog.123greetings.com/author/blog123greetings/"
+   ]
+  ],
+  "theme_desc": "How To Cook And Bake With Kitchen Scraps July 25, 2022 11 Ways to Upcycle Food Scraps In Your Own&hellip;",
+  "theme_image": "https://blog.123greetings.com/wp-content/themes/soledad/images/no-image.jpg",
+  "theme_dates": [
+   "2022-07-27T13:18:22+05:30",
+   "2025-10-06T11:55:46+05:30"
+  ],
+  "twitter": {
+   "twitter:card": "summary_large_image"
+  },
+  "og_image": [],
+  "hreflang": [],
+  "next_prev": [],
+  "robots": [
+   "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+  ],
+  "canonical": [
+   "https://blog.123greetings.com/penci-block/mega-menu/"
+  ],
+  "h1": [],
+  "bg_featured": false,
+  "byline": [],
+  "visible_breadcrumb": false,
+  "modified_meta": [
+   "2025-10-06T06:25:46+00:00"
+  ]
+ }
+}

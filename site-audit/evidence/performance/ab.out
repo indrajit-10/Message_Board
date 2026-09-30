@@ -1,0 +1,11 @@
+mobile_base /mothers-day-messages/ pm={"Nodes":2021,"LayoutCount":34,"RecalcStyleCount":114,"LayoutDuration":222,"RecalcStyleDuration":206,"DevToolsCommandDuration":13,"ScriptDuration":4002,"V8CompileDuration":12,"TaskDuration":7181,"TaskOtherDuration":2727,"JSHeapUsedSize":25657716} status=200 load=8412ms ttfb=561 fcp=1564 lcp=2024 cls=0.027 longtasks=16 tbt~2142 reqs=125 bytes=4353KiB dom=773 depth=17
+mobile_base / pm={"Nodes":1404,"LayoutCount":27,"RecalcStyleCount":59,"LayoutDuration":354,"RecalcStyleDuration":319,"DevToolsCommandDuration":11,"ScriptDuration":2046,"V8CompileDuration":16,"TaskDuration":4388,"TaskOtherDuration":1642,"JSHeapUsedSize":14966428} status=200 load=6544ms ttfb=176 fcp=1172 lcp=1604 cls=0.000 longtasks=17 tbt~1243 reqs=109 bytes=4253KiB dom=600 depth=25
+asset cache stats {"cached":139,"fetched":1,"n429":0,"blocked":0}
+wrote agent-work/performance/pw_mobile_base.json
+mobile_norc /mothers-day-messages/ pm={"Nodes":2150,"LayoutCount":29,"RecalcStyleCount":105,"LayoutDuration":263,"RecalcStyleDuration":248,"DevToolsCommandDuration":23,"ScriptDuration":3189,"V8CompileDuration":35,"TaskDuration":6213,"TaskOtherDuration":2454,"JSHeapUsedSize":17386376} status=200 load=8315ms ttfb=256 fcp=1204 lcp=1396 cls=0.042 longtasks=13 tbt~1645 reqs=126 bytes=4223KiB dom=763 depth=17
+mobile_norc / pm={"Nodes":2008,"LayoutCount":24,"RecalcStyleCount":48,"LayoutDuration":302,"RecalcStyleDuration":312,"DevToolsCommandDuration":24,"ScriptDuration":1020,"V8CompileDuration":15,"TaskDuration":2553,"TaskOtherDuration":881,"JSHeapUsedSize":9369296} status=200 load=4410ms ttfb=115 fcp=1912 lcp=1912 cls=0.000 longtasks=9 tbt~642 reqs=107 bytes=3875KiB dom=591 depth=25
+asset cache stats {"cached":132,"fetched":1,"n429":0,"blocked":13}
+wrote agent-work/performance/pw_mobile_norc.json
+mobile_noads /mothers-day-messages/ pm={"Nodes":1893,"LayoutCount":20,"RecalcStyleCount":79,"LayoutDuration":221,"RecalcStyleDuration":327,"DevToolsCommandDuration":13,"ScriptDuration":2952,"V8CompileDuration":21,"TaskDuration":5240,"TaskOtherDuration":1706,"JSHeapUsedSize":12999992} status=200 load=5579ms ttfb=429 fcp=1452 lcp=1452 cls=0.042 longtasks=16 tbt~1003 reqs=85 bytes=3899KiB dom=737 depth=17
+asset cache stats {"cached":67,"fetched":0,"n429":0,"blocked":1}
+wrote agent-work/performance/pw_mobile_noads.json

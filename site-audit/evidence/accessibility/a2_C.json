@@ -1,0 +1,340 @@
+{
+ "home": {
+  "log": {
+   "path": "/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "bodyScrollW": 320,
+   "innerH": 256,
+   "offenders": [],
+   "nOff": 0,
+   "cookie": [
+    0,
+    58,
+    320,
+    198
+   ],
+   "cookieCoverPct": 77,
+   "header": [
+    320,
+    66,
+    "static"
+   ]
+  },
+  "afterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "rect": [
+     0,
+     0,
+     320,
+     66
+    ]
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "rect": [
+     0,
+     58,
+     320,
+     198
+    ]
+   }
+  ]
+ },
+ "birthday": {
+  "log": {
+   "path": "/birthday-messages/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "bodyScrollW": 320,
+   "innerH": 256,
+   "offenders": [],
+   "nOff": 0,
+   "cookie": [
+    0,
+    58,
+    320,
+    198
+   ],
+   "cookieCoverPct": 77,
+   "header": [
+    320,
+    66,
+    "static"
+   ]
+  },
+  "afterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "rect": [
+     0,
+     0,
+     320,
+     66
+    ]
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "rect": [
+     0,
+     58,
+     320,
+     198
+    ]
+   }
+  ]
+ },
+ "mom": {
+  "log": {
+   "path": "/birthday-messages-for-mom/",
+   "pageErrors": [],
+   "http": [
+    "429 https://blog.123greetings.com/birthday-messages-for-mom/"
+   ],
+   "status": 429
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 390,
+   "bodyScrollW": 390,
+   "innerH": 256,
+   "offenders": [
+    {
+     "el": "h1",
+     "left": 0,
+     "right": 390,
+     "w": 390,
+     "text": "Whoops!"
+    },
+    {
+     "el": "p.message",
+     "left": 20,
+     "right": 370,
+     "w": 350,
+     "text": "There was a small systems erro"
+    }
+   ],
+   "nOff": 2,
+   "cookie": null,
+   "cookieCoverPct": null,
+   "header": null
+  },
+  "afterScroll": []
+ },
+ "post": {
+  "log": {
+   "path": "/mothers-day-messages-for-wife-what-she-actually-wants/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "bodyScrollW": 320,
+   "innerH": 256,
+   "offenders": [
+    {
+     "el": "div.item-related.swiper-slide.swiper-slide-next",
+     "left": 310,
+     "right": 610,
+     "w": 300,
+     "text": "Five Minutes With Bob\nAugust 1"
+    }
+   ],
+   "nOff": 1,
+   "cookie": [
+    0,
+    58,
+    320,
+    198
+   ],
+   "cookieCoverPct": 77,
+   "header": [
+    320,
+    66,
+    "static"
+   ]
+  },
+  "afterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "rect": [
+     0,
+     0,
+     320,
+     66
+    ]
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "rect": [
+     0,
+     58,
+     320,
+     198
+    ]
+   }
+  ]
+ },
+ "contact": {
+  "log": {
+   "path": "/contact-us/",
+   "pageErrors": [
+    "Response"
+   ],
+   "http": [
+    "429 https://blog.123greetings.com/wp-json/contact-form-7/v1/contact-forms/1058/feedback/schema",
+    "429 https://blog.123greetings.com/wp-json/contact-form-7/v1/contact-forms/1058/refill"
+   ],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "bodyScrollW": 320,
+   "innerH": 256,
+   "offenders": [],
+   "nOff": 0,
+   "cookie": [
+    0,
+    58,
+    320,
+    198
+   ],
+   "cookieCoverPct": 77,
+   "header": [
+    320,
+    66,
+    "static"
+   ]
+  },
+  "afterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "rect": [
+     0,
+     0,
+     320,
+     66
+    ]
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "rect": [
+     0,
+     58,
+     320,
+     198
+    ]
+   }
+  ]
+ },
+ "tag": {
+  "log": {
+   "path": "/tag/alps/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "bodyScrollW": 320,
+   "innerH": 256,
+   "offenders": [],
+   "nOff": 0,
+   "cookie": [
+    0,
+    58,
+    320,
+    198
+   ],
+   "cookieCoverPct": 77,
+   "header": [
+    320,
+    66,
+    "static"
+   ]
+  },
+  "afterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "rect": [
+     0,
+     0,
+     320,
+     66
+    ]
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "rect": [
+     0,
+     58,
+     320,
+     198
+    ]
+   }
+  ]
+ },
+ "archive": {
+  "log": {
+   "path": "/archive/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200
+  },
+  "m": {
+   "vw": 320,
+   "scrollW": 320,
+   "bodyScrollW": 320,
+   "innerH": 256,
+   "offenders": [],
+   "nOff": 0,
+   "cookie": [
+    0,
+    58,
+    320,
+    198
+   ],
+   "cookieCoverPct": 77,
+   "header": [
+    320,
+    66,
+    "static"
+   ]
+  },
+  "afterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "rect": [
+     0,
+     0,
+     320,
+     66
+    ]
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "rect": [
+     0,
+     58,
+     320,
+     198
+    ]
+   }
+  ]
+ }
+}

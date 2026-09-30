@@ -1,0 +1,454 @@
+{
+ "path": "/birthday-messages-for-mom/",
+ "mode": "gpc",
+ "vp": "desktop",
+ "tLoaded": 23177,
+ "nRequests": 133,
+ "hosts": {
+  "blog.123greetings.com": {
+   "n": 67,
+   "first": 109
+  },
+  "fonts-api.wp.com": {
+   "n": 3,
+   "first": 678
+  },
+  "www.google.com": {
+   "n": 6,
+   "first": 866
+  },
+  "www.googletagmanager.com": {
+   "n": 1,
+   "first": 973
+  },
+  "1437953666.rsc.cdn77.org": {
+   "n": 1,
+   "first": 990
+  },
+  "s0.wp.com": {
+   "n": 1,
+   "first": 990
+  },
+  "stats.wp.com": {
+   "n": 1,
+   "first": 991
+  },
+  "fonts.wp.com": {
+   "n": 2,
+   "first": 1056
+  },
+  "www.gstatic.com": {
+   "n": 5,
+   "first": 1123
+  },
+  "www.google-analytics.com": {
+   "n": 2,
+   "first": 1212
+  },
+  "securepubads.g.doubleclick.net": {
+   "n": 4,
+   "first": 1354
+  },
+  "pixel.wp.com": {
+   "n": 1,
+   "first": 1354
+  },
+  "fundingchoicesmessages.google.com": {
+   "n": 15,
+   "first": 2202
+  },
+  "fonts.gstatic.com": {
+   "n": 1,
+   "first": 2301
+  },
+  "cm.g.doubleclick.net": {
+   "n": 1,
+   "first": 2537
+  },
+  "dmp.im-apps.net": {
+   "n": 1,
+   "first": 2578
+  },
+  "connectid.analytics.yahoo.com": {
+   "n": 1,
+   "first": 2581
+  },
+  "cdn.jsdelivr.net": {
+   "n": 1,
+   "first": 2581
+  },
+  "tags.crwdcntrl.net": {
+   "n": 1,
+   "first": 2581
+  },
+  "invstatic101.creativecdn.com": {
+   "n": 1,
+   "first": 2581
+  },
+  "cdn.id5-sync.com": {
+   "n": 1,
+   "first": 2581
+  },
+  "static.criteo.net": {
+   "n": 1,
+   "first": 2582
+  },
+  "f4949ddc7db4a393eceb548afc935811.safeframe.googlesyndication.com": {
+   "n": 1,
+   "first": 2629
+  },
+  "sync6.im-apps.net": {
+   "n": 1,
+   "first": 2986
+  },
+  "esp.rtbhouse.com": {
+   "n": 1,
+   "first": 3189
+  },
+  "bcp.crwdcntrl.net": {
+   "n": 1,
+   "first": 3197
+  },
+  "pagead2.googlesyndication.com": {
+   "n": 4,
+   "first": 3211
+  },
+  "id5-sync.com": {
+   "n": 1,
+   "first": 3267
+  },
+  "ep1.adtrafficquality.google": {
+   "n": 2,
+   "first": 3277
+  },
+  "ep2.adtrafficquality.google": {
+   "n": 3,
+   "first": 3822
+  },
+  "gum.criteo.com": {
+   "n": 1,
+   "first": 4264
+  }
+ },
+ "cookies": [
+  {
+   "name": "_GRECAPTCHA",
+   "domain": "www.google.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_ga",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_ga_R56NTBBBCB",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "test_cookie",
+   "domain": ".doubleclick.net",
+   "expiresDays": 0,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__gads",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__gpi",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__eoi",
+   "domain": ".123greetings.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_pubcid",
+   "domain": ".123greetings.com",
+   "expiresDays": 270,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_cc_dc",
+   "domain": ".crwdcntrl.net",
+   "expiresDays": 270,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_cc_id",
+   "domain": ".crwdcntrl.net",
+   "expiresDays": 270,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_cc_id",
+   "domain": ".123greetings.com",
+   "expiresDays": 270,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "panoramaId_expiry",
+   "domain": ".123greetings.com",
+   "expiresDays": 1,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "FCCDCF",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "uid",
+   "domain": ".criteo.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "FCNEC",
+   "domain": ".123greetings.com",
+   "expiresDays": 365,
+   "sameSite": "Lax",
+   "secure": false
+  }
+ ],
+ "info": {
+  "cmp": {
+   "tcfapi": "function",
+   "gpp": "function",
+   "uspapi": "function",
+   "googlefc": "object",
+   "gtag": "function"
+  },
+  "tcf": {
+   "gdprApplies": false,
+   "cmpLoaded": true,
+   "cmpStatus": "loaded",
+   "displayStatus": "disabled",
+   "apiVersion": "2.3",
+   "cmpVersion": 2,
+   "cmpId": 300,
+   "gvlVersion": 178,
+   "tcfPolicyVersion": 5
+  },
+  "usp": {
+   "d": {
+    "version": 1,
+    "uspString": "1---"
+   },
+   "ok": true
+  },
+  "gpp": {
+   "d": {
+    "gppVersion": "1.1",
+    "cmpStatus": "loaded",
+    "cmpDisplayStatus": "disabled",
+    "signalStatus": "ready",
+    "supportedAPIs": [
+     "7:usnat, 13:usfl"
+    ],
+    "cmpId": 300,
+    "sectionList": [],
+    "applicableSections": [
+     -1
+    ],
+    "gppString": "",
+    "parsedSections": {}
+   },
+   "ok": true
+  },
+  "dataLayer": [
+   "[\"js\",\"2026-09-30T13:20:34.664Z\"]",
+   "[\"config\",\"G-R56NTBBBCB\"]",
+   "[]",
+   "[]",
+   "[]"
+  ],
+  "ls": {
+   "truereachDebugMode": "false",
+   "_GESPSK-pubcid.org": "[\"pubcid.org\",null,1790774436207,null,null,null,null,null,null,[100]]",
+   "_GESPSK-crwdcntrl.net": "[\"crwdcntrl.net\",\"\",1790774437161]",
+   "panoramaId_expiry": "1790860837336",
+   "_GUSM": "[1790774436211,1790774436211,-1,1,-1,-1]",
+   "_GESPSK-id5-sync.com": "[\"id5-sync.com\",null,1790774437457,null,null,null,null,null,null,[106]]",
+   "_GESPSK-esp.criteo.com": "[\"esp.criteo.com\",null,1790774436208,null,null,null,null,null,null,[100]]",
+   "lastRenderedTime-TR-7a488297-83fe-11f1-8ca4-ad80c4d99cbe": "1790774435011",
+   "_cc_id": "5a3d528dcaf198e95668abc2d5a2c768",
+   "_grecaptcha": "09AKhCRwh9L4OSUmGrh3uSpyZSRUoHsowdUhc5Z4tLKMArr5Kiclw6bJ4NuYfV_RZxhAqFlcb936e06q",
+   "_pubcid": "532a0cbe-02c3-4aa3-80ff-e20ee7aac919",
+   "_GSD": "1",
+   "_GESPSK-intimatemerger.com": "[\"intimatemerger.com\",null,1790774436207,null,null,null,null,null,null,[100]]",
+   "_GESPSK-yahoo.com": "[\"yahoo.com\",null,1790774436898,null,null,null,null,null,null,[111]]",
+   "_wpfuj": "{\"1790774435\":\"https%3A%2F%2Fblog.123greetings.com%2Fbirthday-messages-for-mom%2",
+   "_cc_id_update_ts": "1790774437159",
+   "_GESPSK-rtbhouse": "[\"rtbhouse\",\"bN56hci4ozGGVBvkLTIS5dc5jPz3DFBbSibAuKv1JghulKLTyZLqdOZNjIu53zl98ZX",
+   "rtbhouse-esp": "01f1cb42-43a5-4510-a5a1-89cf5db4a6bb"
+  },
+  "gpcSeen": true,
+  "banner": {
+   "visible": true,
+   "text": "We use cookies to make your experience sweeter! By using our site, you agree to our Cookie Policy. Accept x",
+   "buttons": [
+    "Cookie Policy.",
+    "Accept",
+    "x"
+   ]
+  },
+  "slots": [
+   {
+    "path": "/22081762831,46400095/123greetings_int",
+    "div": "div-gpt-ad-1784526288594-0",
+    "sizes": [
+     "300x250",
+     "250x360",
+     "240x400",
+     "320x480",
+     "300x480",
+     "300x400",
+     "320x400",
+     "120x600",
+     "160x600",
+     "300x600"
+    ],
+    "rect": [
+     533,
+     325,
+     300,
+     250
+    ],
+    "filled": null,
+    "targeting": []
+   }
+  ],
+  "pubadsTargeting": [],
+  "adEls": [
+   {
+    "tag": "DIV",
+    "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+    "cls": "",
+    "rect": [
+     0,
+     0,
+     1366,
+     900
+    ],
+    "pos": "fixed",
+    "label": ""
+   },
+   {
+    "tag": "DIV",
+    "id": "div-gpt-ad-1784526288594-0",
+    "cls": "",
+    "rect": [
+     533,
+     325,
+     300,
+     250
+    ],
+    "pos": "static",
+    "label": ""
+   },
+   {
+    "tag": "DIV",
+    "id": "google_ads_iframe_/22081762831,46400095/123greetings_int_0__container__",
+    "cls": "",
+    "rect": [
+     533,
+     325,
+     300,
+     0
+    ],
+    "pos": "static",
+    "label": ""
+   }
+  ],
+  "docH": 900,
+  "cta": {
+   "href": "https://www.123greetings.com/cookie_policy.html",
+   "text": "Cookie Policy.",
+   "target": "_blank"
+  }
+ },
+ "ga": [
+  {
+   "t": 1212,
+   "tid": "G-R56NTBBBCB",
+   "en": "page_view",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "ep": [],
+   "body": ""
+  },
+  {
+   "t": 6226,
+   "tid": "G-R56NTBBBCB",
+   "en": "scroll",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "ep": [
+    [
+     "epn.percent_scrolled",
+     "90"
+    ]
+   ],
+   "body": ""
+  }
+ ],
+ "gam": [
+  {
+   "t": 2592,
+   "iu": "22081762831:46400095,123greetings_int",
+   "enc": "/0/1",
+   "sz": "300x250|250x360|240x400|320x480|300x480|300x400|320x400|120x600|160x600|300x600",
+   "npa": null,
+   "gdpr": "0",
+   "us_privacy": "1---",
+   "gpp": null,
+   "gpc": null,
+   "rdp": null,
+   "ltd": null,
+   "cookie_enabled": "1"
+  }
+ ],
+ "clickTest": {
+  "before": "https://www.123greetings.com/cookie_policy.html",
+  "hrefAfterMousedown": "https://www.123greetings.com/cookie_policy.html",
+  "requestsAfterClick": []
+ },
+ "stats": {
+  "cached": 66,
+  "fetched": 0,
+  "r429": 0,
+  "f429": 0
+ },
+ "loads": 1
+}

@@ -1,0 +1,66 @@
+{
+ "clean": {
+  "status": 200,
+  "http": [],
+  "pageErrors": [],
+  "console": [],
+  "cls": {
+   "value": 0.0033603712312139794,
+   "entries": [
+    {
+     "t": 1473,
+     "v": 0.0001,
+     "src": [
+      "li.elementor-icon-list-item.elementor-inline-item",
+      "li.elementor-icon-list-item.elementor-inline-item",
+      "li.elementor-icon-list-item.elementor-inline-item",
+      "li.elementor-icon-list-item.elementor-inline-item",
+      "li.elementor-icon-list-item.elementor-inline-item"
+     ]
+    },
+    {
+     "t": 1685,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 1860,
+     "v": 0.0008,
+     "src": [
+      "div.elementor-element.elementor-element-79fe427.e-grid"
+     ]
+    },
+    {
+     "t": 2124,
+     "v": 0.0018,
+     "src": [
+      "div.elementor-element.elementor-element-d6464cc.elementor-icon-list--layout-inline"
+     ]
+    }
+   ]
+  },
+  "cc": "object",
+  "banner": true
+ },
+ "simulated": {
+  "status": 200,
+  "pageErrors": [
+   {
+    "msg": "Cannot read properties of undefined (reading 'initialise')",
+    "stack": "TypeError: Cannot read properties of undefined (reading 'initialise')\n    at nsc_bar_nice-cookie-consent_js-js-after:2:66"
+   }
+  ],
+  "banner": 0,
+  "cc": "undefined"
+ },
+ "assetStats": {
+  "cached": 73,
+  "fetched": 72,
+  "retried429": 0,
+  "failed429": 0,
+  "forcedFail": 1
+ },
+ "loads": 2
+}

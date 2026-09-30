@@ -1,12 +1,50 @@
 [
-  {"title": "Delete editor and AI notes that are live on the site", "detail": "21 places, e.g. 'META TITLE: … META DESCRIPTION …' inside the Inspiration FAQ, 'Meta Title' at the end of the Anniversary-for-Brother page title, '(our #2 market)' on National Best Friends Day, 'Use as a card, a caption… It travels well.' in a Mom birthday message, '(in one line)/(next line)', 'Clever and Humours !', 'Value of this blog:' and '(Rotating Section Based on Categories)'. Filter the Content errors tab by type 'leaked-template-text'."},
-  {"title": "Stop titles from over-promising", "detail": "125 pages promise '50+', '100+' or even '500+' messages, but the typical message page has 5. Together they are 7,589 messages short. Change the titles to the real count today, then grow the pages (the Thin pages tab lists what to add to each)."},
-  {"title": "Fix messages written for the wrong occasion or person", "detail": "The Tap Dance Day page has only generic 'Dance Day' lines (one repeated). Work, customer and employee anniversary pages mix in wedding-anniversary wishes. Oatmeal Day mentions cornflakes, Sunflower Day says 'International Flower Day', and a bride's card says 'our journey'. Filter by 'wrong-topic' and 'wrong-recipient'."},
-  {"title": "Repair broken eCard links and add a card link to every message page", "detail": "7 dead links to www.123greetings.com (e.g. /blog/what-to-write-in-a-card, used 32 times on the Mother's Day posts) and 1 internal 404 (/encouragement-inspiration-messages/). 141 of 242 message pages have no link to send a matching eCard at all."},
-  {"title": "Correct factual errors", "detail": "39 verified, e.g. wrong dates for Brothers Day, Orange Blossom Day, Sunflower Day, Say Hey Day and Clergy Appreciation Day; the invented 'established by the U.S. Congress in 1935' claim on Best Friends Day; 'Crystal to China' on both the 15th and 20th anniversary titles."},
-  {"title": "Make the messages findable", "detail": "Most pages have no search box, and the site search skips all 242 message pages. Message pages have no breadcrumbs or related links: 8 pages are orphans and 212 are reachable from only one internal link. /upcoming-events/ is blank but listed in the sitemap."},
-  {"title": "Speed up page loads", "detail": "Uncached pages take about 2.3 s to generate and are only cached for 5 minutes. Mobile LCP is 3.9–6.8 s. reCAPTCHA and the contact-form scripts (about 800 KB) load on every page, and 34–40 stylesheets block rendering. See the Performance tab for ranked fixes."},
-  {"title": "Clean up indexing", "detail": "255 titles end in a 91-character site-name suffix. 13 'Wake Up With Bob' posts share one title, and 7 'Five Minutes With Bob' posts share another. 347 tag archives (317 with a single post) are in the sitemap, as are two theme templates (/penci-block/…). The author URL is built from an email address."},
-  {"title": "Remove the hidden leftover template section", "detail": "134 message pages carry a block hidden on every screen size, with a second H1 ('Birthday messages, for Mom'), empty “” quotes and a dead 'Emotions' menu. Visitors never see it, but search engines read it. Delete that container from the Elementor templates."},
-  {"title": "Run the proofreading fixes", "detail": "1,251 verified wording errors (45 high, 380 medium) with the exact text and a suggested correction for each, e.g. 'Have a Blast !', 'let go off', 'eCards I our 123Greetngso', and sentences run together without a full stop. Everything is in data/content_errors.csv and the Content errors tab."}
+ {
+  "title": "Delete editor and AI notes that are live on the site",
+  "detail": "21 places, e.g. 'META TITLE: … META DESCRIPTION …' inside the Inspiration FAQ, 'Meta Title' at the end of the Anniversary-for-Brother page title, '(our #2 market)' on National Best Friends Day, 'Use as a card, a caption… It travels well.' in a Mom birthday message, '(in one line)/(next line)', 'Clever and Humours !', 'Value of this blog:' and '(Rotating Section Based on Categories)'. Filter the Content errors tab by type 'leaked-template-text'."
+ },
+ {
+  "title": "Publish the holiday season before it arrives",
+  "detail": "There is no Christmas, New Year, Hanukkah, Diwali, Kwanzaa or Valentine's Day page (84 likely URLs checked, all 404), and the calendar on /what-to-write-in-a-card/ links nothing for December to February. Suggested live-by dates: Diwali and Dussehra by 12–20 Oct, a Christmas hub by 31 Oct, Hanukkah by 13 Nov, New Year by 1 Dec. The existing autumn pages (Canadian Thanksgiving on 12 Oct, Halloween, US Thanksgiving) have about 5 messages each. The Content strategy tab has the full dated plan."
+ },
+ {
+  "title": "Stop titles from over-promising",
+  "detail": "125 pages promise '50+', '100+' or even '500+' messages, but the typical message page has 5. Together they are 7,589 messages short. Change the titles to the real count today, then grow the pages (the Thin pages tab lists what to add to each)."
+ },
+ {
+  "title": "Fix messages written for the wrong occasion or person",
+  "detail": "The Tap Dance Day page has only generic 'Dance Day' lines (one repeated). Work, customer and employee anniversary pages mix in wedding-anniversary wishes. Oatmeal Day mentions cornflakes, Sunflower Day says 'International Flower Day', and a bride's card says 'our journey'. Filter by 'wrong-topic' and 'wrong-recipient'."
+ },
+ {
+  "title": "Repair broken eCard links and add a card link to every message page",
+  "detail": "7 dead links to www.123greetings.com (e.g. /blog/what-to-write-in-a-card, used 32 times on the Mother's Day posts) and 1 internal 404 (/encouragement-inspiration-messages/): 40 broken links on 13 pages. 22 message pages send people to the old search.123greetings.com search instead of the occasion's card category, and 141 of 235 message pages have no link to send a matching eCard at all."
+ },
+ {
+  "title": "Correct factual errors",
+  "detail": "39 verified, e.g. wrong dates for Brothers Day, Orange Blossom Day, Sunflower Day, Say Hey Day and Clergy Appreciation Day; the invented 'established by the U.S. Congress in 1935' claim on Best Friends Day; 'Crystal to China' on both the 15th and 20th anniversary titles."
+ },
+ {
+  "title": "Make the messages findable",
+  "detail": "Most pages have no search box, and the site search returns only posts, never the 235 message pages. Message pages are dead ends: no breadcrumbs, related messages or in-content links on 227 of them. 215 of 247 pages have a single internal link pointing to them, the 49 posts can't be reached by links from the homepage, every post's 'You may also like' shows the same 10 Bob diary posts, and /upcoming-events/ is blank but in the sitemap."
+ },
+ {
+  "title": "Speed up page loads",
+  "detail": "Pages that miss the cache take about 2.2 s to generate, and about 1.3 s of that is WordPress starting up before the theme renders anything (plugins, autoloaded options). Every page makes 61–75 first-party requests (37–43 stylesheets). reCAPTCHA and the contact-form scripts (about 800 KB) load on every page, not just /contact-us/, and the ad and ID-sync stack is heavy for a single ad slot. Lighthouse times from this audit are indicative only, because our test IP was rate-limited: re-check in PageSpeed Insights and Search Console."
+ },
+ {
+  "title": "Clean up templates and indexing",
+  "detail": "134 message pages carry a leftover section hidden on every screen size, with a second H1, empty “” quotes and a dead 'Emotions' menu. Search engines read it. 255 titles end in a 91-character site-name suffix, 20 'Bob' posts share two titles, and 347 thin tag archives plus two theme templates (/penci-block/…) are in the sitemap. 152 pages use a 16×16 arrow as their share image, and the author URL is built from an email address."
+ },
+ {
+  "title": "Fix keyboard and screen-reader basics",
+  "detail": "The theme removes the focus outline sitewide. Every message's copy button has no accessible name, the mobile menu button can't be reached by keyboard, and there is no <main> landmark or skip link. See the Accessibility tab."
+ },
+ {
+  "title": "Review consent, the ad setup and exposed admin endpoints",
+  "detail": "In a fresh US browser session, 17 cookies are set and ad ID-sync requests start about 4 s in, before anyone touches the notice-only cookie banner. The only ad is a full-screen interstitial requested on every page view, sympathy pages included, with no frequency cap, and every ad request hard-codes page_url to www.123greetings.com. The public REST index advertises Code Snippets, an MCP adapter and Elementor MCP endpoints, and no clickjacking or MIME-sniffing headers are sent. See the 'Privacy, ads, security & other' tab."
+ },
+ {
+  "title": "Run the proofreading fixes",
+  "detail": "1,251 verified wording errors (45 high, 380 medium) with the exact text and a suggested correction for each, e.g. 'Have a Blast !', 'let go off', 'eCards I our 123Greetngso', and sentences run together without a full stop. Everything is in data/content_errors.csv and the Content errors tab."
+ }
 ]

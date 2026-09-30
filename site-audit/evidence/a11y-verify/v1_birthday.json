@@ -1,0 +1,261 @@
+{
+ "log": {
+  "path": "/birthday-messages/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "2.dca _atomic_dca STALE"
+ },
+ "arrowLinks": [
+  "arrow For Her",
+  "arrow For Him",
+  "arrow For Anyone",
+  "arrow By Milestone",
+  "arrow Zodiac Birthday",
+  "arrow Belated Birthday"
+ ],
+ "arrowImgs": {
+  "total": 6,
+  "visible": 6
+ },
+ "shiftTab": [
+  {
+   "name": "Do Not Sell My Info",
+   "rect": [
+    1049,
+    861,
+    118,
+    20
+   ],
+   "cc": 1,
+   "hdr": 0
+  },
+  {
+   "name": "Copyright Policy",
+   "rect": [
+    927,
+    861,
+    105,
+    20
+   ],
+   "cc": 0.63,
+   "hdr": 0
+  },
+  {
+   "name": "Cookie Policy",
+   "rect": [
+    825,
+    861,
+    86,
+    20
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Privacy Policy",
+   "rect": [
+    721,
+    861,
+    88,
+    20
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Terms of Use",
+   "rect": [
+    622,
+    861,
+    83,
+    20
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Sorry I Missed",
+   "rect": [
+    761,
+    722,
+    102,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Heartfelt Belated",
+   "rect": [
+    494,
+    722,
+    119,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Funny Belated",
+   "rect": [
+    1027,
+    646,
+    103,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Belated for Him",
+   "rect": [
+    761,
+    646,
+    110,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Belated for Her",
+   "rect": [
+    494,
+    646,
+    108,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Pisces",
+   "rect": [
+    1027,
+    423,
+    47,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Aquarius",
+   "rect": [
+    761,
+    423,
+    63,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Capricorn",
+   "rect": [
+    494,
+    423,
+    69,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Sagittarius",
+   "rect": [
+    1027,
+    328,
+    76,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Scorpio",
+   "rect": [
+    761,
+    328,
+    54,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  },
+  {
+   "name": "Libra",
+   "rect": [
+    494,
+    328,
+    36,
+    17
+   ],
+   "cc": 0,
+   "hdr": 0
+  }
+ ],
+ "axe": {
+  "violations": [
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci-desktop-sticky-mid > .container-normal.container > .penci_nav_row > .penci_nav_right.penci_nav_alignright.penci_nav_col > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 5,
+    "nodes": [
+     {
+      "target": ".penci-desktop-sticky-mid > .container-normal.container > .penci_nav_row > .penci_nav_left.penci_nav_alignleft.penci_nav_col",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-8311",
+      "html": "<div data-elementor-type=\"wp-page\" data-elementor-id=\"8311\" class=\"elementor elementor-8311\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-503",
+      "html": "<div data-elementor-type=\"wp-post\" data-elementor-id=\"503\" class=\"elementor elementor-503\">",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": []
+ }
+}

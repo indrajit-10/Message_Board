@@ -1,0 +1,471 @@
+{
+ "log": {
+  "path": "/birthday-messages-for-mom/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "3.dca _atomic_dca STALE"
+ },
+ "hamburger": {
+  "html": "<div class=\"button-menu-mobile header-builder\"><svg width=\"18px\" height=\"18px\" viewBox=\"0 0 512 384\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><g stro",
+  "parent": "<div class=\"pc-button-define-customize pc-builder-element navigation mobile-menu \">\n    <div class=\"button-menu-mobile header-builder\"><svg width=\"18px\" height=",
+  "tag": "DIV",
+  "tabIndex": -1,
+  "role": null,
+  "aria": null,
+  "exp": null,
+  "rect": [
+   356,
+   14,
+   24,
+   31
+  ],
+  "focusable": false,
+  "anyFocusableAncestor": false
+ },
+ "drawerClosed": {
+  "vis": "visible",
+  "disp": "block",
+  "transform": "matrix(1, 0, 0, 1, -330, 0)",
+  "left": -330,
+  "inert": false,
+  "ariaHidden": null,
+  "sidebarNav": {
+   "vis": "visible",
+   "disp": "block",
+   "transform": "matrix(1, 0, 0, 1, -270, 0)",
+   "rect": [
+    -270,
+    0,
+    270,
+    844
+   ],
+   "links": [
+    "123Greetings Blog – |https://blog.123greetings.com/|190",
+    "Facebook|#|8",
+    "Instagram|#|12",
+    "Whatsapp|#|12",
+    "Home|https://blog.123greetings.com/|230"
+   ]
+  }
+ },
+ "fwd": [
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    10,
+    11,
+    131,
+    21
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    -238,
+    31,
+    146,
+    21
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    -310,
+    100,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "ABOUT US",
+   "rect": [
+    -310,
+    144,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "WHAT TO WRITE IN A CARD",
+   "rect": [
+    -310,
+    188,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "CONTACT US",
+   "rect": [
+    -310,
+    232,
+    290,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    183,
+    18,
+    22
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    419,
+    18,
+    22
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    628,
+    18,
+    22
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0.15,
+   "centerHit": "self"
+  }
+ ],
+ "tail": [
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    -230,
+    31,
+    190,
+    21
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "Facebook",
+   "rect": [
+    -168,
+    104,
+    8,
+    14
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "Instagram",
+   "rect": [
+    -143,
+    104,
+    12,
+    14
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "Whatsapp",
+   "rect": [
+    -114,
+    104,
+    12,
+    14
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    -250,
+    164,
+    230,
+    43
+   ],
+   "inVP": false,
+   "inDrawer": false,
+   "inSidebarNav": true,
+   "ccOverlap": null,
+   "centerHit": null
+  },
+  {
+   "el": "a.cc-link",
+   "name": "cookies - Cookie Policy.",
+   "rect": [
+    32,
+    726,
+    100,
+    24
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "self"
+  },
+  {
+   "el": "a.cc-btn.cc-dismiss",
+   "name": "Accept cookie",
+   "rect": [
+    32,
+    773,
+    326,
+    40
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "self"
+  },
+  {
+   "el": "span.cc-close",
+   "name": "x cookie",
+   "rect": [
+    367,
+    651,
+    13,
+    19
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 1,
+   "centerHit": "self"
+  },
+  {
+   "el": "body"
+  }
+ ],
+ "opened": {
+  "left": 0,
+  "bodyOpen": true,
+  "active": "body.wp-singular.page-template.page-template-page-fullwidth",
+  "closeHtml": "<a href=\"#\" aria-label=\"Close\" class=\"close-mobile-menu-builder mpos-left\"><i class=\"penci-faicon fa fa-close\"></i></a>",
+  "dialogRole": null,
+  "ariaModal": null,
+  "hbExpanded": null
+ },
+ "tabsOpen": [
+  {
+   "el": "a.close-mobile-menu-builder.mpos-left",
+   "name": "Close",
+   "rect": [
+    330,
+    0,
+    60,
+    844
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0.23,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Ca",
+   "rect": [
+    92,
+    31,
+    146,
+    21
+   ],
+   "inVP": true,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    20,
+    100,
+    290,
+    43
+   ],
+   "inVP": true,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "ABOUT US",
+   "rect": [
+    20,
+    144,
+    290,
+    43
+   ],
+   "inVP": true,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "WHAT TO WRITE IN A CARD",
+   "rect": [
+    20,
+    188,
+    290,
+    43
+   ],
+   "inVP": true,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "a",
+   "name": "CONTACT US",
+   "rect": [
+    20,
+    232,
+    290,
+    43
+   ],
+   "inVP": true,
+   "inDrawer": true,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "self"
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    183,
+    18,
+    22
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "drawer"
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    419,
+    18,
+    22
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0,
+   "centerHit": "drawer"
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    628,
+    18,
+    22
+   ],
+   "inVP": true,
+   "inDrawer": false,
+   "inSidebarNav": false,
+   "ccOverlap": 0.15,
+   "centerHit": "drawer"
+  }
+ ],
+ "afterEsc": {
+  "left": 0,
+  "bodyOpen": true,
+  "active": "button.copy-icon-btn"
+ },
+ "afterCloseEnter": {
+  "left": -330,
+  "bodyOpen": false,
+  "active": "body.wp-singular.page-template.page-template-page-fullwidth",
+  "url": "https://blog.123greetings.com/birthday-messages-for-mom/"
+ }
+}

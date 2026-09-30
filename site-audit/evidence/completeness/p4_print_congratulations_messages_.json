@@ -1,0 +1,45 @@
+{
+ "PATH": "/congratulations-messages/",
+ "css": {
+  "printRules": 2,
+  "printSheets": [],
+  "sheetsRead": 69,
+  "crossOrigin": 3
+ },
+ "vis": {
+  "header": {
+   "n": 1,
+   "h": 150,
+   "y": 0
+  },
+  "mobileNav": {
+   "n": 1,
+   "h": 66,
+   "y": 84
+  },
+  "cookieBanner": null,
+  "footer": null,
+  "copyButtons": 124,
+  "sidebar": null,
+  "adContainers": 0,
+  "grecaptcha": null,
+  "backToTop": {
+   "n": 1,
+   "h": 40,
+   "y": 920
+  },
+  "h1": [
+   "Congratulations Messages"
+  ],
+  "docH": 6279
+ },
+ "nPages": 7,
+ "pdfBytes": 260744,
+ "msgs": 0,
+ "stats": {
+  "cached": 67,
+  "fetched": 1,
+  "r429": 0,
+  "f429": 0
+ }
+}

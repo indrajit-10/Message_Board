@@ -1,0 +1,113 @@
+{
+ "home": {
+  "unique": 31,
+  "internal": 23,
+  "toPosts": [],
+  "toArch": [],
+  "nav": []
+ },
+ "archive": {
+  "postsBefore": 9,
+  "btnInfo": {
+   "tag": "A",
+   "href": "#",
+   "text": "LOAD MORE POSTS",
+   "attrs": [
+    "class=penci-ajax-more-button",
+    "aria-label=More Posts",
+    "href=#",
+    "data-blockuid=pencilatest_posts_73808",
+    "data-query={\"orderby\":\"date\",\"order\":\"desc\",\"ignore_sticky_posts\":1,\"post_status\":\"publish\"",
+    "data-query_type=post",
+    "data-mes=Sorry, No more posts",
+    "data-layout=grid-boxed",
+    "data-number=9",
+    "data-offset=9",
+    "data-exclude=",
+    "data-from=vc",
+    "data-come_from=vc-elementor",
+    "data-template=sidebar",
+    "data-mixed=s1"
+   ]
+  },
+  "postsAfterClick": 9,
+  "pagelinks": []
+ },
+ "https://blog.123greetings.com/birthday-messages-for-mom/": {
+  "words": 292,
+  "quotes": 7,
+  "headings": [
+   "H1:Birthday Messages For Mom"
+  ],
+  "mainLinks": [
+   "https://blog.123greetings.com/birthday-messages-for-mom/# | For Mom"
+  ],
+  "related": [],
+  "bodyWords": 358
+ },
+ "https://blog.123greetings.com/upcoming-events/": {
+  "words": 0,
+  "quotes": 0,
+  "headings": [],
+  "mainLinks": [],
+  "related": [],
+  "bodyWords": 46
+ },
+ "https://blog.123greetings.com/mothers-day-messages-for-mom-what-to-write-when-she-saved-it-all/": {
+  "words": 1395,
+  "quotes": 14,
+  "headings": [
+   "H1:Mother’s Day Messages for Mom: What to Write When ",
+   "H2:The Contents",
+   "H2:And Then I Looked Closer",
+   "H2:I Walked Downstairs",
+   "H2:Three Things I Figured Out About My Mom That Morni",
+   "H2:What This Means for Your Mother’s Day Card",
+   "H2:One More Thing Before You Close This Tab",
+   "H2:Questions People Are Quietly Wondering This Year",
+   "H2:More Mother’s Day Messages & Cards",
+   "H3:LEAVE A COMMENT",
+   "H3:Five Minutes With Bob",
+   "H3:Five Minutes With Bob",
+   "H3:Five Minutes With Bob",
+   "H3:Five Minutes With Bob",
+   "H3:Five Minutes With Bob",
+   "H3:Five Minutes With Bob",
+   "H3:Five Minutes With Bob",
+   "H3:Wake Up With Bob",
+   "H3:Wake Up With Bob",
+   "H3:Wake Up With Bob"
+  ],
+  "mainLinks": [
+   "https://blog.123greetings.com/what-to-write-in-a-card/ | a full collection of Mother’s Day card i",
+   "https://www.123greetings.com/events/mothers_day/ | free Mother’s Day card collection",
+   "https://www.123greetings.com/app | 123Greetings app",
+   "https://blog.123greetings.com/what-to-write-in-a-card/#mdmmSec | → What to write in a Mother’s Day card",
+   "https://blog.123greetings.com/what-to-write-in-a-card/#hmdmSec | → Heartfelt Mother’s Day messages for mo",
+   "https://blog.123greetings.com/what-to-write-in-a-card/#fmdmSec | → Funny Mother’s Day messages",
+   "https://blog.123greetings.com/what-to-write-in-a-card/#smsmSec | → Short Mother’s Day wishes",
+   "https://blog.123greetings.com/graduation-card-messages-when-my-dad-struggled-with-saying-he-was-proud-of-me/ | ",
+   "https://blog.123greetings.com/graduation-card-messages-when-my-dad-struggled-with-saying-he-was-proud-of-me/ | Graduation Card Messages: When My Dad St",
+   "https://blog.123greetings.com/heartfelt-mothers-day-messages-that-prove-you-were-paying-attention/ | ",
+   "https://blog.123greetings.com/heartfelt-mothers-day-messages-that-prove-you-were-paying-attention/ | Heartfelt Mother’s Day Messages That Pro",
+   "https://blog.123greetings.com/mothers-day-card-ideas-12-things-my-mom-used-to-say-that-finally-make-sense-now/ | ",
+   "https://blog.123greetings.com/mothers-day-card-ideas-12-things-my-mom-used-to-say-that-finally-make-sense-now/ | Mother’s Day Card Ideas: 12 Things My Mo"
+  ],
+  "related": [
+   "https://blog.123greetings.com/graduation-card-messages-when-my-dad-struggled-with-saying-he-was-proud-of-me/",
+   "https://blog.123greetings.com/heartfelt-mothers-day-messages-that-prove-you-were-paying-attention/",
+   "https://blog.123greetings.com/mothers-day-card-ideas-12-things-my-mom-used-to-say-that-finally-make-sense-now/",
+   "https://blog.123greetings.com/five-minutes-with-bob-2nd-august/",
+   "https://blog.123greetings.com/five-minutes-with-bob-1st-august/",
+   "https://blog.123greetings.com/five-minutes-with-bob-31st-july/",
+   "https://blog.123greetings.com/five-minutes-with-bob-30th-july/",
+   "https://blog.123greetings.com/five-minutes-with-bob-29th-july/",
+   "https://blog.123greetings.com/five-minutes-with-bob-28th-july/",
+   "https://blog.123greetings.com/five-minutes-with-bob-27th-july/",
+   "https://blog.123greetings.com/wake-up-with-bob-26th-july/",
+   "https://blog.123greetings.com/wake-up-with-bob-25th-july/",
+   "https://blog.123greetings.com/wake-up-with-bob-24th-july/"
+  ],
+  "bodyWords": 1616
+ }
+}

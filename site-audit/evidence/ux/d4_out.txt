@@ -1,0 +1,1735 @@
+{
+ "birthdayHub": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/birthday-messages/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "vis": {
+   "h1": [
+    {
+     "t": "Birthday Messages, Wishes & Card Ideas",
+     "vis": true
+    }
+   ],
+   "emptiesTotal": 0,
+   "emptiesVisible": 0,
+   "sideNav": [
+    {
+     "vis": true,
+     "items": [
+      {
+       "t": "Birthdays",
+       "h": null,
+       "vis": true
+      },
+      {
+       "t": "For Her",
+       "h": "#forHer",
+       "vis": true
+      },
+      {
+       "t": "For Him",
+       "h": "#forHim",
+       "vis": true
+      },
+      {
+       "t": "For Anyone",
+       "h": "#forAnyone",
+       "vis": true
+      },
+      {
+       "t": "By Milestone",
+       "h": "#byMilestone",
+       "vis": true
+      },
+      {
+       "t": "Zodiac Birthday",
+       "h": "#zodiacBirthday",
+       "vis": true
+      },
+      {
+       "t": "Belated Birthday",
+       "h": "#belatedBirthday",
+       "vis": true
+      }
+     ]
+    }
+   ],
+   "docH": 2709
+  },
+  "sticky": {
+   "pos": "relative",
+   "cls": "elementor-element elementor-element-a7d246c sideCatMenu elementor-widget element"
+  },
+  "jumps": [
+   {
+    "i": 0,
+    "t": "For Her",
+    "h": "#forHer",
+    "headerBottom": 0,
+    "exists": true,
+    "sy": 77,
+    "hash": "#forHer",
+    "targetTop": 100,
+    "headingTop": 120,
+    "heading": "FOR HER"
+   },
+   {
+    "i": 1,
+    "t": "For Him",
+    "h": "#forHim",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 507,
+    "hash": "#forHim",
+    "targetTop": 100,
+    "headingTop": 120,
+    "heading": "FOR HIM"
+   },
+   {
+    "i": 2,
+    "t": "For Anyone",
+    "h": "#forAnyone",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 938,
+    "hash": "#forAnyone",
+    "targetTop": 100,
+    "headingTop": 120,
+    "heading": "FOR ANYONE"
+   },
+   {
+    "i": 3,
+    "t": "By Milestone",
+    "h": "#byMilestone",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 1216,
+    "hash": "#byMilestone",
+    "targetTop": 100,
+    "headingTop": 120,
+    "heading": "BY MILESTONE"
+   },
+   {
+    "i": 4,
+    "t": "Zodiac Birthday",
+    "h": "#zodiacBirthday",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 1722,
+    "hash": "#zodiacBirthday",
+    "targetTop": 100,
+    "headingTop": 120,
+    "heading": "ZODIAC BIRTHDAY"
+   },
+   {
+    "i": 5,
+    "t": "Belated Birthday",
+    "h": "#belatedBirthday",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 1809,
+    "hash": "#belatedBirthday",
+    "targetTop": 520,
+    "headingTop": 540,
+    "heading": "BELATED BIRTHDAY"
+   }
+  ],
+  "tilesCount": 121,
+  "ecardLinks": [],
+  "hashLinks": 0,
+  "cls": {
+   "value": 0.027635564408926165,
+   "entries": [
+    {
+     "t": 1031,
+     "v": 0.0037,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 1148,
+     "v": 0.0001,
+     "src": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    },
+    {
+     "t": 1237,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 20651,
+     "v": 0.0022,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 20662,
+     "v": 0.0025,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 20682,
+     "v": 0.0018,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 20696,
+     "v": 0.0011,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 21763,
+     "v": 0.0011,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 21779,
+     "v": 0.0018,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 21796,
+     "v": 0.0025,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 21812,
+     "v": 0.0022,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 23996,
+     "v": 0.0011,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 24012,
+     "v": 0.0027,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 24029,
+     "v": 0.0022,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 24046,
+     "v": 0.0013,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    },
+    {
+     "t": 24063,
+     "v": 0.0007,
+     "src": [
+      "div.elementor-element.elementor-element-5440041.e-con-full"
+     ]
+    }
+   ]
+  }
+ },
+ "fathersDay": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/fathers-day-messages/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "vis": {
+   "h1": [
+    {
+     "t": "Father's Day Messages",
+     "vis": true
+    }
+   ],
+   "emptiesTotal": 0,
+   "emptiesVisible": 0,
+   "sideNav": [
+    {
+     "vis": true,
+     "items": [
+      {
+       "t": "Emotions",
+       "h": null,
+       "vis": true
+      },
+      {
+       "t": "For Your Father",
+       "h": "#fyf",
+       "vis": true
+      },
+      {
+       "t": "For Your Stepfather",
+       "h": "#fysf",
+       "vis": true
+      },
+      {
+       "t": "For your Mentor",
+       "h": "#fm",
+       "vis": true
+      },
+      {
+       "t": "For your Uncle",
+       "h": "#tu",
+       "vis": true
+      },
+      {
+       "t": "For your Father-in-Law",
+       "h": "#tfil",
+       "vis": true
+      },
+      {
+       "t": "For a Single Mother",
+       "h": "#tsm",
+       "vis": true
+      },
+      {
+       "t": "For your Godfather",
+       "h": "#tg",
+       "vis": true
+      },
+      {
+       "t": "From Daughters",
+       "h": "#wfd",
+       "vis": true
+      },
+      {
+       "t": "From Sons",
+       "h": "#wfs",
+       "vis": true
+      },
+      {
+       "t": "From Children",
+       "h": "#wfkc",
+       "vis": true
+      },
+      {
+       "t": "For your Husband",
+       "h": "#wfh",
+       "vis": true
+      },
+      {
+       "t": "For your Grandfather",
+       "h": "#wfg",
+       "vis": true
+      },
+      {
+       "t": "Funny Wishes",
+       "h": "#fw",
+       "vis": true
+      },
+      {
+       "t": "For Someone Missing Their Dad",
+       "h": "#wfsmtd",
+       "vis": true
+      },
+      {
+       "t": "For your Dad in Heaven",
+       "h": "#wfdih",
+       "vis": true
+      },
+      {
+       "t": "Formal Wishes",
+       "h": "#fw2",
+       "vis": true
+      }
+     ]
+    }
+   ],
+   "docH": 6338
+  },
+  "jumps": [
+   {
+    "i": 0,
+    "t": "For Your Father",
+    "h": "#fyf",
+    "headerBottom": 0,
+    "exists": true,
+    "sy": 92,
+    "hash": "#fyf",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Father"
+   },
+   {
+    "i": 1,
+    "t": "For Your Stepfather",
+    "h": "#fysf",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 832,
+    "hash": "#fysf",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Stepfather"
+   },
+   {
+    "i": 2,
+    "t": "For your Mentor",
+    "h": "#fm",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 1425,
+    "hash": "#fm",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Mentor"
+   },
+   {
+    "i": 3,
+    "t": "For your Uncle",
+    "h": "#tu",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 1815,
+    "hash": "#tu",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Uncle"
+   },
+   {
+    "i": 4,
+    "t": "For your Father-in-Law",
+    "h": "#tfil",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 2098,
+    "hash": "#tfil",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Father-In-Law"
+   },
+   {
+    "i": 5,
+    "t": "For a Single Mother",
+    "h": "#tsm",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 2614,
+    "hash": "#tsm",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For A Single Mother"
+   },
+   {
+    "i": 6,
+    "t": "For your Godfather",
+    "h": "#tg",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 2926,
+    "hash": "#tg",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Godfather"
+   },
+   {
+    "i": 7,
+    "t": "From Daughters",
+    "h": "#wfd",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 3238,
+    "hash": "#wfd",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "From Daughters"
+   },
+   {
+    "i": 8,
+    "t": "From Sons",
+    "h": "#wfs",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 3463,
+    "hash": "#wfs",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "From Sons"
+   },
+   {
+    "i": 9,
+    "t": "From Children",
+    "h": "#wfkc",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 3746,
+    "hash": "#wfkc",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "From Children"
+   },
+   {
+    "i": 10,
+    "t": "For your Husband",
+    "h": "#wfh",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 3923,
+    "hash": "#wfh",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Husband"
+   },
+   {
+    "i": 11,
+    "t": "For your Grandfather",
+    "h": "#wfg",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 4255,
+    "hash": "#wfg",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Grandfather"
+   },
+   {
+    "i": 12,
+    "t": "Funny Wishes",
+    "h": "#fw",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 4615,
+    "hash": "#fw",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "Funny Wishes"
+   },
+   {
+    "i": 13,
+    "t": "For Someone Missing Their Dad",
+    "h": "#wfsmtd",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 4947,
+    "hash": "#wfsmtd",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Someone Missing Their Dad"
+   },
+   {
+    "i": 14,
+    "t": "For your Dad in Heaven",
+    "h": "#wfdih",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 5259,
+    "hash": "#wfdih",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "For Your Dad In Heaven"
+   },
+   {
+    "i": 15,
+    "t": "Formal Wishes",
+    "h": "#fw2",
+    "headerBottom": 80,
+    "exists": true,
+    "sy": 5378,
+    "hash": "#fw2",
+    "targetTop": 100,
+    "headingTop": 100,
+    "heading": "Formal Wishes"
+   }
+  ],
+  "navMid": {
+   "top": 117,
+   "bottom": 744,
+   "inView": true
+  },
+  "ecard": [
+   {
+    "t": "Father’s Day",
+    "h": "https://www.123greetings.com/events/fathers_day/happy_fathers_day/"
+   },
+   {
+    "t": "",
+    "h": "https://www.123greetings.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.123greetings.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.123greetings.com/events/fathers_day/happy_fathers_day/"
+   },
+   {
+    "t": "",
+    "h": "https://www.123greetings.com/events/fathers_day/friends_n_family/grandfather/"
+   },
+   {
+    "t": "",
+    "h": "https://www.123greetings.com/events/fathers_day/happy_fathers_day/"
+   },
+   {
+    "t": "",
+    "h": "https://www.123greetings.com/events/international_mens_day/"
+   }
+  ],
+  "cls": {
+   "value": 0.3675859964863707,
+   "entries": [
+    {
+     "t": 2783,
+     "v": 0.0018,
+     "src": [
+      "div.penci-block_content",
+      "div.elementor-element.elementor-element-5ef94694.elementor-widget-divider--view-line",
+      "div.elementor-element.elementor-element-1314722.e-con-full"
+     ]
+    },
+    {
+     "t": 3019,
+     "v": 0.0057,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix"
+     ]
+    },
+    {
+     "t": 3061,
+     "v": 0.0037,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 3132,
+     "v": 0.0004,
+     "src": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+     ]
+    },
+    {
+     "t": 3174,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 38915,
+     "v": 0.0065,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 38929,
+     "v": 0.0075,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 38965,
+     "v": 0.0056,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 38980,
+     "v": 0.0059,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 38996,
+     "v": 0.0007,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 39999,
+     "v": 0.0087,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 40012,
+     "v": 0.0178,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 40031,
+     "v": 0.0009,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 40947,
+     "v": 0.0169,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 40964,
+     "v": 0.0143,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 40982,
+     "v": 0.0113,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41001,
+     "v": 0.0087,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41012,
+     "v": 0.0066,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41029,
+     "v": 0.0049,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41046,
+     "v": 0.0034,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41065,
+     "v": 0.0023,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41082,
+     "v": 0.0013,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 41099,
+     "v": 0.0004,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42029,
+     "v": 0.0006,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42045,
+     "v": 0.0017,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42062,
+     "v": 0.0031,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42079,
+     "v": 0.0049,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42096,
+     "v": 0.0069,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42112,
+     "v": 0.0096,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42128,
+     "v": 0.0129,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42145,
+     "v": 0.017,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42162,
+     "v": 0.0132,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 42995,
+     "v": 0.0018,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43012,
+     "v": 0.0196,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43029,
+     "v": 0.0156,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43046,
+     "v": 0.0124,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43062,
+     "v": 0.0095,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43079,
+     "v": 0.0071,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43096,
+     "v": 0.0053,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43114,
+     "v": 0.0038,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43129,
+     "v": 0.0026,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43145,
+     "v": 0.0018,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43162,
+     "v": 0.0009,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 43179,
+     "v": 0.0003,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44112,
+     "v": 0.0004,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44129,
+     "v": 0.0013,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44145,
+     "v": 0.0023,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44162,
+     "v": 0.0038,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44179,
+     "v": 0.0056,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44195,
+     "v": 0.0081,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44212,
+     "v": 0.0112,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44229,
+     "v": 0.015,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44245,
+     "v": 0.0199,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    },
+    {
+     "t": 44262,
+     "v": 0.0134,
+     "src": [
+      "div.elementor-element.elementor-element-6735419e.e-con-full"
+     ]
+    }
+   ]
+  }
+ },
+ "mom": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/birthday-messages-for-mom/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "error": "TimeoutError: locator.scrollIntoViewIfNeeded: Timeout 29985.60500000001ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 20",
+  "cls": {
+   "value": 0.008772645414587601,
+   "entries": [
+    {
+     "t": 973,
+     "v": 0.0078,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix"
+     ]
+    },
+    {
+     "t": 1060,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 1156,
+     "v": 0.0003,
+     "src": [
+      "li#menu-item-2373.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2376.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2374.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2377.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2375.menu-item.menu-item-type-custom.menu-item-object-custom"
+     ]
+    }
+   ]
+  }
+ },
+ "angel": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/be-an-angel-day-messages/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "error": "TimeoutError: locator.scrollIntoViewIfNeeded: Timeout 29986.092000000004ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 2",
+  "cls": {
+   "value": 0.005042920581549976,
+   "entries": [
+    {
+     "t": 2477,
+     "v": 0.0024,
+     "src": [
+      "?"
+     ]
+    },
+    {
+     "t": 2524,
+     "v": 0.002,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix"
+     ]
+    },
+    {
+     "t": 2697,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    }
+   ]
+  }
+ },
+ "tapdance": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/national-tap-dance-day-messages/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "error": "TimeoutError: locator.scrollIntoViewIfNeeded: Timeout 29987.546000000002ms exceeded.\nCall log:\n\u001b[2m  - attempting scroll into view action\u001b[22m\n\u001b[2m    2 × waiting for element to be stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying scroll into view action\u001b[22m\n\u001b[2m    - waiting 2",
+  "cls": {
+   "value": 0.0032260175045660242,
+   "entries": [
+    {
+     "t": 919,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 1093,
+     "v": 0.0026,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "li#menu-item-2377.menu-item.menu-item-type-custom.menu-item-object-custom"
+     ]
+    }
+   ]
+  }
+ },
+ "searchBirthday": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/?s=birthday",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "h1": "\"Birthday\"",
+  "count": 10,
+  "links": [
+   "https://blog.123greetings.com/birthday-card-messages-when-my-brother-and-i-stopped-talking-about-things-that-mattered/",
+   "https://blog.123greetings.com/five-minutes-with-bob-1st-august/",
+   "https://blog.123greetings.com/five-minutes-with-bob/",
+   "https://blog.123greetings.com/13th-july-your-weekly-bobcast/",
+   "https://blog.123greetings.com/6th-july-your-weekly-bobcast/",
+   "https://blog.123greetings.com/29th-june-your-weekly-bobcast/",
+   "https://blog.123greetings.com/22nd-june-your-weekly-bobcast/",
+   "https://blog.123greetings.com/15th-june-your-weekly-bobcast/",
+   "https://blog.123greetings.com/7th-june-your-weekly-bobcast/",
+   "https://blog.123greetings.com/19th-may-your-week-with-bob/"
+  ],
+  "pag": [
+   {
+    "t": "2",
+    "h": "https://blog.123greetings.com/page/2/?s=birthday"
+   },
+   {
+    "t": "",
+    "h": "https://blog.123greetings.com/page/2/?s=birthday"
+   }
+  ],
+  "searchInputs": 0,
+  "cls": {
+   "value": 0.0037226326612203073,
+   "entries": [
+    {
+     "t": 1178,
+     "v": 0.0034,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "div.grid-post-box-meta",
+      "a.penci-lazy.penci-image-holder.lazyloaded",
+      "div.item-content.entry-content",
+      "div.penci-readmore-btn.penci-btn-make-button.penci-btn-align-center"
+     ]
+    },
+    {
+     "t": 1356,
+     "v": 0.0003,
+     "src": [
+      "div.penci-readmore-btn.penci-btn-make-button.penci-btn-align-center",
+      "div.item-content.entry-content",
+      "div.penci-readmore-btn.penci-btn-make-button.penci-btn-align-center",
+      "div.penci-readmore-btn.penci-btn-make-button.penci-btn-align-center",
+      "div.item-content.entry-content"
+     ]
+    }
+   ]
+  }
+ },
+ "searchEmpty": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/?s=zzqx",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "h1": "\"Zzqx\"",
+  "main": "Search Results For \"Zzqx\"\nSorry, but nothing matched your search terms. Please try again with some different keywords.",
+  "searchInputs": 0,
+  "links": 0,
+  "cls": {
+   "value": 0.004674426775068651,
+   "entries": [
+    {
+     "t": 2783,
+     "v": 0.0017,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "?",
+      "h1"
+     ]
+    },
+    {
+     "t": 3009,
+     "v": 0.0029,
+     "src": [
+      "?",
+      "section.penci-section.penci-dmcheck.penci-elbg-activate"
+     ]
+    }
+   ]
+  }
+ },
+ "archive": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/archive/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "beforeCount": 9,
+  "beforeTitles": [
+   "Five Minutes With Bob",
+   "Wake Up With Bob"
+  ],
+  "btnInfo": {
+   "tag": "SPAN",
+   "href": null,
+   "cls": "ajax-more-text"
+  },
+  "afterCount": 18,
+  "afterTitles": [
+   "Five Minutes With Bob",
+   "Wake Up With Bob"
+  ],
+  "cls": {
+   "value": 0.10156533917615301,
+   "entries": [
+    {
+     "t": 605,
+     "v": 0.0011,
+     "src": [
+      "span.inner-tit",
+      "::before",
+      "::after"
+     ]
+    },
+    {
+     "t": 1023,
+     "v": 0.0058,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "a.penci-image-holder.penci-lazy.lazyloaded",
+      "div.item-content.entry-content",
+      "a.penci-image-holder.penci-lazy.lazyloaded",
+      "a.penci-image-holder.penci-lazy.lazyloaded"
+     ]
+    },
+    {
+     "t": 10370,
+     "v": 0.0947,
+     "src": [
+      "div.penci-pagination.penci-ajax-more.penci-ajax-home",
+      "section.penci-section.penci-dmcheck.penci-elbg-activate"
+     ]
+    }
+   ]
+  }
+ },
+ "category": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/category/123greetings/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "pag": [
+   {
+    "t": "2",
+    "h": "https://blog.123greetings.com/category/123greetings/page/2/"
+   },
+   {
+    "t": "3",
+    "h": "https://blog.123greetings.com/category/123greetings/page/3/"
+   },
+   {
+    "t": "5",
+    "h": "https://blog.123greetings.com/category/123greetings/page/5/"
+   },
+   {
+    "t": "",
+    "h": "https://blog.123greetings.com/category/123greetings/page/2/"
+   }
+  ],
+  "loadMore": [],
+  "posts": 20,
+  "clicked": {
+   "url": "https://blog.123greetings.com/category/123greetings/page/3/",
+   "title": "123greetings Archives - Page 3 of 5 - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+   "posts": 20
+  },
+  "cls": {
+   "value": 0.0015563912010786965,
+   "entries": [
+    {
+     "t": 2828,
+     "v": 0.0016,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "h1",
+      "?",
+      "?",
+      "?"
+     ]
+    }
+   ]
+  }
+ },
+ "authorLast": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/5/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "title": "Bob, Author at 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card - Page 5 of 5",
+  "pag": [
+   {
+    "t": "",
+    "h": "https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/4/"
+   },
+   {
+    "t": "1",
+    "h": "https://blog.123greetings.com/author/iblog123greetingsgmail-com/"
+   },
+   {
+    "t": "3",
+    "h": "https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/3/"
+   },
+   {
+    "t": "4",
+    "h": "https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/4/"
+   }
+  ],
+  "posts": 18,
+  "authorBox": "BOB",
+  "cls": {
+   "value": 0.008241665621625947,
+   "entries": [
+    {
+     "t": 2760,
+     "v": 0.0058,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "?",
+      "div.item-content.entry-content",
+      "?",
+      "div.item-content.entry-content"
+     ]
+    },
+    {
+     "t": 3141,
+     "v": 0.0024,
+     "src": [
+      "?",
+      "div.item-content.entry-content",
+      "div.item-content.entry-content",
+      "::after",
+      "div.item-content.entry-content"
+     ]
+    }
+   ]
+  }
+ },
+ "post": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "fields": [
+   {
+    "name": "comment",
+    "type": "textarea",
+    "req": true,
+    "label": null,
+    "ph": "Your Comment",
+    "vis": true
+   },
+   {
+    "name": "author",
+    "type": "text",
+    "req": false,
+    "label": null,
+    "ph": "Name*",
+    "vis": true
+   },
+   {
+    "name": "email",
+    "type": "text",
+    "req": false,
+    "label": null,
+    "ph": "Email*",
+    "vis": true
+   },
+   {
+    "name": "submit",
+    "type": "submit",
+    "req": false,
+    "label": null,
+    "ph": null,
+    "vis": true
+   },
+   {
+    "name": "ak_hp_textarea",
+    "type": "textarea",
+    "req": false,
+    "label": "Δ",
+    "ph": null,
+    "vis": false
+   }
+  ],
+  "formAction": "https://blog.123greetings.com/wp-comments-post.php",
+  "commentsTitle": [
+   "LEAVE A COMMENT"
+  ],
+  "share": [],
+  "prevNext": [
+   {
+    "t": "Heartfelt Mother’s Day Messages That Prove You Were Paying A",
+    "h": "https://blog.123greetings.com/heartfelt-mothers-day-messages-that-prove-you-were-paying-attention/"
+   },
+   {
+    "t": "What to Write in a Mother’s Day Card She’ll Actually Keep?",
+    "h": "https://blog.123greetings.com/what-to-write-in-a-mothers-day-card-shell-actually-keep/"
+   }
+  ],
+  "relatedHeads": [
+   "YOU MAY ALSO LIKE",
+   "YOU MAY ALSO LIKE"
+  ],
+  "related": [
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob"
+  ],
+  "ctas": [
+   {
+    "t": "free Mother’s Day card collection",
+    "h": "https://www.123greetings.com/events/mothers_day/"
+   },
+   {
+    "t": "123Greetings app",
+    "h": "https://www.123greetings.com/app"
+   },
+   {
+    "t": "→ Mother’s Day messages for your wife",
+    "h": "https://www.123greetings.com/blog/what-to-write-in-a-card"
+   },
+   {
+    "t": "→ Heartfelt Mother’s Day messages for mom",
+    "h": "https://www.123greetings.com/blog/what-to-write-in-a-card"
+   },
+   {
+    "t": "→ Mother’s Day messages for grandma",
+    "h": "https://www.123greetings.com/blog/what-to-write-in-a-card"
+   },
+   {
+    "t": "→ Mother’s Day messages for stepmom",
+    "h": "https://www.123greetings.com/blog/what-to-write-in-a-card"
+   },
+   {
+    "t": "→ What to write in a Mother’s Day card",
+    "h": "https://www.123greetings.com/blog/what-to-write-in-a-card"
+   },
+   {
+    "t": "",
+    "h": "https://blog.123greetings.com/mothers-day-messages-for-mother-in-law-what-to-write/"
+   },
+   {
+    "t": "Mother’s Day Messages for Mother-in-Law: What to W",
+    "h": "https://blog.123greetings.com/mothers-day-messages-for-mother-in-law-what-to-write/"
+   },
+   {
+    "t": "",
+    "h": "https://blog.123greetings.com/happy-mothers-day-2026-messages-what-to-write-in-the-card/"
+   },
+   {
+    "t": "Happy Mother’s Day 2026 Messages: What to Write in",
+    "h": "https://blog.123greetings.com/happy-mothers-day-2026-messages-what-to-write-in-the-card/"
+   },
+   {
+    "t": "",
+    "h": "https://blog.123greetings.com/mothers-day-card-messages-for-grandma-funny-heartfelt/"
+   },
+   {
+    "t": "Mother’s Day Card Messages for Grandma: Funny & He",
+    "h": "https://blog.123greetings.com/mothers-day-card-messages-for-grandma-funny-heartfelt/"
+   }
+  ],
+  "recaptcha": true,
+  "cookiesConsentBox": false,
+  "bobBox": {
+   "y": 5502,
+   "blk": " related-content",
+   "heading": "Five Minutes With Bob"
+  },
+  "copyLink": null,
+  "cls": {
+   "value": 0.0071664270218590375,
+   "entries": [
+    {
+     "t": 1267,
+     "v": 0.0072,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "p",
+      "p",
+      "p",
+      "p"
+     ]
+    }
+   ]
+  }
+ },
+ "upcoming": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/upcoming-events/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "title": "Upcoming Events - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "contentHTMLlen": 6,
+  "contentText": "",
+  "contentSnippet": " ",
+  "h1": [],
+  "bodyTextLen": 259,
+  "docH": 900,
+  "cls": {
+   "value": 0.0009783446796173116,
+   "entries": [
+    {
+     "t": 1329,
+     "v": 0.0003,
+     "src": [
+      "li#menu-item-2373.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2376.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2374.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2377.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2375.menu-item.menu-item-type-custom.menu-item-object-custom"
+     ]
+    },
+    {
+     "t": 1345,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    }
+   ]
+  }
+ },
+ "notFound": {
+  "status": 404,
+  "finalUrl": "https://blog.123greetings.com/this-does-not-exist/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [
+   "404 https://blog.123greetings.com/this-does-not-exist/"
+  ],
+  "n429": 0,
+  "title": "Page not found - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "text": "OOPS! Page you're looking for doesn't exist. Please use search for help\n\nBACK TO HOME PAGE",
+  "searchForms": [
+   {
+    "tag": "FORM",
+    "vis": true
+   },
+   {
+    "tag": "INPUT",
+    "vis": true
+   }
+  ],
+  "links": [
+   {
+    "t": "BACK TO HOME PAGE",
+    "h": "https://blog.123greetings.com/"
+   }
+  ],
+  "docH": 900,
+  "cls": {
+   "value": 0.004528752174041974,
+   "entries": [
+    {
+     "t": 2624,
+     "v": 0,
+     "src": [
+      "i.penciicon-magnifiying-glass"
+     ]
+    },
+    {
+     "t": 2846,
+     "v": 0.0039,
+     "src": [
+      "?",
+      "p.go-back-home",
+      "section.penci-section.penci-dmcheck.penci-elbg-activate"
+     ]
+    },
+    {
+     "t": 3135,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    }
+   ]
+  }
+ },
+ "whatToWrite": {
+  "status": 200,
+  "finalUrl": "https://blog.123greetings.com/what-to-write-in-a-card/",
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied."
+  ],
+  "http": [],
+  "n429": 0,
+  "tr": [
+   {
+    "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+    "tag": "DIV",
+    "pos": "fixed",
+    "z": "2147483647",
+    "pe": "auto",
+    "vis": "hidden",
+    "disp": "flex",
+    "op": "1",
+    "rect": [
+     0,
+     0,
+     1366,
+     900
+    ],
+    "src": "",
+    "childCount": 1,
+    "text": ""
+   },
+   {
+    "id": "",
+    "tag": "IFRAME",
+    "pos": "static",
+    "z": "auto",
+    "pe": "auto",
+    "vis": "hidden",
+    "disp": "inline",
+    "op": "1",
+    "rect": [
+     1296,
+     826,
+     256,
+     60
+    ],
+    "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8",
+    "childCount": 0,
+    "text": ""
+   }
+  ],
+  "center": "TD#gs_tti50.gsib_a",
+  "center2": "A#.",
+  "hashLinks": 0,
+  "linkCount": 119,
+  "cls": {
+   "value": 0.014574352533262069,
+   "entries": [
+    {
+     "t": 1626,
+     "v": 0.0006,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow"
+     ]
+    },
+    {
+     "t": 1732,
+     "v": 0.0139,
+     "src": [
+      "div.elementor-element.elementor-element-3ece06e.scrollmt50",
+      "div.elementor-element.elementor-element-66a4bd1.e-grid"
+     ]
+    }
+   ]
+  }
+ },
+ "assetStats": {
+  "cached": 997,
+  "fetched": 36,
+  "retried429": 0,
+  "failed429": 0,
+  "forcedFail": 0
+ },
+ "loads": 16
+}

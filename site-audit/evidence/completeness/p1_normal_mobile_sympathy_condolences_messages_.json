@@ -1,0 +1,455 @@
+{
+ "path": "/sympathy-condolences-messages/",
+ "mode": "normal",
+ "vp": "mobile",
+ "tLoaded": 25051,
+ "nRequests": 133,
+ "hosts": {
+  "blog.123greetings.com": {
+   "n": 68,
+   "first": 119
+  },
+  "fonts-api.wp.com": {
+   "n": 3,
+   "first": 576
+  },
+  "www.google.com": {
+   "n": 7,
+   "first": 760
+  },
+  "www.googletagmanager.com": {
+   "n": 1,
+   "first": 821
+  },
+  "1437953666.rsc.cdn77.org": {
+   "n": 1,
+   "first": 842
+  },
+  "s0.wp.com": {
+   "n": 1,
+   "first": 842
+  },
+  "stats.wp.com": {
+   "n": 1,
+   "first": 846
+  },
+  "fonts.wp.com": {
+   "n": 2,
+   "first": 902
+  },
+  "www.google-analytics.com": {
+   "n": 1,
+   "first": 1045
+  },
+  "www.gstatic.com": {
+   "n": 5,
+   "first": 1157
+  },
+  "fonts.gstatic.com": {
+   "n": 1,
+   "first": 1912
+  },
+  "securepubads.g.doubleclick.net": {
+   "n": 3,
+   "first": 3425
+  },
+  "pixel.wp.com": {
+   "n": 1,
+   "first": 3425
+  },
+  "fundingchoicesmessages.google.com": {
+   "n": 15,
+   "first": 3952
+  },
+  "dmp.im-apps.net": {
+   "n": 1,
+   "first": 4361
+  },
+  "connectid.analytics.yahoo.com": {
+   "n": 1,
+   "first": 4362
+  },
+  "cdn.jsdelivr.net": {
+   "n": 1,
+   "first": 4362
+  },
+  "tags.crwdcntrl.net": {
+   "n": 1,
+   "first": 4362
+  },
+  "invstatic101.creativecdn.com": {
+   "n": 1,
+   "first": 4362
+  },
+  "cdn.id5-sync.com": {
+   "n": 1,
+   "first": 4362
+  },
+  "static.criteo.net": {
+   "n": 1,
+   "first": 4362
+  },
+  "e697eca02dd50d4c09ab096713cb59ef.safeframe.googlesyndication.com": {
+   "n": 1,
+   "first": 4378
+  },
+  "id5-sync.com": {
+   "n": 1,
+   "first": 4856
+  },
+  "c.ltmsphrcl.net": {
+   "n": 1,
+   "first": 4909
+  },
+  "pagead2.googlesyndication.com": {
+   "n": 4,
+   "first": 4946
+  },
+  "esp.rtbhouse.com": {
+   "n": 1,
+   "first": 5050
+  },
+  "sync6.im-apps.net": {
+   "n": 1,
+   "first": 5074
+  },
+  "ep1.adtrafficquality.google": {
+   "n": 2,
+   "first": 5162
+  },
+  "ep2.adtrafficquality.google": {
+   "n": 3,
+   "first": 5303
+  },
+  "gum.criteo.com": {
+   "n": 2,
+   "first": 5935
+  }
+ },
+ "cookies": [
+  {
+   "name": "_GRECAPTCHA",
+   "domain": "www.google.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_ga_R56NTBBBCB",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_ga",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_pubcid",
+   "domain": ".123greetings.com",
+   "expiresDays": 270,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "test_cookie",
+   "domain": ".doubleclick.net",
+   "expiresDays": 0,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__gads",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__gpi",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__eoi",
+   "domain": ".123greetings.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_cc_id",
+   "domain": ".123greetings.com",
+   "expiresDays": 270,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "panoramaId_expiry",
+   "domain": ".123greetings.com",
+   "expiresDays": 1,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "imid_secure",
+   "domain": ".im-apps.net",
+   "expiresDays": 400,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "imid_created_secure",
+   "domain": ".im-apps.net",
+   "expiresDays": 400,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "FCCDCF",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "uid",
+   "domain": ".criteo.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "FCNEC",
+   "domain": ".123greetings.com",
+   "expiresDays": 365,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "cto_bundle",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "Lax",
+   "secure": false
+  }
+ ],
+ "info": {
+  "cmp": {
+   "tcfapi": "function",
+   "gpp": "function",
+   "uspapi": "function",
+   "googlefc": "object",
+   "gtag": "function"
+  },
+  "tcf": {
+   "gdprApplies": false,
+   "cmpLoaded": true,
+   "cmpStatus": "loaded",
+   "displayStatus": "disabled",
+   "apiVersion": "2.3",
+   "cmpVersion": 2,
+   "cmpId": 300,
+   "gvlVersion": 178,
+   "tcfPolicyVersion": 5
+  },
+  "usp": {
+   "d": {
+    "version": 1,
+    "uspString": "1---"
+   },
+   "ok": true
+  },
+  "gpp": {
+   "d": {
+    "gppVersion": "1.1",
+    "cmpStatus": "loaded",
+    "cmpDisplayStatus": "disabled",
+    "signalStatus": "ready",
+    "supportedAPIs": [
+     "7:usnat, 13:usfl"
+    ],
+    "cmpId": 300,
+    "sectionList": [],
+    "applicableSections": [
+     -1
+    ],
+    "gppString": "",
+    "parsedSections": {}
+   },
+   "ok": true
+  },
+  "dataLayer": [
+   "[\"js\",\"2026-09-30T13:36:09.713Z\"]",
+   "[\"config\",\"G-R56NTBBBCB\"]",
+   "[]",
+   "[]"
+  ],
+  "ls": {
+   "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790775372270",
+   "truereachDebugMode": "false",
+   "_GESPSK-pubcid.org": "[\"pubcid.org\",null,1790775373204,null,null,null,null,null,null,[100]]",
+   "_GESPSK-crwdcntrl.net": "[\"crwdcntrl.net\",\"\",1790775374104]",
+   "panoramaId_expiry": "1790861774280",
+   "_GUSM": "[1790775373207,1790775373207,-1,1,-1,-1]",
+   "cto_bundle": "vkEMMF8xM0Q1NE1rdEtnbG9aM3ZhRkRRZG1MQ29nUmhvNE03NEI4UVpmTG4zNmdYQm9OcDA5ZW5wbmFN",
+   "_GESPSK-id5-sync.com": "[\"id5-sync.com\",null,1790775374275,null,null,null,null,null,null,[106]]",
+   "_GESPSK-esp.criteo.com": "[\"esp.criteo.com\",null,1790775373204,null,null,null,null,null,null,[100]]",
+   "_grecaptcha": "09AKhCRwj-fNXuOLIM7JyFEQCvxiIiG9IhLI5EDe81ws27oyPFKxK5_zdhdHV96WvbDWZwidJhTbx-8H",
+   "_cc_id": "ae3d0a8b5f34a89dfe9b322b3cc56ec4",
+   "_pubcid": "0559d460-3d98-4563-aa81-213f20d96152",
+   "_GSD": "1",
+   "_im_uid.9001": "b.b6ca32489fde09f8",
+   "_GESPSK-intimatemerger.com": "[\"intimatemerger.com\",\"b.b6ca32489fde09f8\",1790775374509]",
+   "_GESPSK-yahoo.com": "[\"yahoo.com\",null,1790775374014,null,null,null,null,null,null,[111]]",
+   "_wpfuj": "{\"1790775370\":\"https%3A%2F%2Fblog.123greetings.com%2Fsympathy-condolences-messag",
+   "_cc_id_update_ts": "1790775374102",
+   "_GESPSK-rtbhouse": "[\"rtbhouse\",\"Ra+nfS9NZQHZMuFdYB9kVz7/FImX4Pb/zAJvUK2vOmve5I9nsPv4RmkAZhqfA4D5/TH",
+   "_im_uid_mt.9001": "Wed, 30 Sep 2026 13:36:14 GMT",
+   "rtbhouse-esp": "7536ae94-db35-41c5-b53c-e9f53f2f0408"
+  },
+  "banner": {
+   "visible": true,
+   "text": "We use cookies to make your experience sweeter! By using our site, you agree to our Cookie Policy. Accept x",
+   "buttons": [
+    "Cookie Policy.",
+    "Accept",
+    "x"
+   ]
+  },
+  "slots": [
+   {
+    "path": "/22081762831,46400095/123greetings_int",
+    "div": "div-gpt-ad-1784526288594-0",
+    "sizes": [
+     "300x400",
+     "300x480",
+     "300x250",
+     "320x480",
+     "250x360",
+     "250x250",
+     "320x400",
+     "300x600",
+     "120x600",
+     "160x600",
+     "336x280",
+     "240x400",
+     "320x250"
+    ],
+    "rect": [
+     45,
+     297,
+     300,
+     250
+    ],
+    "filled": null,
+    "targeting": []
+   }
+  ],
+  "pubadsTargeting": [],
+  "adEls": [
+   {
+    "tag": "DIV",
+    "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+    "cls": "",
+    "rect": [
+     0,
+     0,
+     390,
+     844
+    ],
+    "pos": "fixed",
+    "label": ""
+   },
+   {
+    "tag": "DIV",
+    "id": "div-gpt-ad-1784526288594-0",
+    "cls": "",
+    "rect": [
+     45,
+     297,
+     300,
+     250
+    ],
+    "pos": "static",
+    "label": ""
+   },
+   {
+    "tag": "DIV",
+    "id": "google_ads_iframe_/22081762831,46400095/123greetings_int_0__container__",
+    "cls": "",
+    "rect": [
+     45,
+     297,
+     300,
+     0
+    ],
+    "pos": "static",
+    "label": ""
+   }
+  ],
+  "docH": 1925,
+  "cta": {
+   "href": "https://www.123greetings.com/cookie_policy.html",
+   "text": "Cookie Policy.",
+   "target": "_blank"
+  }
+ },
+ "ga": [
+  {
+   "t": 1045,
+   "tid": "G-R56NTBBBCB",
+   "en": "page_view",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/sympathy-condolences-messages/",
+   "ep": [],
+   "body": ""
+  }
+ ],
+ "gam": [
+  {
+   "t": 4364,
+   "iu": "22081762831:46400095,123greetings_int",
+   "enc": "/0/1",
+   "sz": "300x400|300x480|300x250|320x480|250x360|250x250|320x400|300x600|120x600|160x600|336x280|240x400|320x250",
+   "npa": null,
+   "gdpr": "0",
+   "us_privacy": "1---",
+   "gpp": null,
+   "gpc": null,
+   "rdp": null,
+   "ltd": null,
+   "cookie_enabled": "1",
+   "url": "https://www.123greetings.com/",
+   "loc": "https://blog.123greetings.com/sympathy-condolences-messages/",
+   "ref": null
+  }
+ ],
+ "clickTest": {
+  "before": "https://www.123greetings.com/cookie_policy.html",
+  "hrefAfterMousedown": "https://www.123greetings.com/cookie_policy.html",
+  "requestsAfterClick": [
+   {
+    "t": 30297,
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-R56NTBBBCB&gtm=45je69s1v9250288339za200zd9250288339xf1&_p=1790775369713&gcd=13l3l3l3l1l1&npa=0&dma=0&tcfd=10000&_eu=AEAAAAQ&ae=a&are=1&cid=1168673400.1790775370&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=390x844&uaa=arm&uab=64&uafvl=Chromium%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0&uam=&uamb=1&uap=iOS&uapv=17_0&uaw=0&ul=en-us&_s=2&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153&sid=1790775369&sct=1&seg=1&dl=https%3A%2F%2Fblog.123greetings.com%2Fsympathy-condolences-messages%2F&dt=100%2B%20Condolence%20Messages%20%E2%80%94%20Comforting%20Words%20of%20Sympathy&en=scroll&gap.plf=5&epn.percent_scrolled=90&_et=24240&tfd=30180",
+    "type": "fetch",
+    "post": ""
+   }
+  ]
+ },
+ "stats": {
+  "cached": 67,
+  "fetched": 0,
+  "r429": 0,
+  "f429": 0
+ },
+ "loads": 1
+}

@@ -154,7 +154,7 @@ for chk, fs in det_groups.items():
 det.sort(key=lambda d: (SEV_ORDER[d["severity"]], -d["pages"]))
 
 # ------------------------------------------------------------------ site-level findings
-AREA_LABEL = {"functionality": "Functionality & UX", "performance": "Performance", "seo": "Technical SEO", "accessibility": "Accessibility", "content-strategy": "Content strategy & gaps", "completeness": "Security, privacy & other"}
+AREA_LABEL = {"functionality": "Functionality & UX", "performance": "Performance", "seo": "Technical SEO", "accessibility": "Accessibility", "content-strategy": "Content strategy & gaps", "completeness": "Privacy, ads, security & other"}
 site = []
 for key, a in SA.items():
     fs = [f for f in a["findings"] if f.get("verdict") not in ("refuted",)]
@@ -203,9 +203,19 @@ def md_escape(s):
 
 L = []
 L.append("# blog.123greetings.com — site audit (30 Sep 2026)\n")
+rev_total = sum(p.get("reviewer_issue_count", 0) for p in PR.values())
+rej_total = sum(len(p.get("rejected", [])) for p in PR.values())
+added = sum(1 for p in PR.values() for i in p["issues"] if i.get("source") == "verifier")
+site_refuted = sum(len(s["refuted"]) for s in site)
 L.append(f"Crawled **{kpis['urls']} URLs** (sitemaps + every internal link), checked **{kpis['link_targets']} unique link/image targets**, "
-         f"and had every one of the **{kpis['content_pages']} pages and posts** read line by line by review agents, with each finding re-checked by an adversarial verifier. "
-         f"Functionality, performance, SEO, accessibility and content strategy were audited separately in a real browser and verified the same way.\n")
+         f"and had every one of the **{kpis['content_pages']} pages and posts** read line by line by review agents. "
+         f"Reviewers raised {rev_total:,} issues; an adversarial verifier rejected {rej_total} of them as false positives or style preferences and added {added} the reviewers missed. "
+         f"Of the {rev_total - rej_total + added:,} that survived, {len(hidden_errors)} only concern a hidden template block and are listed separately, leaving **{kpis['errors']:,} visible errors**. "
+         f"Functionality, performance, SEO, accessibility and content strategy were audited in headless Chromium and each finding was re-tested by a second agent "
+         f"({site_refuted} refuted and dropped; numbers corrected where they were off), and a completeness critic covered privacy, ads, security and other gaps.\n")
+L.append("> Caveats: our test IP was rate-limited by WordPress.com (HTTP 429) during parts of the audit, so Lighthouse timings are indicative. Re-check them in PageSpeed Insights. "
+         "Factual corrections (observance dates, history) were checked by the verifier against web sources, but an editor should confirm them before publishing. "
+         "Privacy and ad observations describe what a US browser session received; they are not legal advice.\n")
 L.append("## Headline numbers\n")
 L.append(f"| | |\n|---|---|\n"
          f"| Verified wording / content errors | **{kpis['errors']}** ({kpis['errors_high']} high severity) |\n"
@@ -249,6 +259,13 @@ for s in site:
         L.append(f"**Fix.** {x['fix']}\n")
     if s["refuted"]:
         L.append(f"_Refuted by the verifier and dropped: {'; '.join(s['refuted'])}_\n")
+    for tb in s["tables"]:
+        L.append(f"\n<details><summary><b>Table: {md_escape(tb['name'])}</b> ({len(tb['rows'])} rows)</summary>\n")
+        L.append("| " + " | ".join(md_escape(c) for c in tb["columns"]) + " |")
+        L.append("|" + "---|" * len(tb["columns"]))
+        for row in tb["rows"]:
+            L.append("| " + " | ".join(md_escape(str(c) if c is not None else "") for c in row) + " |")
+        L.append("\n</details>\n")
 
 L.append("\n## Thin pages — highest priority\n")
 L.append("| Page | Words | Messages | Title claims | Score | What to add (top items) |\n|---|---|---|---|---|---|")

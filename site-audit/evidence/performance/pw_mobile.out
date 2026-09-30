@@ -1,0 +1,9 @@
+mobile / status=200 load=6441ms ttfb=526 fcp=1552 lcp=1664 cls=0.000 longtasks=15 tbt~1220 reqs=109 bytes=4243KiB dom=600 depth=25
+mobile /birthday-messages/ status=200 load=7902ms ttfb=152 fcp=1132 lcp=1132 cls=0.023 longtasks=18 tbt~1916 reqs=131 bytes=4636KiB dom=966 depth=17
+mobile /birthday-messages-for-mom/ status=200 load=8347ms ttfb=210 fcp=1280 lcp=1280 cls=0.022 longtasks=19 tbt~2319 reqs=126 bytes=4355KiB dom=529 depth=17
+mobile /mothers-day-messages/ status=200 load=8089ms ttfb=270 fcp=1376 lcp=1956 cls=0.125 longtasks=17 tbt~1808 reqs=124 bytes=4341KiB dom=773 depth=17
+mobile /mothers-day-messages-for-wife-what-she-actually-wants/ status=200 load=5657ms ttfb=192 fcp=1364 lcp=2368 cls=0.035 longtasks=14 tbt~1359 reqs=89 bytes=3821KiB dom=652 depth=16
+mobile /archive/ status=200 load=5738ms ttfb=419 fcp=1364 lcp=2348 cls=0.008 longtasks=17 tbt~1239 reqs=92 bytes=3952KiB dom=527 depth=19
+mobile /tag/alps/ status=200 load=6082ms ttfb=428 fcp=1672 lcp=2804 cls=0.008 longtasks=13 tbt~1123 reqs=83 bytes=3787KiB dom=465 depth=16
+asset cache stats {"cached":466,"fetched":7,"n429":0,"blocked":0}
+wrote agent-work/performance/pw_mobile.json

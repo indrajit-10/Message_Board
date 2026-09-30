@@ -1,0 +1,283 @@
+{
+ "desktopMom": {
+  "status": 200,
+  "pageErrors": [],
+  "visibleCopyButtons": 7,
+  "allCopyButtons": 9,
+  "btnA11y": {
+   "ariaLabel": null,
+   "title": null,
+   "size": [
+    18,
+    22
+   ],
+   "focusOutline": "none 0px"
+  },
+  "clipboard": "“Happy birthday to the woman who taught me everything I know, including how to fold a fitted sheet (still working on it). You’ve been quietly running everyone’s life for years and still somehow have t",
+  "drift": [
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   },
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:-80:80",
+     "penci_header.penci-header-builder.main-builder-header:static:0:84",
+     "penci_navbar_mobile.shadow-enable:static:0:0"
+    ]
+   }
+  ],
+  "cls": {
+   "value": 0.0088323517393884,
+   "entries": [
+    {
+     "t": 1231,
+     "v": 0.001,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_flexrow",
+      "li#menu-item-2373.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2377.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2374.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2376.menu-item.menu-item-type-custom.menu-item-object-custom"
+     ]
+    },
+    {
+     "t": 1270,
+     "v": 0.0078,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.elementor-text-editor.elementor-clearfix"
+     ]
+    }
+   ]
+  }
+ },
+ "desktopPost": {
+  "status": 200,
+  "toggleCount": 0,
+  "shareHtml": "<span class=\"post-meta-share\"> <span class=\"post-share-text\">Share</span> <div class=\"penci-pshare-dropdown penci-social-textcolored\"> <a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send?text=Mother%E2%80%99s%20Day%20Messages%20for%20Wife%3A%20What%20She%20Actually%20Wants %0A%0A https%3A%2F%2Fblog.123greetings.com%2Fmothers-day-messages-for-wife-what-she-actually-wants%2F\"><i class=\"penci-faicon fa fa-whatsapp\"></i><span class=\"dt-share\">Whatsapp</span></a><a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https",
+  "copyLinkVisible": false,
+  "relatedTitles": [
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob"
+  ],
+  "youMayAlsoLike": [
+   {
+    "t": "YOU MAY ALSO LIKE",
+    "y": 5052,
+    "vis": true
+   }
+  ]
+ },
+ "megaMenuPage": {
+  "status": 200,
+  "title": "Mega Menu - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "text": "Five Minutes With Bob AUGUST 2, 2026 Five Minutes With Bob AUGUST 1, 2026 Five Minutes With Bob JULY 31, 2026 Five Minutes With Bob JULY 30, 2026 Five Minutes With Bob JULY 29, 2026 Five Minutes With Bob JULY 28, 2026"
+ },
+ "mobileMom": {
+  "status": 200,
+  "drift": [
+   {
+    "sy": 0,
+    "docTop": 0,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable:static:0:66"
+    ]
+   },
+   {
+    "sy": 40,
+    "docTop": 40,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:static:-40:66"
+    ]
+   },
+   {
+    "sy": 80,
+    "docTop": 80,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 120,
+    "docTop": 120,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 160,
+    "docTop": 160,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 200,
+    "docTop": 200,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 260,
+    "docTop": 260,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 320,
+    "docTop": 320,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 400,
+    "docTop": 400,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   },
+   {
+    "sy": 600,
+    "docTop": 600,
+    "headers": [
+     "penci_header.penci-header-builder.penci_builder_sticky_header_desktop:fixed:0:0",
+     "penci_header.penci-header-builder.main-builder-header:static:0:0",
+     "penci_navbar_mobile.shadow-enable.scrolldown:fixed:0:66"
+    ]
+   }
+  ],
+  "cls": {
+   "value": 0.07819905213270142,
+   "entries": [
+    {
+     "t": 9787,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    }
+   ]
+  }
+ },
+ "assetStats": {
+  "cached": 255,
+  "fetched": 2,
+  "retried429": 0,
+  "failed429": 0,
+  "forcedFail": 0
+ },
+ "loads": 4
+}

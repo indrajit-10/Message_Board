@@ -1,0 +1,275 @@
+
+###### thank-you
+  /thank-you-messages/                             msgs=23 words= 611 faq=0 inl=2 pub=2026-05-27 | T: 100+ Thank You Messages — Heartfelt Words of Gratitude | H1: ['Thank You Messages'] | MD: Find 100+ thank you messages for every occasion. Heartfelt, short, and meaningful words of appreciation for fr
+  /thankyou-messages/                              msgs= 0 words= 394 faq=0 inl=1 pub=2026-09-22 | T: Heartfelt Thank You Messages, All Occasions | H1: ['Thankyou Messages'] | MD: Thank you messages for everyone who deserves one — coworkers, loved ones, well-wishers and everyone in between
+  /national-thank-you-day-messages/                msgs= 5 words= 371 faq=5 inl=1 pub=2026-08-11 | T: National Thank You Day Messages & Wishes | 123Greetings | H1: ['National Thank You Day Messages'] | MD: Celebrate National Thank You Day with heartfelt messages, and thank-you notes for friends, family, and loved o
+  /thank-you-day-messages/                         msgs= 5 words= 298 faq=5 inl=0 pub=2026-07-18 | T: Thank You Day Wishes, Messages & Heartfelt Greetings | H1: ['Thank You Day Messages'] | MD: Explore heartfelt Thank You Day greetings and appreciation messages to thank friends, family, and loved ones w
+  /dailies-thankyou-messages/                      msgs= 5 words= 331 faq=5 inl=1 pub=2026-09-18 | T: Thank You Dailies – Everyday Gratitude Messages | H1: ['Dailies: Thankyou Messages'] | MD: Send Thank You Dailies to show real gratitude — everyday messages for the people and little things that deserv
+     /thank-you-messages/ ~ /thankyou-messages/ : title-overlap=0.40 msg-vocab-jaccard=0.00
+     /thank-you-messages/ ~ /national-thank-you-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.13
+     /thank-you-messages/ ~ /thank-you-day-messages/ : title-overlap=0.40 msg-vocab-jaccard=0.14
+     /thank-you-messages/ ~ /dailies-thankyou-messages/ : title-overlap=0.33 msg-vocab-jaccard=0.06
+     /thankyou-messages/ ~ /national-thank-you-day-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.00
+     /thankyou-messages/ ~ /thank-you-day-messages/ : title-overlap=0.50 msg-vocab-jaccard=0.00
+     /thankyou-messages/ ~ /dailies-thankyou-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.00
+     /national-thank-you-day-messages/ ~ /thank-you-day-messages/ : title-overlap=0.50 msg-vocab-jaccard=0.39
+     /national-thank-you-day-messages/ ~ /dailies-thankyou-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.11
+     /thank-you-day-messages/ ~ /dailies-thankyou-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.13
+
+###### dance
+  /dance-day-messages/                             msgs= 6 words= 111 faq=0 inl=1 pub=2026-06-27 | T: 30+ International Dance Day Messages & Wishes (Apr 29) | H1: ['Dance Day Messages'] | MD: Celebrate International Dance Day with 30+ fun, inspiring, and rhythmic messages. Share the joy of dance with 
+  /national-tap-dance-day-messages/                msgs= 4 words=  81 faq=0 inl=1 pub=2026-05-27 | T: 30+ National Tap Dance Day Messages & Wishes (May 25) | H1: ['National Tap Dance Day Messages'] | MD: Celebrate National Tap Dance Day with 30+ fun messages, wishes, and dance quotes. Share the rhythm with friend
+     /dance-day-messages/ ~ /national-tap-dance-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.10
+
+###### work-anniv
+  /work-anniversary-messages/                      msgs= 5 words= 105 faq=0 inl=1 pub=2026-08-22 | T: Work Anniversary Messages & Wishes | H1: ['Work Anniversary Messages'] | MD: Celebrate a colleague, employee, or work friend with thoughtful work anniversary messages and wishes for their
+  /anniversary-messages-for-co-worker/             msgs= 9 words= 214 faq=0 inl=1 pub=2026-05-20 | T: Work Anniversary Messages for Coworker - Warm & Professional | H1: ['Anniversary messages for Co-worker'] | MD: Congratulate a colleague on their work anniversary with 40+ professional, warm, and appreciative messages. Per
+  /anniversary-messages-for-employee/              msgs= 7 words= 128 faq=0 inl=1 pub=2026-05-20 | T: Anniversary Messages for Employee: Work Anniversary Wishes | H1: ['Anniversary messages for Employee'] | MD: Celebrate your team with heartfelt anniversary messages for employee milestones. Share wishes to thank staff f
+  /anniversary-messages-for-boss/                  msgs=15 words= 321 faq=0 inl=1 pub=2026-05-20 | T: 50+ Work Anniversary Wishes for Boss — Professional & Warm | H1: ['Anniversary messages for Boss'] | MD: Congratulate your boss on their work anniversary with 50+ professional, warm, and appreciative messages. The r
+  /at-work-messages/                               msgs= 6 words= 188 faq=0 inl=0 pub=2026-05-27 | T: 50+ Workplace Messages — Professional Wishes for Colleagues | H1: ['At Work Messages'] | MD: Find 50+ professional and warm workplace messages for colleagues, bosses, and teams. The right words for every
+     /work-anniversary-messages/ ~ /anniversary-messages-for-co-worker/ : title-overlap=0.40 msg-vocab-jaccard=0.12
+     /work-anniversary-messages/ ~ /anniversary-messages-for-employee/ : title-overlap=0.67 msg-vocab-jaccard=0.11
+     /work-anniversary-messages/ ~ /anniversary-messages-for-boss/ : title-overlap=0.40 msg-vocab-jaccard=0.11
+     /work-anniversary-messages/ ~ /at-work-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /anniversary-messages-for-co-worker/ ~ /anniversary-messages-for-employee/ : title-overlap=0.33 msg-vocab-jaccard=0.10
+     /anniversary-messages-for-co-worker/ ~ /anniversary-messages-for-boss/ : title-overlap=0.67 msg-vocab-jaccard=0.20
+     /anniversary-messages-for-co-worker/ ~ /at-work-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.12
+     /anniversary-messages-for-employee/ ~ /anniversary-messages-for-boss/ : title-overlap=0.33 msg-vocab-jaccard=0.10
+     /anniversary-messages-for-employee/ ~ /at-work-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /anniversary-messages-for-boss/ ~ /at-work-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.09
+
+###### wedding-anniv
+  /anniversary-messages/                           msgs= 0 words= 135 faq=0 inl=2 pub=2026-05-20 | T: 250+ Anniversary Messages — Heartfelt Wishes for Everyone | H1: ['Anniversary messages, wishes & card ideas'] | MD: Discover 250+ anniversary messages for every relationship. Browse heartfelt, romantic, funny, and meaningful w
+  /wedding-anniversary-messages/                   msgs= 5 words= 158 faq=0 inl=1 pub=2026-08-22 | T: Wedding Anniversary Messages & Wishes | H1: ['Wedding Anniversary Messages'] | MD: Find heartfelt wedding anniversary messages and wishes for spouses, couples, friends, and family to celebrate 
+  /relationship-anniversary-messages/              msgs= 5 words= 121 faq=0 inl=1 pub=2026-08-22 | T: Relationship Anniversary Messages & Wishes | H1: ['Relationship Anniversary Messages'] | MD: Celebrate your relationship anniversary with heartfelt, romantic, and meaningful messages that make your speci
+  /dating-anniversary-messages/                    msgs= 5 words= 119 faq=0 inl=1 pub=2026-08-22 | T: Dating Anniversary Messages & Wishes | H1: ['Dating Anniversary Messages'] | MD: Celebrate the love, memories, and milestones you share with sweet and romantic dating anniversary messages for
+     /anniversary-messages/ ~ /wedding-anniversary-messages/ : title-overlap=0.25 msg-vocab-jaccard=0.00
+     /anniversary-messages/ ~ /relationship-anniversary-messages/ : title-overlap=0.25 msg-vocab-jaccard=0.00
+     /anniversary-messages/ ~ /dating-anniversary-messages/ : title-overlap=0.25 msg-vocab-jaccard=0.00
+     /wedding-anniversary-messages/ ~ /relationship-anniversary-messages/ : title-overlap=0.33 msg-vocab-jaccard=0.20
+     /wedding-anniversary-messages/ ~ /dating-anniversary-messages/ : title-overlap=0.33 msg-vocab-jaccard=0.32
+     /relationship-anniversary-messages/ ~ /dating-anniversary-messages/ : title-overlap=0.33 msg-vocab-jaccard=0.22
+
+###### friendship
+  /friendship-messages/                            msgs= 0 words= 552 faq=5 inl=3 pub=2026-09-16 | T: Top Friendship Messages That will Rekindle The Bond | H1: ['Friendship Messages'] | MD: Celebrate your friends with 80+ warm, funny, and heartfelt friendship messages. Perfect words to share on any 
+  /friendship-day-messages/                        msgs= 6 words= 393 faq=5 inl=2 pub=2026-06-01 | T: 75+ Friendship Day Messages & Wishes — Fun & Heartfelt | H1: ['Friendship Day Messages'] | MD: Celebrate your friends with 75+ fun, heartfelt, and touching Friendship Day messages. Perfect wishes for cards
+  /friendship-week/                                msgs=10 words= 439 faq=5 inl=1 pub=2026-07-15 | T: Friendship Week Messages- Wishes, Quotes & Greetings | H1: ['Friendship Week Messages'] | MD: Looking for the Best Friendship Week messages? Find heartfelt wishes and greetings perfect for your loved ones
+  /national-best-friends-day-messages/             msgs= 5 words= 968 faq=17 inl=1 pub=2026-06-02 | T: 50+ National Best Friends Day Messages & Wishes (Jun 8) | H1: ['National Best Friends Day Messages'] | MD: Celebrate your bestie on National Best Friends Day with 50+ fun, sweet, and heartfelt messages. Perfect wishes
+  /friendship-messages-for-best-friends/           msgs= 8 words= 386 faq=5 inl=1 pub=2026-09-16 | T: Best Friend Messages: Funny, Heartfelt & Wishes | H1: ['Friendship Messages for Best Friends'] | MD: Make your best friend smile with funny, heartfelt friendship messages and wishes filled with inside jokes, lau
+  /womens-friendship-day-messages/                 msgs= 5 words= 328 faq=5 inl=1 pub=2026-08-14 | T: Women’s Friendship Day Messages & Wishes | 123Greetings | H1: ['Women’s Friendship Day Messages'] | MD: Celebrate Women’s Friendship Day with heartfelt messages and wishes for the amazing women who bring laughter, 
+  /friendship-anniversary-messages/                msgs= 5 words= 104 faq=0 inl=1 pub=2026-08-25 | T: Friendship Anniversary Messages & Wishes | H1: ['Anniversary messages For Friendship'] | MD: Celebrate the special bond of friendship with heartfelt friendship anniversary messages and wishes for your cl
+  /anniversary-messages-for-friends/               msgs= 5 words= 154 faq=0 inl=1 pub=2026-05-20 | T: 50+ Anniversary Wishes for Friends — Warm & Cheerful | H1: ['Anniversary messages for Friends'] | MD: Celebrate your friends' love with 50+ warm, funny, and heartfelt anniversary wishes. Perfect messages for coup
+     /friendship-messages/ ~ /friendship-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.00
+     /friendship-messages/ ~ /friendship-week/ : title-overlap=0.14 msg-vocab-jaccard=0.00
+     /friendship-messages/ ~ /national-best-friends-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.00
+     /friendship-messages/ ~ /friendship-messages-for-best-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.00
+     /friendship-messages/ ~ /womens-friendship-day-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.00
+     /friendship-messages/ ~ /friendship-anniversary-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.00
+     /friendship-messages/ ~ /anniversary-messages-for-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.00
+     /friendship-day-messages/ ~ /friendship-week/ : title-overlap=0.17 msg-vocab-jaccard=0.10
+     /friendship-day-messages/ ~ /national-best-friends-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.08
+     /friendship-day-messages/ ~ /friendship-messages-for-best-friends/ : title-overlap=0.17 msg-vocab-jaccard=0.09
+     /friendship-day-messages/ ~ /womens-friendship-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.08
+     /friendship-day-messages/ ~ /friendship-anniversary-messages/ : title-overlap=0.25 msg-vocab-jaccard=0.07
+     /friendship-day-messages/ ~ /anniversary-messages-for-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.07
+     /friendship-week/ ~ /national-best-friends-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.11
+     /friendship-week/ ~ /friendship-messages-for-best-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.09
+     /friendship-week/ ~ /womens-friendship-day-messages/ : title-overlap=0.33 msg-vocab-jaccard=0.14
+     /friendship-week/ ~ /friendship-anniversary-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.10
+     /friendship-week/ ~ /anniversary-messages-for-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.07
+     /national-best-friends-day-messages/ ~ /friendship-messages-for-best-friends/ : title-overlap=0.14 msg-vocab-jaccard=0.08
+     /national-best-friends-day-messages/ ~ /womens-friendship-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.10
+     /national-best-friends-day-messages/ ~ /friendship-anniversary-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.07
+     /national-best-friends-day-messages/ ~ /anniversary-messages-for-friends/ : title-overlap=0.14 msg-vocab-jaccard=0.09
+     /friendship-messages-for-best-friends/ ~ /womens-friendship-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.13
+     /friendship-messages-for-best-friends/ ~ /friendship-anniversary-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.17
+     /friendship-messages-for-best-friends/ ~ /anniversary-messages-for-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.11
+     /womens-friendship-day-messages/ ~ /friendship-anniversary-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.12
+     /womens-friendship-day-messages/ ~ /anniversary-messages-for-friends/ : title-overlap=0.00 msg-vocab-jaccard=0.06
+     /friendship-anniversary-messages/ ~ /anniversary-messages-for-friends/ : title-overlap=0.20 msg-vocab-jaccard=0.13
+
+###### inspiration
+  /inspiration-messages/                           msgs= 0 words= 489 faq=5 inl=1 pub=2026-09-24 | T: Inspiration Messages - 123Greetings Blog - Free eCards, Card Message Ideas  | H1: ['Inspiration Messages'] | MD: 
+  /inspiration-messages-motivation/                msgs=19 words= 775 faq=4 inl=1 pub=2026-09-24 | T: Motivation Messages & Inspirational Words | 123Greetings | H1: ['Inspiration Messages: Motivation'] | MD: Find heartfelt messages to inspire, encourage, and uplift someone when they need confidence to keep going and 
+  /inspiration-messages-you-can-do-it/             msgs=17 words= 687 faq=4 inl=1 pub=2026-09-24 | T: You Can Do It Messages & Encouraging Words | 123Greetings | H1: ['Inspiration Messages: You Can Do It'] | MD: Send inspiring “You Can Do It” messages to motivate, lift spirits, and remind someone to believe in themselves
+  /more-inspiration-messages/                      msgs=60 words= 918 faq=0 inl=1 pub=2026-06-01 | T: 80+ Words of Encouragement — Uplifting & Inspiring Messages | H1: ['More inspiration Messages'] | MD: Lift someone's spirits with 80+ uplifting words of encouragement and inspiring messages. Perfect for friends, 
+  /national-day-of-encouragement-messages/         msgs= 5 words= 373 faq=5 inl=1 pub=2026-08-05 | T: National Day of Encouragement Messages & Wishes | H1: ['National Day of Encouragement Messages'] | MD: Celebrate National Day of Encouragement with inspiring messages, and heartfelt words to motivate friends, fami
+  /positive-thinking-day-messages/                 msgs= 5 words= 343 faq=5 inl=1 pub=2026-08-14 | T: Positive Thinking Day Messages & Wishes | 123Greetings | H1: ['Positive Thinking Day Messages'] | MD: Celebrate Positive Thinking Day with uplifting messages and wishes that inspire hope, optimism, and positivity
+     /inspiration-messages/ ~ /inspiration-messages-motivation/ : title-overlap=0.08 msg-vocab-jaccard=0.00
+     /inspiration-messages/ ~ /inspiration-messages-you-can-do-it/ : title-overlap=0.08 msg-vocab-jaccard=0.00
+     /inspiration-messages/ ~ /more-inspiration-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.00
+     /inspiration-messages/ ~ /national-day-of-encouragement-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.00
+     /inspiration-messages/ ~ /positive-thinking-day-messages/ : title-overlap=0.08 msg-vocab-jaccard=0.00
+     /inspiration-messages-motivation/ ~ /inspiration-messages-you-can-do-it/ : title-overlap=0.33 msg-vocab-jaccard=0.32
+     /inspiration-messages-motivation/ ~ /more-inspiration-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.30
+     /inspiration-messages-motivation/ ~ /national-day-of-encouragement-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.16
+     /inspiration-messages-motivation/ ~ /positive-thinking-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.15
+     /inspiration-messages-you-can-do-it/ ~ /more-inspiration-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.22
+     /inspiration-messages-you-can-do-it/ ~ /national-day-of-encouragement-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.15
+     /inspiration-messages-you-can-do-it/ ~ /positive-thinking-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.14
+     /more-inspiration-messages/ ~ /national-day-of-encouragement-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.12
+     /more-inspiration-messages/ ~ /positive-thinking-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.10
+     /national-day-of-encouragement-messages/ ~ /positive-thinking-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.15
+
+###### business-anniv
+  /business-anniversary-messages/                  msgs= 5 words=  98 faq=0 inl=1 pub=2026-08-25 | T: Business Anniversary Messages & Wishes | H1: ['Anniversary messages For Business'] | MD: Mark another year of business success with meaningful anniversary messages and wishes for your company, employ
+  /company-anniversary-messages/                   msgs= 5 words= 114 faq=0 inl=1 pub=2026-08-25 | T: Company Anniversary Messages & Wishes | H1: ['Anniversary messages for Company'] | MD: Celebrate your company anniversary with thoughtful messages and wishes for your team, employees, clients, and 
+  /anniversary-messages-for-customers/             msgs=21 words= 399 faq=0 inl=1 pub=2026-05-20 | T: 40+ Business Anniversary Messages for Customers — Grateful | H1: ['Anniversary messages for Customers'] | MD: Thank your loyal customers with 40+ warm and professional business anniversary messages. Show appreciation for
+     /business-anniversary-messages/ ~ /company-anniversary-messages/ : title-overlap=0.33 msg-vocab-jaccard=0.22
+     /business-anniversary-messages/ ~ /anniversary-messages-for-customers/ : title-overlap=0.50 msg-vocab-jaccard=0.12
+     /company-anniversary-messages/ ~ /anniversary-messages-for-customers/ : title-overlap=0.20 msg-vocab-jaccard=0.14
+
+###### love
+  /love-messages/                                  msgs=38 words= 609 faq=0 inl=2 pub=2026-05-27 | T: 100+ Love Messages — Romantic, Sweet & Deeply Heartfelt | H1: ['Love Messages'] | MD: Express your feelings with 100+ romantic love messages. Find sweet, deep, and heartfelt messages to send to yo
+  /cute-messages/                                  msgs= 7 words= 249 faq=3 inl=1 pub=2026-07-14 | T: Cute Messages for Your Partner: Sweet Everyday Texts to Share | H1: ['Cute Messages'] | MD: Discover cute messages for your partner to brighten their day. Sweet, romantic texts and quotes to share that 
+  /national-i-love-you-day-messages/               msgs=14 words= 501 faq=5 inl=1 pub=2026-06-01 | T: National I Love You Day Messages & Wishes | H1: ['National I love You Day Messages'] | MD: Celebrate National I Love You Day with heartfelt messages and wishes for your partner, and everyone who makes 
+  /romance-day-messages/                           msgs= 5 words= 321 faq=5 inl=1 pub=2026-07-14 | T: Romance Day Messages to Celebrate Love & Togetherness | H1: ['Romance Day Messages'] | MD: Explore romantic Romance Day messages and heartfelt wishes to make your loved one smile. Ideal for greeting ca
+  /romance-awareness-month-messages/               msgs= 5 words= 445 faq=5 inl=1 pub=2026-07-14 | T: Romance Awareness Month Wishes & Romantic Messages | H1: ['Romance Awareness Month Messages'] | MD: Discover Romance Awareness Month wishes & romantic messages to express your love. Share meaningful greetings i
+  /true-love-forever-day-messages/                 msgs= 5 words= 355 faq=5 inl=1 pub=2026-07-14 | T: True Love Forever Day Messages for Your Special Someone | H1: ['True Love Forever Day Messages'] | MD: Discover heartfelt True Love Forever Day messages to express lasting love & appreciation. Perfect for greeting
+     /love-messages/ ~ /cute-messages/ : title-overlap=0.10 msg-vocab-jaccard=0.06
+     /love-messages/ ~ /national-i-love-you-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.12
+     /love-messages/ ~ /romance-day-messages/ : title-overlap=0.12 msg-vocab-jaccard=0.10
+     /love-messages/ ~ /romance-awareness-month-messages/ : title-overlap=0.12 msg-vocab-jaccard=0.11
+     /love-messages/ ~ /true-love-forever-day-messages/ : title-overlap=0.11 msg-vocab-jaccard=0.06
+     /cute-messages/ ~ /national-i-love-you-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /cute-messages/ ~ /romance-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.07
+     /cute-messages/ ~ /romance-awareness-month-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /cute-messages/ ~ /true-love-forever-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /national-i-love-you-day-messages/ ~ /romance-day-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.11
+     /national-i-love-you-day-messages/ ~ /romance-awareness-month-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.10
+     /national-i-love-you-day-messages/ ~ /true-love-forever-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.12
+     /romance-day-messages/ ~ /romance-awareness-month-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.13
+     /romance-day-messages/ ~ /true-love-forever-day-messages/ : title-overlap=0.12 msg-vocab-jaccard=0.08
+     /romance-awareness-month-messages/ ~ /true-love-forever-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.09
+
+###### kiss
+  /international-kissing-day-messages/             msgs= 4 words=  72 faq=0 inl=1 pub=2026-06-20 | T: 30+ International Kissing Day Messages & Wishes (Jul 6) | H1: ['International Kissing Day Messages'] | MD: Celebrate International Kissing Day with 30+ sweet, romantic, and fun messages. Perfect wishes to share with y
+  /sneak-a-kiss-day-messages/                      msgs= 3 words=  68 faq=0 inl=1 pub=2026-06-10 | T: 25+ Sneak a Kiss Day Messages & Wishes — Fun & Flirty | H1: ['Sneak a Kiss Day Messages'] | MD: Celebrate Sneak a Kiss Day with 25+ fun, flirty, and sweet messages. Cute wishes and quotes to share with your
+  /longest-kiss-day-messages/                      msgs= 7 words= 334 faq=5 inl=1 pub=2026-08-17 | T: Longest Kiss Day Messages for Your Special Someone | H1: ['Longest Kiss Day Messages'] | MD: Some kisses aren't measured in seconds. Celebrate Longest Kiss Day with messages for the one who makes you for
+  /kiss-and-make-up-day-messages/                  msgs= 5 words= 431 faq=5 inl=1 pub=2026-08-06 | T: Kiss and Make Up Day Messages & Wishes | H1: ['Kiss and Make Up Day Messages'] | MD: Celebrate Kiss and Make Up Day with heartfelt messages, and apology wishes to mend relationships, forgive, and
+     /international-kissing-day-messages/ ~ /sneak-a-kiss-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.04
+     /international-kissing-day-messages/ ~ /longest-kiss-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.10
+     /international-kissing-day-messages/ ~ /kiss-and-make-up-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.03
+     /sneak-a-kiss-day-messages/ ~ /longest-kiss-day-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.04
+     /sneak-a-kiss-day-messages/ ~ /kiss-and-make-up-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.07
+     /longest-kiss-day-messages/ ~ /kiss-and-make-up-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.11
+
+###### angel
+  /angel-week-messages/                            msgs= 5 words= 332 faq=5 inl=1 pub=2026-08-13 | T: Angel Week Messages & Wishes | 123Greetings | H1: ['Angel Week Messages'] | MD: Send heartfelt Angel Week messages and wishes to celebrate the kind, caring people who bring light and positiv
+  /be-an-angel-day-messages/                       msgs= 5 words= 348 faq=5 inl=0 pub=2026-07-18 | T: Best Be an Angel Day Messages to Brighten Someone's Day | H1: ['Be an Angel Day Messages'] | MD: Discover Thoughtful Be an Angel Day messages to thank someone for their kindness . Perfect for greeting cards,
+  /guardian-angel-day-messages/                    msgs= 5 words= 364 faq=5 inl=2 pub=2026-09-03 | T: Guardian Angel Day Wishes & Messages | 123Greetings | H1: ['Guardian Angel Day Messages'] | MD: Celebrate Guardian Angel Day with heartfelt wishes and messages to honor the angels who watch over and guide u
+     /angel-week-messages/ ~ /be-an-angel-day-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.22
+     /angel-week-messages/ ~ /guardian-angel-day-messages/ : title-overlap=0.50 msg-vocab-jaccard=0.07
+     /be-an-angel-day-messages/ ~ /guardian-angel-day-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.06
+
+###### cat
+  /international-cat-day-messages/                 msgs= 5 words= 352 faq=5 inl=1 pub=2026-07-18 | T: International Cat Day: Fun & Quirky Messages for Cat Lovers | H1: ['International Cat Day Messages'] | MD: Celebrate International Cat Day with witty messages for cat lovers. Find the purr-fect wish, for friends, fami
+  /national-cat-day-messages/                      msgs= 5 words= 276 faq=5 inl=1 pub=2026-08-25 | T: National Cat Day Messages & Wishes | 123Greetings | H1: ['National Cat Day Messages'] | MD: Celebrate National Cat Day with adorable messages and wishes by sharing love, laughs, and appreciation for you
+     /international-cat-day-messages/ ~ /national-cat-day-messages/ : title-overlap=0.14 msg-vocab-jaccard=0.11
+
+###### hug
+  /hug-week-messages/                              msgs= 5 words=  92 faq=0 inl=1 pub=2026-06-27 | T: 30+ Hug Week Messages & Wishes — Warm & Heartfelt | H1: ['Hug Week Messages'] | MD: Spread warmth during Hug Week with 30+ cozy, heartfelt, and loving messages. Sweet wishes to share with everyo
+  /hug-your-sweetheart-day-messages/               msgs= 5 words= 349 faq=5 inl=1 pub=2026-07-14 | T: Hug Your Sweetheart Day Messages – Wishes & Greetings | H1: ['Hug Your Sweetheart Day Messages'] | MD: Celebrate Hug Your Sweetheart Day with heartfelt messages, romantic wishes, and loving greetings. Perfect for 
+     /hug-week-messages/ ~ /hug-your-sweetheart-day-messages/ : title-overlap=0.17 msg-vocab-jaccard=0.12
+
+###### smile
+  /smile-month-messages/                           msgs=14 words= 502 faq=5 inl=1 pub=2026-07-14 | T: Smile Month Messages: Wishes, Quotes & Greetings | H1: ['Smile Month Messages'] | MD: Celebrate Smile Month with heartfelt messages, cheerful wishes, and inspiring greetings. Perfect for greeting 
+  /send-a-smile-day-messages/                      msgs= 5 words= 320 faq=5 inl=1 pub=2026-09-03 | T: Send a Smile Day Wishes & Messages | 123Greetings | H1: ['Send a Smile Day Messages'] | MD: Celebrate Send a Smile Day with cheerful & heartfelt messages. Share a little happiness & brighten someone’s d
+     /smile-month-messages/ ~ /send-a-smile-day-messages/ : title-overlap=0.40 msg-vocab-jaccard=0.07
+
+###### fiance
+  /anniversary-messages-for-fiance/                msgs=14 words= 328 faq=0 inl=1 pub=2026-05-20 | T: 50+ Anniversary Wishes for Fiance — Loving & Heartfelt | H1: ['Anniversary messages for Fiancé'] | MD: Find 50+ loving, heartfelt, and romantic anniversary wishes for your fiance. The perfect words to celebrate yo
+  /anniversary-messages-for-fiancee/               msgs=14 words= 256 faq=0 inl=1 pub=2026-05-20 | T: Anniversary Messages for Fiancee: Romantic Wishes & Quotes | H1: ['Anniversary messages for Fiancée'] | MD: Send sweet anniversary messages for fiancee to celebrate your love. Explore romantic anniversary wishes & quot
+     /anniversary-messages-for-fiance/ ~ /anniversary-messages-for-fiancee/ : title-overlap=0.14 msg-vocab-jaccard=0.14
+
+###### parents
+  /parents-day-messages/                           msgs=11 words= 387 faq=5 inl=1 pub=2026-06-27 | T: 100+ Parents Day Messages & Wishes — Heartfelt & Loving | H1: ['Parents Day Messages'] | MD: Honor Mom and Dad with 100+ heartfelt, loving, and proud Parents Day messages. Beautiful wishes from grateful 
+  /working-parents-day/                            msgs= 5 words= 301 faq=5 inl=1 pub=2026-08-03 | T: Working Parents Day Messages, Wishes & Quotes | H1: ['Working Parents Day Messages'] | MD: Celebrate Working Parents Day with heartfelt messages, wishes, and quotes to thank hardworking moms and dads f
+  /anniversary-messages-for-parents/               msgs= 5 words= 158 faq=0 inl=1 pub=2026-05-20 | T: 75+ Anniversary Wishes for Parents — Heartfelt & Proud | H1: ['Anniversary messages for Parents'] | MD: Honor your parents' love story with 75+ heartfelt, proud, and warm anniversary wishes. Beautiful messages from
+     /parents-day-messages/ ~ /working-parents-day/ : title-overlap=0.20 msg-vocab-jaccard=0.14
+     /parents-day-messages/ ~ /anniversary-messages-for-parents/ : title-overlap=0.40 msg-vocab-jaccard=0.14
+     /working-parents-day/ ~ /anniversary-messages-for-parents/ : title-overlap=0.17 msg-vocab-jaccard=0.12
+
+###### halloween
+  /halloween-messages/                             msgs=11 words= 356 faq=5 inl=2 pub=2026-09-10 | T: Halloween Messages & Wishes: Spooky, Funny & Fun | H1: ['Halloween Messages'] | MD: Make Halloween more fun with spooky greetings, and playful wishes, perfect for sharing with friends, family, a
+  /samhain-messages/                               msgs= 5 words= 333 faq=5 inl=1 pub=2026-09-10 | T: Samhain Festival: Messages, Wishes & Celtic Traditions | H1: ['Samhain Messages'] | MD: Explore Samhain messages and wishes inspired by this ancient Celtic festival, honoring seasonal change, rememb
+  /day-of-the-dead-messages/                       msgs= 5 words= 329 faq=4 inl=1 pub=2026-09-23 | T: Fascinating Day of the Dead Messages & Greetings | 123Greetings | H1: ['Day of the Dead Messages'] | MD: Explore Day of the Dead Messages of various themes from heartfelt to funny, and send it to your loved ones.
+  /all-saints-day-messages/                        msgs= 5 words= 301 faq=4 inl=1 pub=2026-09-23 | T: All Saints’ Day Messages and Greetings | 123Greetings | H1: ['All Saints’ Day Messages'] | MD: Holy All Saints’ Day Messages and greetings to commemorate and remind people of their lost loved ones from 123
+     /halloween-messages/ ~ /samhain-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /halloween-messages/ ~ /day-of-the-dead-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.06
+     /halloween-messages/ ~ /all-saints-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.05
+     /samhain-messages/ ~ /day-of-the-dead-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.09
+     /samhain-messages/ ~ /all-saints-day-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.06
+     /day-of-the-dead-messages/ ~ /all-saints-day-messages/ : title-overlap=0.25 msg-vocab-jaccard=0.13
+
+###### belated-bday
+  /belated-birthday-messages-for-sorry-i-missed/   msgs= 5 words= 117 faq=0 inl=1 pub=2026-05-20 | T: 50+ Sorry I Missed Your Birthday Messages — Sincere & Sweet | H1: ['Belated Birthday messages for Sorry I Missed'] | MD: Forgot their birthday? Say sorry with 50+ sincere, sweet, and heartfelt missed birthday messages. The right wo
+  /heartfelt-belated-birthday-messages/            msgs= 4 words= 103 faq=0 inl=1 pub=2026-05-20 | T: 50+ Heartfelt Belated Birthday Wishes — Sincere & Sweet | H1: ['Heartfelt Belated birthday messages'] | MD: Missed their birthday? Show you care with 50+ heartfelt, sincere, and sweet belated birthday wishes. Genuine w
+  /funny-belated-birthday-messages/                msgs= 6 words= 168 faq=0 inl=1 pub=2026-05-20 | T: 50+ Funny Belated Birthday Wishes — Hilarious & Late | H1: ['Funny Belated birthday messages'] | MD: Missed their birthday? Make them laugh about it with 50+ funny, witty, and hilarious belated birthday wishes. 
+  /belated-birthday-messages-for-her/              msgs= 5 words= 168 faq=0 inl=1 pub=2026-05-20 | T: 50+ Belated Birthday Wishes for Her — Sweet & Apologetic | H1: ['Belated birthday messages for Her'] | MD: Missed her birthday? Make it right with 50+ sweet, funny, and heartfelt belated birthday wishes for her. Bette
+  /belated-birthday-messages-for-him/              msgs= 5 words= 165 faq=0 inl=1 pub=2026-05-20 | T: 50+ Belated Birthday Wishes for Him — Funny & Heartfelt | H1: ['Belated birthday messages for Him'] | MD: Forgot his birthday? Find 50+ funny, sincere, and heartfelt belated birthday wishes for him. The perfect way t
+     /belated-birthday-messages-for-sorry-i-missed/ ~ /heartfelt-belated-birthday-messages/ : title-overlap=0.43 msg-vocab-jaccard=0.14
+     /belated-birthday-messages-for-sorry-i-missed/ ~ /funny-belated-birthday-messages/ : title-overlap=0.11 msg-vocab-jaccard=0.15
+     /belated-birthday-messages-for-sorry-i-missed/ ~ /belated-birthday-messages-for-her/ : title-overlap=0.25 msg-vocab-jaccard=0.16
+     /belated-birthday-messages-for-sorry-i-missed/ ~ /belated-birthday-messages-for-him/ : title-overlap=0.11 msg-vocab-jaccard=0.19
+     /heartfelt-belated-birthday-messages/ ~ /funny-belated-birthday-messages/ : title-overlap=0.25 msg-vocab-jaccard=0.13
+     /heartfelt-belated-birthday-messages/ ~ /belated-birthday-messages-for-her/ : title-overlap=0.43 msg-vocab-jaccard=0.16
+     /heartfelt-belated-birthday-messages/ ~ /belated-birthday-messages-for-him/ : title-overlap=0.43 msg-vocab-jaccard=0.19
+     /funny-belated-birthday-messages/ ~ /belated-birthday-messages-for-her/ : title-overlap=0.25 msg-vocab-jaccard=0.10
+     /funny-belated-birthday-messages/ ~ /belated-birthday-messages-for-him/ : title-overlap=0.43 msg-vocab-jaccard=0.19
+     /belated-birthday-messages-for-her/ ~ /belated-birthday-messages-for-him/ : title-overlap=0.25 msg-vocab-jaccard=0.25
+
+###### siblings-anniv
+  /anniversary-messages-for-siblings/              msgs= 5 words= 100 faq=0 inl=1 pub=2026-08-31 | T: Anniversary Messages for Siblings | 123Greetings | H1: ['Anniversary Messages For Siblings'] | MD: Celebrate your sibling’s anniversary with heartfelt, funny, and loving wishes to make their special day memora
+  /anniversary-messages-for-brother/               msgs= 3 words=  84 faq=0 inl=1 pub=2026-05-20 | T: 100+ Anniversary Wishes for Brother, Heartfelt & Warm Meta Title | H1: ['Anniversary messages for Brother'] | MD: Wish your brother a happy wedding anniversary with heartfelt, warm, and loving messages. Beautiful wishes for 
+  /anniversary-messages-for-sister/                msgs=17 words= 319 faq=0 inl=1 pub=2026-05-20 | T: 60+ Anniversary Wishes for Sister — Heartfelt & Warm | H1: ['Anniversary messages for Sister'] | MD: Wish your sister a happy wedding anniversary with 60+ heartfelt, warm, and loving messages. Beautiful wishes f
+     /anniversary-messages-for-siblings/ ~ /anniversary-messages-for-brother/ : title-overlap=0.12 msg-vocab-jaccard=0.05
+     /anniversary-messages-for-siblings/ ~ /anniversary-messages-for-sister/ : title-overlap=0.17 msg-vocab-jaccard=0.11
+     /anniversary-messages-for-brother/ ~ /anniversary-messages-for-sister/ : title-overlap=0.43 msg-vocab-jaccard=0.09
+
+###### grandparents-anniv
+  /anniversary-messages-for-grandparents/          msgs=16 words= 294 faq=0 inl=1 pub=2026-05-20 | T: 100+ Anniversary Wishes for Grandparents — Proud & Loving | H1: ['Anniversary messages for Grandparents'] | MD: Celebrate your grandparents' love story with 100+ proud, loving, and heartfelt anniversary wishes. Beautiful m
+  /anniversary-messages-for-grandma/               msgs= 6 words= 128 faq=0 inl=1 pub=2026-08-22 | T: Anniversary Messages for Grandma, Wholesome & Sweet | H1: ['Anniversary Messages for Grandma'] | MD: Some anniversaries deserve more than "congrats." Celebrate Grandma's with wholesome messages full of love, hum
+  /anniversary-messages-for-grandpa/               msgs= 5 words= 193 faq=0 inl=1 pub=2026-09-01 | T: Anniversary Wishes for Grandpa | Heartfelt Messages | H1: ['Anniversary Messages for Grandpa'] | MD: Find heartfelt anniversary wishes for Grandpa to celebrate his love, and beautiful journey together. Share a w
+     /anniversary-messages-for-grandparents/ ~ /anniversary-messages-for-grandma/ : title-overlap=0.14 msg-vocab-jaccard=0.14
+     /anniversary-messages-for-grandparents/ ~ /anniversary-messages-for-grandpa/ : title-overlap=0.17 msg-vocab-jaccard=0.14
+     /anniversary-messages-for-grandma/ ~ /anniversary-messages-for-grandpa/ : title-overlap=0.17 msg-vocab-jaccard=0.11
+
+###### thanksgiving
+  /thanksgiving-day-messages/                      msgs= 5 words= 312 faq=5 inl=1 pub=2026-09-30 | T: Thanksgiving Day Messages & Wishes | Happy Thanksgiving | H1: ['Thanksgiving Day Messages'] | MD: Celebrate Thanksgiving with heartfelt messages, warm wishes, and greetings for family and friends. Find the pe
+  /canadian-thanksgiving-messages/                 msgs= 5 words= 345 faq=5 inl=1 pub=2026-08-25 | T: Canadian Thanksgiving Messages & Wishes | H1: ['Canadian Thanksgiving Messages'] | MD: Find heartfelt Canadian Thanksgiving messages and wishes to share gratitude, warmth, and appreciation with fam
+  /fall-messages/                                  msgs=10 words= 335 faq=5 inl=1 pub=2026-08-08 | T: Fall Wishes & Seasonal Ecards to Send | H1: ['Fall Messages'] | MD: Celebrate the joys of autumn with fall wishes which capture every cozy, crisp, and golden moment of the season
+     /thanksgiving-day-messages/ ~ /canadian-thanksgiving-messages/ : title-overlap=0.50 msg-vocab-jaccard=0.20
+     /thanksgiving-day-messages/ ~ /fall-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.07
+     /canadian-thanksgiving-messages/ ~ /fall-messages/ : title-overlap=0.00 msg-vocab-jaccard=0.06
+
+###### boss
+  /bosss-day-messages/                             msgs= 5 words= 309 faq=5 inl=1 pub=2026-08-25 | T: Boss's Day Messages & Wishes for Your Boss | H1: ["Boss's Day Messages"] | MD: Find thoughtful Boss's Day messages and wishes to thank your boss for their leadership, guidance, support, and
+  /birthday-messages-for-boss/                     msgs= 6 words= 143 faq=0 inl=1 pub=2026-05-19 | T: 50+ Professional Birthday Wishes for Your Boss (2026) | H1: ['Birthday messages for Boss'] | MD: Find the right birthday wish for your boss or manager. Browse 50+ professional, respectful, and warm messages 
+  /anniversary-messages-for-boss/                  msgs=15 words= 321 faq=0 inl=1 pub=2026-05-20 | T: 50+ Work Anniversary Wishes for Boss — Professional & Warm | H1: ['Anniversary messages for Boss'] | MD: Congratulate your boss on their work anniversary with 50+ professional, warm, and appreciative messages. The r
+     /bosss-day-messages/ ~ /birthday-messages-for-boss/ : title-overlap=0.25 msg-vocab-jaccard=0.07
+     /bosss-day-messages/ ~ /anniversary-messages-for-boss/ : title-overlap=0.17 msg-vocab-jaccard=0.11
+     /birthday-messages-for-boss/ ~ /anniversary-messages-for-boss/ : title-overlap=0.33 msg-vocab-jaccard=0.13
+
+###### teacher
+  /teachers-day-messages/                          msgs=18 words= 537 faq=5 inl=1 pub=2026-06-01 | T: 100+ Teachers' Day Messages — Heartfelt Wishes & Quotes | H1: ['Teachers’ Day Messages'] | MD: Show gratitude with 100+ heartfelt Teachers' Day messages, wishes, and quotes. The perfect words to thank the 
+  /birthday-messages-for-teacher/                  msgs=11 words= 245 faq=0 inl=1 pub=2026-05-19 | T: 50+ Birthday Wishes for Teacher — Respectful & Warm | H1: ['Birthday messages for Teacher'] | MD: Find the right birthday wish for your teacher. Browse 50+ respectful, warm, and heartfelt messages that show g
+     /teachers-day-messages/ ~ /birthday-messages-for-teacher/ : title-overlap=0.00 msg-vocab-jaccard=0.22
+
+###### chocolate
+  /chocolate-day-messages/                         msgs=10 words= 335 faq=5 inl=1 pub=2026-06-23 | T: Chocolate Day Wishes: Sweet Messages to Share | H1: ['Chocolate Day Messages'] | MD: Celebrate Chocolate Day with sweet, funny, and heartfelt messages for friends, family, and someone special.
+  /chocolate-milk-day-messages/                    msgs= 5 words= 322 faq=5 inl=1 pub=2026-08-13 | T: Chocolate Milk Day Messages & Wishes | 123Greetings | H1: ['Chocolate Milk Day Messages'] | MD: Celebrate Chocolate Milk Day with sweet, funny, and personalized wishes to make everyone’s day a little sweete
+     /chocolate-day-messages/ ~ /chocolate-milk-day-messages/ : title-overlap=0.20 msg-vocab-jaccard=0.14
+
+###### girlfriend
+  /girlfriends-day-messages/                       msgs= 5 words= 312 faq=5 inl=0 pub=2026-07-18 | T: Girlfriend's Day Messages, Wishes & Greetings | H1: ["Girlfriend's Day Messages"] | MD: Looking for the perfect Girlfriend's Day message? Discover heartfelt wishes and sweet greetings for cards, tex
+  /womens-friendship-day-messages/                 msgs= 5 words= 328 faq=5 inl=1 pub=2026-08-14 | T: Women’s Friendship Day Messages & Wishes | 123Greetings | H1: ['Women’s Friendship Day Messages'] | MD: Celebrate Women’s Friendship Day with heartfelt messages and wishes for the amazing women who bring laughter, 
+     /girlfriends-day-messages/ ~ /womens-friendship-day-messages/ : title-overlap=0.40 msg-vocab-jaccard=0.04
+
+###### duplicate visible H1s among pages
+13 wake up with bob ['/wake-up-with-bob-17th-july/', '/wake-up-with-bob-18th-july/', '/wake-up-with-bob-19th-july/', '/wake-up-with-bob-20th-july/', '/wake-up-with-bob-21st-july/', '/wake-up-with-bob-15th-july/', '/wake-up-with-bob-22nd-july/', '/wake-up-with-bob-23rd-july/', '/wake-up-with-bob-14th-july/', '/wake-up-with-bob-24th-july/', '/wake-up-with-bob-25th-july/', '/wake-up-with-bob-26th-july/', '/wake-up-with-bob-16th-july/']
+10 five minutes with bob ['/five-minutes-with-bob-27th-july/', '/five-minutes-with-bob-28th-july/', '/five-minutes-with-bob-13th-july/', '/five-minutes-with-bob-29th-july/', '/five-minutes-with-bob/', '/five-minutes-with-bob-30th-july/', '/five-minutes-with-bob-31st-july/', '/five-minutes-with-bob-11th-july/', '/five-minutes-with-bob-1st-august/', '/five-minutes-with-bob-2nd-august/']
+
+###### duplicate titles
+13 Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to ['/wake-up-with-bob-17th-july/', '/wake-up-with-bob-18th-july/', '/wake-up-with-bob-19th-july/', '/wake-up-with-bob-20th-july/', '/wake-up-with-bob-21st-july/', '/wake-up-with-bob-15th-july/', '/wake-up-with-bob-22nd-july/', '/wake-up-with-bob-23rd-july/', '/wake-up-with-bob-14th-july/', '/wake-up-with-bob-24th-july/', '/wake-up-with-bob-25th-july/', '/wake-up-with-bob-26th-july/', '/wake-up-with-bob-16th-july/']
+7 Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh ['/five-minutes-with-bob-27th-july/', '/five-minutes-with-bob-28th-july/', '/five-minutes-with-bob-13th-july/', '/five-minutes-with-bob-29th-july/', '/five-minutes-with-bob/', '/five-minutes-with-bob-30th-july/', '/five-minutes-with-bob-31st-july/']

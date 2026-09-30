@@ -1,0 +1,1216 @@
+{
+ "tag": {
+  "log": {
+   "path": "/tag/alps/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200,
+   "xcache": "2.dca _atomic_dca STALE"
+  },
+  "meta": [
+   {
+    "el": "a",
+    "text": "Home",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "13px"
+   },
+   {
+    "el": "span.breadcrumb_last",
+    "text": "Alps",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "13px"
+   },
+   {
+    "el": "span",
+    "text": "Tag:",
+    "color": "rgb(49, 49, 49)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 13.01,
+    "fs": "24px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 28, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   }
+  ],
+  "readmore": {
+   "n": 1,
+   "html": "<a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/five-minutes-with-bob-28th-july/\">Read more<i class=\"penci-faicon fa fa-angle-double-right\"></i></a>",
+   "prevHeading": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-28th-july/\">Five Minutes With Bob</a>\n        </h2>",
+   "thumb": "<a data-bgset=\"https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/07/Bob_Img_28th_july_Blog.webp?resize=585%2C574&amp;ssl=1\" class=\"penci-lazy penci-image-holder lazyloaded pcloaded\" href=\"https://blog.123greetings.com/five-minutes-with-"
+  },
+  "h": [
+   "H1 Alps",
+   "H2 Five Minutes With Bob"
+  ],
+  "axe": {
+   "violations": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "count": 3,
+     "nodes": [
+      {
+       "target": "span:nth-child(1) > a[href$=\"blog.123greetings.com/\"]",
+       "html": "<a href=\"https://blog.123greetings.com/\">Home</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".breadcrumb_last",
+       "html": "<span class=\"breadcrumb_last\" aria-current=\"page\">Alps</span>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-28T18:30:05+05:30\">July 28, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      }
+     ]
+    },
+    {
+     "id": "landmark-unique",
+     "impact": "moderate",
+     "count": 1,
+     "nodes": [
+      {
+       "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+       "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+       "data": {
+        "role": "navigation",
+        "accessibleText": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "count": 9,
+     "nodes": [
+      {
+       "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+       "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".pb-logo-sidebar-mobile",
+       "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".penci-breadcrumb",
+       "html": "<div class=\"container penci-breadcrumb\"><span><span><a href=\"https://blog.123greetings.com/\">Home</a></span> » <span class=\"breadcrumb_last\" aria-current=\"page\"",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".archive-box",
+       "html": "<div class=\"archive-box\">\n                    <div class=\"title-bar pcatitle-default\">\n\t\t\t\t\t\t                            <span>Tag: </span>                     ",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "h2",
+       "html": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-28th-july/\">Fi",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".grid-post-box-meta",
+       "html": "<div class=\"grid-post-box-meta\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".item-content",
+       "html": "<div class=\"item-content entry-content\">\n                <p>Have you ever met an old friend after several months and quietly thought, “they are not quite the sa",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".penci-readmore-btn",
+       "html": "<div class=\"penci-readmore-btn penci-btn-make-button penci-btn-align-center\">\n                <a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".elementor",
+       "html": "<div data-elementor-type=\"wp-post\" data-elementor-id=\"503\" class=\"elementor elementor-503\">",
+       "data": {
+        "isIframe": false
+       }
+      }
+     ]
+    }
+   ],
+   "incomplete": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "count": 1,
+     "nodes": [
+      {
+       "target": ".penci-breadcrumb > span",
+       "html": "<span><span><a href=\"https://blog.123greetings.com/\">Home</a></span> » <span class=\"breadcrumb_last\" aria-current=\"page\">Alps</span></span>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "cat": {
+  "log": {
+   "path": "/category/123greetings/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200,
+   "xcache": "5.dca _atomic_dca STALE"
+  },
+  "meta": [
+   {
+    "el": "a",
+    "text": "Home",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "13px"
+   },
+   {
+    "el": "span.breadcrumb_last",
+    "text": "123greetings",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "13px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "August 2, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "August 1, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 31, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 30, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 29, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 28, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 27, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 26, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 25, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 24, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "span.page-numbers.current",
+    "text": "1",
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(0, 83, 123)",
+    "ratio": 8.32,
+    "fs": "14px"
+   },
+   {
+    "el": "a.page-numbers",
+    "text": "2",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   }
+  ],
+  "readmore": {
+   "n": 10,
+   "html": "<a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">Read more<i class=\"penci-faicon fa fa-angle-double-right\"></i></a>",
+   "prevHeading": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">Five Minutes With Bob</a>\n        </h2>",
+   "thumb": "<a data-bgset=\"https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/08/Bob_Img_02nd_Aug_Blog.webp?resize=585%2C574&amp;ssl=1\" class=\"penci-lazy penci-image-holder lazyloaded pcloaded\" href=\"https://blog.123greetings.com/five-minutes-with-b"
+  },
+  "h": [
+   "H1 123greetings",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob"
+  ],
+  "axe": {
+   "violations": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "count": 12,
+     "nodes": [
+      {
+       "target": "span:nth-child(1) > a[href$=\"blog.123greetings.com/\"]",
+       "html": "<a href=\"https://blog.123greetings.com/\">Home</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".breadcrumb_last",
+       "html": "<span class=\"breadcrumb_last\" aria-current=\"page\">123greetings</span>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-08-02T18:30:52+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-08-02T18:30:52+05:30\">August 2, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-08-01T18:30:24+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-08-01T18:30:24+05:30\">August 1, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-31T18:30:52+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-31T18:30:52+05:30\">July 31, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-30T18:30:51+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-30T18:30:51+05:30\">July 30, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-29T18:30:59+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-29T18:30:59+05:30\">July 29, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-28T18:30:05+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-28T18:30:05+05:30\">July 28, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-27T18:30:04+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-27T18:30:04+05:30\">July 27, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-26T18:30:54+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-26T18:30:54+05:30\">July 26, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-25T18:30:02+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-25T18:30:02+05:30\">July 25, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-24T18:30:39+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-24T18:30:39+05:30\">July 24, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      }
+     ]
+    },
+    {
+     "id": "landmark-unique",
+     "impact": "moderate",
+     "count": 1,
+     "nodes": [
+      {
+       "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+       "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+       "data": {
+        "role": "navigation",
+        "accessibleText": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "link-name",
+     "impact": "serious",
+     "count": 1,
+     "nodes": [
+      {
+       "target": ".next",
+       "html": "<a class=\"next page-numbers\" href=\"https://blog.123greetings.com/category/123greetings/page/2/\"><i class=\"penci-faicon fa fa-angle-right\"></i></a>",
+       "data": null
+      }
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "count": 46,
+     "nodes": [
+      {
+       "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+       "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".pb-logo-sidebar-mobile",
+       "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".penci-breadcrumb",
+       "html": "<div class=\"container penci-breadcrumb\"><span><span><a href=\"https://blog.123greetings.com/\">Home</a></span> » <span class=\"breadcrumb_last\" aria-current=\"page\"",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".archive-box",
+       "html": "<div class=\"archive-box\">\n                    <div class=\"title-bar pcatitle-default\">\n\t\t\t\t\t\t                        <h1 style=\"\">123greetings</h1>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .grid-header-box > h2",
+       "html": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">F",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .grid-header-box > .grid-post-box-meta",
+       "html": "<div class=\"grid-post-box-meta\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .item-content.entry-content",
+       "html": "<div class=\"item-content entry-content\">\n                <p>This morning I woke up with an unusual luxury. Time.</p>\n            </div>",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .penci-readmore-btn.penci-btn-make-button.penci-btn-align-center",
+       "html": "<div class=\"penci-readmore-btn penci-btn-make-button penci-btn-align-center\">\n                <a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .grid-header-box > h2",
+       "html": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-1st-august/\">F",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .grid-header-box > .grid-post-box-meta",
+       "html": "<div class=\"grid-post-box-meta\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .item-content.entry-content",
+       "html": "<div class=\"item-content entry-content\">\n                <p>I woke up smiling today.</p>\n            </div>",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .penci-readmore-btn.penci-btn-make-button.penci-btn-align-center",
+       "html": "<div class=\"penci-readmore-btn penci-btn-make-button penci-btn-align-center\">\n                <a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/",
+       "data": {
+        "isIframe": false
+       }
+      }
+     ]
+    }
+   ],
+   "incomplete": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "count": 5,
+     "nodes": [
+      {
+       "target": ".penci-breadcrumb > span",
+       "html": "<span><span><a href=\"https://blog.123greetings.com/\">Home</a></span> » <span class=\"breadcrumb_last\" aria-current=\"page\">123greetings</span></span>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "li:nth-child(2) > .page-numbers",
+       "html": "<a class=\"page-numbers\" href=\"https://blog.123greetings.com/category/123greetings/page/2/\">2</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "li:nth-child(3) > .page-numbers",
+       "html": "<a class=\"page-numbers\" href=\"https://blog.123greetings.com/category/123greetings/page/3/\">3</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "li:nth-child(5) > .page-numbers",
+       "html": "<a class=\"page-numbers\" href=\"https://blog.123greetings.com/category/123greetings/page/5/\">5</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "#cookieconsent\\:desc",
+       "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+       "data": {
+        "contrastRatio": 0,
+        "fontSize": "12.0pt (16px)",
+        "fontWeight": "normal",
+        "messageKey": "elmPartiallyObscuring",
+        "expectedContrastRatio": "4.5:1"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "author": {
+  "log": {
+   "path": "/author/iblog123greetingsgmail-com/",
+   "pageErrors": [],
+   "http": [],
+   "status": 200,
+   "xcache": "5.dca _atomic_dca MISS"
+  },
+  "meta": [
+   {
+    "el": "a",
+    "text": "Home",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "13px"
+   },
+   {
+    "el": "span.breadcrumb_last",
+    "text": "Archives for Bob",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "13px"
+   },
+   {
+    "el": "span",
+    "text": "Author",
+    "color": "rgb(49, 49, 49)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 13.01,
+    "fs": "24px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "August 2, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "August 1, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 31, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 30, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 29, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 28, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 27, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 26, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 25, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "time.entry-date.published",
+    "text": "July 24, 2026",
+    "color": "rgb(136, 136, 136)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 3.54,
+    "fs": "14px"
+   },
+   {
+    "el": "span.page-numbers.current",
+    "text": "1",
+    "color": "rgb(255, 255, 255)",
+    "bg": "rgb(0, 83, 123)",
+    "ratio": 8.32,
+    "fs": "14px"
+   }
+  ],
+  "readmore": {
+   "n": 10,
+   "html": "<a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">Read more<i class=\"penci-faicon fa fa-angle-double-right\"></i></a>",
+   "prevHeading": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">Five Minutes With Bob</a>\n        </h2>",
+   "thumb": "<a data-bgset=\"https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/08/Bob_Img_02nd_Aug_Blog.webp?resize=585%2C574&amp;ssl=1\" class=\"penci-lazy penci-image-holder lazyloaded pcloaded\" href=\"https://blog.123greetings.com/five-minutes-with-b"
+  },
+  "h": [
+   "H1 Bob",
+   "H5 Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob",
+   "H2 Five Minutes With Bob"
+  ],
+  "axe": {
+   "violations": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "count": 12,
+     "nodes": [
+      {
+       "target": "span:nth-child(1) > a[href$=\"blog.123greetings.com/\"]",
+       "html": "<a href=\"https://blog.123greetings.com/\">Home</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".breadcrumb_last",
+       "html": "<span class=\"breadcrumb_last\" aria-current=\"page\">Archives for Bob</span>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-08-02T18:30:52+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-08-02T18:30:52+05:30\">August 2, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-08-01T18:30:24+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-08-01T18:30:24+05:30\">August 1, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-31T18:30:52+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-31T18:30:52+05:30\">July 31, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-30T18:30:51+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-30T18:30:51+05:30\">July 30, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-29T18:30:59+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-29T18:30:59+05:30\">July 29, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-28T18:30:05+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-28T18:30:05+05:30\">July 28, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-27T18:30:04+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-27T18:30:04+05:30\">July 27, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-26T18:30:54+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-26T18:30:54+05:30\">July 26, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-25T18:30:02+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-25T18:30:02+05:30\">July 25, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": ".otherl-date > time[datetime=\"2026-07-24T18:30:39+05:30\"]",
+       "html": "<time class=\"entry-date published\" datetime=\"2026-07-24T18:30:39+05:30\">July 24, 2026</time>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": null,
+        "expectedContrastRatio": "4.5:1"
+       }
+      }
+     ]
+    },
+    {
+     "id": "heading-order",
+     "impact": "moderate",
+     "count": 1,
+     "nodes": [
+      {
+       "target": "h5",
+       "html": "<h5><a href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\" title=\"Author Bob\" rel=\"author\">Bob</a></h5>",
+       "data": null
+      }
+     ]
+    },
+    {
+     "id": "landmark-unique",
+     "impact": "moderate",
+     "count": 1,
+     "nodes": [
+      {
+       "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+       "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+       "data": {
+        "role": "navigation",
+        "accessibleText": null
+       }
+      }
+     ]
+    },
+    {
+     "id": "link-name",
+     "impact": "serious",
+     "count": 1,
+     "nodes": [
+      {
+       "target": ".next",
+       "html": "<a class=\"next page-numbers\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/2/\"><i class=\"penci-faicon fa fa-angle-right\"></i></a>",
+       "data": null
+      }
+     ]
+    },
+    {
+     "id": "region",
+     "impact": "moderate",
+     "count": 47,
+     "nodes": [
+      {
+       "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+       "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".pb-logo-sidebar-mobile",
+       "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".penci-breadcrumb",
+       "html": "<div class=\"container penci-breadcrumb\"><span><span><a href=\"https://blog.123greetings.com/\">Home</a></span> » <span class=\"breadcrumb_last\" aria-current=\"page\"",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".archive-box",
+       "html": "<div class=\"archive-box\">\n                <div class=\"title-bar pcatitle-default\">\n\t\t\t\t\t<span>Author </span><h1 class=\"page-title\">Bob</h1>                </div",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": ".post-author",
+       "html": "<div class=\"post-author abio-style-1 bioimg-round\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .grid-header-box > h2",
+       "html": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">F",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .grid-header-box > .grid-post-box-meta",
+       "html": "<div class=\"grid-post-box-meta\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .item-content.entry-content",
+       "html": "<div class=\"item-content entry-content\">\n                <p>This morning I woke up with an unusual luxury. Time.</p>\n            </div>",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15317 > .penci-readmore-btn.penci-btn-make-button.penci-btn-align-center",
+       "html": "<div class=\"penci-readmore-btn penci-btn-make-button penci-btn-align-center\">\n                <a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .grid-header-box > h2",
+       "html": "<h2 class=\"penci-entry-title entry-title\n            grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-1st-august/\">F",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .grid-header-box > .grid-post-box-meta",
+       "html": "<div class=\"grid-post-box-meta\">",
+       "data": {
+        "isIframe": false
+       }
+      },
+      {
+       "target": "#post-15313 > .item-content.entry-content",
+       "html": "<div class=\"item-content entry-content\">\n                <p>I woke up smiling today.</p>\n            </div>",
+       "data": {
+        "isIframe": false
+       }
+      }
+     ]
+    }
+   ],
+   "incomplete": [
+    {
+     "id": "color-contrast",
+     "impact": "serious",
+     "count": 5,
+     "nodes": [
+      {
+       "target": ".penci-breadcrumb > span",
+       "html": "<span><span><a href=\"https://blog.123greetings.com/\">Home</a></span> » <span class=\"breadcrumb_last\" aria-current=\"page\">Archives for Bob</span></span>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "9.8pt (13px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "li:nth-child(2) > .page-numbers",
+       "html": "<a class=\"page-numbers\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/2/\">2</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "li:nth-child(3) > .page-numbers",
+       "html": "<a class=\"page-numbers\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/3/\">3</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "li:nth-child(5) > .page-numbers",
+       "html": "<a class=\"page-numbers\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/page/5/\">5</a>",
+       "data": {
+        "fgColor": "#888888",
+        "bgColor": "#ffffff",
+        "contrastRatio": 3.54,
+        "fontSize": "10.5pt (14px)",
+        "fontWeight": "normal",
+        "messageKey": "shortTextContent",
+        "expectedContrastRatio": "4.5:1"
+       }
+      },
+      {
+       "target": "#cookieconsent\\:desc",
+       "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+       "data": {
+        "contrastRatio": 0,
+        "fontSize": "12.0pt (16px)",
+        "fontWeight": "normal",
+        "messageKey": "elmPartiallyObscuring",
+        "expectedContrastRatio": "4.5:1"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

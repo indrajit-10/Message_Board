@@ -1,0 +1,32 @@
+{
+ "/fathers-day-messages/": {
+  "status": 200,
+  "n429": 0,
+  "banner": [
+   420,
+   966,
+   384,
+   198
+  ],
+  "layout": {
+   "overflowX": 0,
+   "mobileNavVisible": 66,
+   "desktopHeaderVisible": 0,
+   "jumpLinks": 16,
+   "jumpFirstTop": 168,
+   "jumpLeft": 30,
+   "h1Top": 101,
+   "h1Left": 272
+  },
+  "afterJump": {
+   "headingTop": 34,
+   "mobileNav": [
+    "fixed",
+    66
+   ],
+   "desktopSticky": 0
+  },
+  "cls": 0
+ },
+ "loads": 1
+}

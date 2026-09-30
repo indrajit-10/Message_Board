@@ -1,0 +1,300 @@
+{
+ "log": {
+  "path": "/this-page-does-not-exist-a11y-verify/",
+  "pageErrors": [],
+  "http": [
+   "404 https://blog.123greetings.com/this-page-does-not-exist-a11y-verify/"
+  ],
+  "status": 404,
+  "xcache": "5.dca _atomic_dca MISS"
+ },
+ "landmarks": {
+  "main": 0,
+  "header": 0,
+  "footer": 0,
+  "navs": [
+   "nav.navigation.menu-style-1.no-class|",
+   "nav.navigation.menu-style-1.no-class|",
+   "nav.no-class.normal-click|",
+   "nav#sidebar-nav.header-1.mstyle-default|"
+  ],
+  "skip": [],
+  "firstFocusable": "<a href=\"https://blog.123greetings.com/\">\n            <img class=\"penci-mainlogo penci-limg pclogo-cls\" src=\"https://blog.123greetings.com/w"
+ },
+ "h": [],
+ "msg": [
+  "body.error404.wp-theme-soledad.ally-default Home\nAbout Us\nWhat to write in a card\nContact Us\n        \n  ",
+  "div.container.page-404 OOPS! Page you're looking for doesn't exist. Please use sear",
+  "div.error-404 OOPS! Page you're looking for doesn't exist. Please use sear",
+  "p.sub-heading-text-404 OOPS! Page you're looking for doesn't exist. Please use sear",
+  "p.go-back-home Back to Home Page"
+ ],
+ "search": [
+  {
+   "name": "s",
+   "labels": 0,
+   "aria": null,
+   "ph": "Search Messages",
+   "vis": true
+  }
+ ],
+ "axe": {
+  "violations": [
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 6,
+    "nodes": [
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".error-image",
+      "html": "<div class=\"error-image\">\n                <img src=\"https://blog.123greetings.com/wp-content/themes/soledad/images/404.png\" alt=\"404\" width=\"212\" height=\"87\">\n ",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".sub-heading-text-404",
+      "html": "<p class=\"sub-heading-text-404\">OOPS! Page you're looking for doesn't exist. Please use search for help</p>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".go-back-home",
+      "html": "<p class=\"go-back-home\"><a href=\"https://blog.123greetings.com/\">Back to Home Page</a>\n                </p>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor",
+      "html": "<div data-elementor-type=\"wp-post\" data-elementor-id=\"503\" class=\"elementor elementor-503\">",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": [
+   {
+    "id": "bypass",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": "html",
+      "html": "<html lang=\"en-US\">",
+      "data": null
+     }
+    ]
+   },
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": "#cookieconsent\\:desc",
+      "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "data": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "elmPartiallyObscuring",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "tabs": [
+  {
+   "i": 1,
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Card Message",
+   "rect": [
+    98,
+    13,
+    175,
+    23
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "e404_t01"
+  },
+  {
+   "i": 2,
+   "el": "a",
+   "name": "Home",
+   "rect": [
+    779,
+    22,
+    50,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "e404_t02"
+  },
+  {
+   "i": 3,
+   "el": "a",
+   "name": "About Us",
+   "rect": [
+    859,
+    22,
+    75,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "e404_t03"
+  },
+  {
+   "i": 4,
+   "el": "a",
+   "name": "What to write in a card",
+   "rect": [
+    964,
+    22,
+    185,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "e404_t04"
+  },
+  {
+   "i": 5,
+   "el": "a",
+   "name": "Contact Us",
+   "rect": [
+    1179,
+    22,
+    89,
+    40
+   ],
+   "inVP": true,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 0, 0)",
+   "td": "none",
+   "ccOverlap": 0,
+   "hdrOverlap": 0,
+   "shot": "e404_t05"
+  },
+  {
+   "i": 6,
+   "el": "a",
+   "name": "123Greetings Blog – Free eCards, Card Message",
+   "rect": [
+    -238,
+    31,
+    146,
+    23
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(0, 83, 123)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 7,
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    -310,
+    100,
+    290,
+    43
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(49, 49, 49)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  },
+  {
+   "i": 8,
+   "el": "a",
+   "name": "ABOUT US",
+   "rect": [
+    -310,
+    144,
+    290,
+    43
+   ],
+   "inVP": false,
+   "fv": true,
+   "outline": "none 0px",
+   "shadow": "none",
+   "color": "rgb(49, 49, 49)",
+   "td": "none",
+   "ccOverlap": null,
+   "hdrOverlap": null
+  }
+ ]
+}

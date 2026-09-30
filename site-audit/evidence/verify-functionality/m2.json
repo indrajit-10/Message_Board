@@ -1,0 +1,59 @@
+{
+ "/birthday-messages-for-mom/": {
+  "status": 200,
+  "n429": 0,
+  "hashLinks": [],
+  "burger": {
+   "rect": [
+    356,
+    14,
+    24,
+    31
+   ],
+   "tabindex": null,
+   "role": null
+  },
+  "headerShift": {
+   "before": 0,
+   "after": 0.0782,
+   "last": [
+    {
+     "t": 9653,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    }
+   ]
+  }
+ },
+ "/mothers-day-messages-for-wife-what-she-actually-wants/": {
+  "status": 200,
+  "n429": 0,
+  "hashLinks": [],
+  "burger": {
+   "rect": [
+    356,
+    14,
+    24,
+    31
+   ],
+   "tabindex": null,
+   "role": null
+  },
+  "headerShift": {
+   "before": 0,
+   "after": 0.0782,
+   "last": [
+    {
+     "t": 8686,
+     "v": 0.0782,
+     "src": [
+      "div.penci-single-wrapper"
+     ]
+    }
+   ]
+  }
+ },
+ "loads": 2
+}

@@ -1,0 +1,101 @@
+{
+ "drift": [
+  {
+   "sy": 0,
+   "h1ViewportTop": 121,
+   "h1DocTop": 121,
+   "navbar": "static shadow-enable",
+   "navbarParentH": 66
+  },
+  {
+   "sy": 20,
+   "h1ViewportTop": 101,
+   "h1DocTop": 121,
+   "navbar": "static shadow-enable.scrolldown",
+   "navbarParentH": 66
+  },
+  {
+   "sy": 40,
+   "h1ViewportTop": 81,
+   "h1DocTop": 121,
+   "navbar": "static shadow-enable.scrolldown",
+   "navbarParentH": 66
+  },
+  {
+   "sy": 50,
+   "h1ViewportTop": 71,
+   "h1DocTop": 121,
+   "navbar": "static shadow-enable.scrolldown",
+   "navbarParentH": 66
+  },
+  {
+   "sy": 60,
+   "h1ViewportTop": 61,
+   "h1DocTop": 121,
+   "navbar": "static shadow-enable.scrolldown",
+   "navbarParentH": 66
+  },
+  {
+   "sy": 70,
+   "h1ViewportTop": -15,
+   "h1DocTop": 55,
+   "navbar": "fixed shadow-enable.scrolldown.mobile-sticky",
+   "navbarParentH": 0
+  },
+  {
+   "sy": 80,
+   "h1ViewportTop": -25,
+   "h1DocTop": 55,
+   "navbar": "fixed shadow-enable.scrolldown.mobile-sticky",
+   "navbarParentH": 0
+  },
+  {
+   "sy": 100,
+   "h1ViewportTop": -45,
+   "h1DocTop": 55,
+   "navbar": "fixed shadow-enable.scrolldown.mobile-sticky",
+   "navbarParentH": 0
+  },
+  {
+   "sy": 150,
+   "h1ViewportTop": -95,
+   "h1DocTop": 55,
+   "navbar": "fixed shadow-enable.scrolldown.mobile-sticky",
+   "navbarParentH": 0
+  }
+ ],
+ "cls": {
+  "value": 0.23459715639810427,
+  "entries": [
+   {
+    "t": 11672,
+    "v": 0.0782,
+    "src": [
+     "div.elementor-element.elementor-element-9f23a66.e-flex"
+    ]
+   },
+   {
+    "t": 13771,
+    "v": 0.0782,
+    "src": [
+     "div.elementor-element.elementor-element-9f23a66.e-flex"
+    ]
+   },
+   {
+    "t": 14421,
+    "v": 0.0782,
+    "src": [
+     "div.elementor-element.elementor-element-9f23a66.e-flex"
+    ]
+   }
+  ]
+ },
+ "copyLinkVisibleOnHover": true,
+ "copyLink": {
+  "newTabs": 0,
+  "newTabUrl": null,
+  "clipboard": "https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/",
+  "feedback": []
+ },
+ "loads": 2
+}

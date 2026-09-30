@@ -1,0 +1,8 @@
+12:23:59 /wp-json/wp/v2/types?pv=1094220452 x-ac: 1.dca _atomic_dca MISS server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1508.0 code=200 ttfb=1.867920 size=2408 
+12:24:04 /robots.txt?pv=1278015290 x-ac: 5.dca _atomic_dca MISS server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1343.0 code=200 ttfb=1.505056 size=155 
+12:24:08 /wp-json/?pv=2963120064 x-ac: 4.dca _atomic_dca MISS server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1452.0 code=200 ttfb=1.635819 size=47562 
+12:24:13 /feed/?pv=250898913 x-ac: 2.dca _atomic_dca MISS server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1416.0 code=200 ttfb=1.588089 size=12470 
+12:24:17 /this-page-does-not-exist-24851/ x-ac: 2.dca _atomic_dca MISS server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=2500.0 code=404 ttfb=2.734707 size=33961 
+12:30:18 /robots.txt?pv=2976729736 server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1278.0 code=200 ttfb=1.425325 
+12:30:22 /wp-json/wp/v2/types?pv=2775710616 server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1228.0 code=200 ttfb=1.383008 
+12:30:26 /robots.txt?pv=787323662 server-timing: a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=930.0 code=200 ttfb=1.070867 

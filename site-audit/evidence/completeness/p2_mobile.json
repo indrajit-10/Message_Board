@@ -1,0 +1,581 @@
+{
+ "results": [
+  {
+   "path": "/summer-messages/",
+   "s0": {
+    "url": "https://blog.123greetings.com/summer-messages/",
+    "docH": 5957,
+    "bodyOverflow": "hidden auto",
+    "htmlOverflow": "visible",
+    "fixed": [
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcl",
+      "pos": "fixed",
+      "rect": [
+       0,
+       646,
+       390,
+       198
+      ],
+      "cover": 0.234,
+      "z": "2147483646",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": "We use cookies to make your experience sweeter! By using our site, you agree to "
+     }
+    ],
+    "pts": [
+     "195,422: DIV#.elementor-widget-container",
+     "195,814: DIV#.cc-window cc-floating cc-type-info cc-th",
+     "195,150: LI#.item-with-label heading-style-style-2"
+    ],
+    "slots": [
+     {
+      "path": "/22081762831,46400095/123greetings_int",
+      "div": "div-gpt-ad-1784526288594-0",
+      "rect": [
+       45,
+       297,
+       300,
+       250
+      ],
+      "filled": false,
+      "ri": null
+     }
+    ],
+    "trEls": [
+     {
+      "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+      "pos": "fixed",
+      "display": "flex",
+      "vis": "hidden",
+      "pe": "auto",
+      "z": "2147483647",
+      "rect": [
+       0,
+       0,
+       390,
+       844
+      ],
+      "html": 891,
+      "iframes": 0
+     }
+    ],
+    "ls": {
+     "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790774277488",
+     "truereachDebugMode": "false"
+    },
+    "ss": {}
+   },
+   "s1": {
+    "url": "https://blog.123greetings.com/summer-messages/",
+    "docH": 5891,
+    "bodyOverflow": "hidden auto",
+    "htmlOverflow": "visible",
+    "fixed": [
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+      "pos": "fixed",
+      "rect": [
+       0,
+       0,
+       390,
+       66
+      ],
+      "cover": 0.078,
+      "z": "9999",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": ""
+     },
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcl",
+      "pos": "fixed",
+      "rect": [
+       0,
+       646,
+       390,
+       198
+      ],
+      "cover": 0.234,
+      "z": "2147483646",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": "We use cookies to make your experience sweeter! By using our site, you agree to "
+     }
+    ],
+    "pts": [
+     "195,422: DIV#.elementor-element elementor-element-ce3c",
+     "195,814: DIV#.cc-window cc-floating cc-type-info cc-th",
+     "195,150: DIV#.e-con-inner"
+    ],
+    "slots": [
+     {
+      "path": "/22081762831,46400095/123greetings_int",
+      "div": "div-gpt-ad-1784526288594-0",
+      "rect": [
+       45,
+       5344,
+       300,
+       250
+      ],
+      "filled": false,
+      "ri": null
+     }
+    ],
+    "trEls": [
+     {
+      "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+      "pos": "fixed",
+      "display": "flex",
+      "vis": "hidden",
+      "pe": "auto",
+      "z": "2147483647",
+      "rect": [
+       0,
+       0,
+       390,
+       844
+      ],
+      "html": 891,
+      "iframes": 0
+     }
+    ],
+    "ls": {
+     "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790774277488",
+     "truereachDebugMode": "false"
+    },
+    "ss": {}
+   },
+   "gam": [
+    {
+     "t": 5739,
+     "iu": "22081762831:46400095,123greetings_int",
+     "sz": "300x400|300x480|300x250|320x480|250x360|250x250|320x400|300x600|120x600|160x600|"
+    }
+   ],
+   "ga": [
+    {
+     "t": 4185,
+     "tid": "G-R56NTBBBCB",
+     "en": "page_view",
+     "body": ""
+    },
+    {
+     "t": 29653,
+     "tid": "G-R56NTBBBCB",
+     "en": "scroll",
+     "body": ""
+    }
+   ],
+   "cta": {
+    "href": "https://www.123greetings.com/events/summer/",
+    "text": "summer",
+    "target": "_blank",
+    "rel": "noopener"
+   },
+   "ctaHrefAfterMousedown": "https://www.123greetings.com/events/summer/",
+   "afterClick": [
+    {
+     "t": 36372,
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-R56NTBBBCB&gtm=45je69s1v9250288339za200zd9250288339xf1&_p=1790774277306&gcd=13l3l3l3l1l1&npa=0&dma=0&tcfd=10000&_eu=AEAAAAQ&ae=a&are=1&cid=1838468740.1790774278&frm=0&ngs=1&pscdl=noapi&rcb=19&sr=390x844&uaa=",
+     "type": "fetch",
+     "post": ""
+    }
+   ]
+  },
+  {
+   "path": "/birthday-messages/",
+   "s0": {
+    "url": "https://blog.123greetings.com/birthday-messages/",
+    "docH": 5896,
+    "bodyOverflow": "hidden auto",
+    "htmlOverflow": "visible",
+    "fixed": [
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcl",
+      "pos": "fixed",
+      "rect": [
+       0,
+       646,
+       390,
+       198
+      ],
+      "cover": 0.234,
+      "z": "2147483646",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": "We use cookies to make your experience sweeter! By using our site, you agree to "
+     }
+    ],
+    "pts": [
+     "195,422: SPAN#.",
+     "195,814: DIV#.cc-window cc-floating cc-type-info cc-th",
+     "195,150: LI#.item-with-label heading-style-style-2"
+    ],
+    "slots": [
+     {
+      "path": "/22081762831,46400095/123greetings_int",
+      "div": "div-gpt-ad-1784526288594-0",
+      "rect": [
+       45,
+       297,
+       300,
+       250
+      ],
+      "filled": false,
+      "ri": null
+     }
+    ],
+    "trEls": [
+     {
+      "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+      "pos": "fixed",
+      "display": "flex",
+      "vis": "hidden",
+      "pe": "auto",
+      "z": "2147483647",
+      "rect": [
+       0,
+       0,
+       390,
+       844
+      ],
+      "html": 891,
+      "iframes": 0
+     }
+    ],
+    "ls": {
+     "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790774315989",
+     "truereachDebugMode": "false"
+    },
+    "ss": {}
+   },
+   "s1": {
+    "url": "https://blog.123greetings.com/birthday-messages/",
+    "docH": 5830,
+    "bodyOverflow": "hidden auto",
+    "htmlOverflow": "visible",
+    "fixed": [
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+      "pos": "fixed",
+      "rect": [
+       0,
+       0,
+       390,
+       66
+      ],
+      "cover": 0.078,
+      "z": "9999",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": ""
+     },
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcl",
+      "pos": "fixed",
+      "rect": [
+       0,
+       646,
+       390,
+       198
+      ],
+      "cover": 0.234,
+      "z": "2147483646",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": "We use cookies to make your experience sweeter! By using our site, you agree to "
+     }
+    ],
+    "pts": [
+     "195,422: DIV#.elementor-element elementor-element-8b5b",
+     "195,814: DIV#.cc-window cc-floating cc-type-info cc-th",
+     "195,150: DIV#.elementor-element elementor-element-2488"
+    ],
+    "slots": [
+     {
+      "path": "/22081762831,46400095/123greetings_int",
+      "div": "div-gpt-ad-1784526288594-0",
+      "rect": [
+       45,
+       5283,
+       300,
+       250
+      ],
+      "filled": false,
+      "ri": null
+     }
+    ],
+    "trEls": [
+     {
+      "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+      "pos": "fixed",
+      "display": "flex",
+      "vis": "hidden",
+      "pe": "auto",
+      "z": "2147483647",
+      "rect": [
+       0,
+       0,
+       390,
+       844
+      ],
+      "html": 891,
+      "iframes": 0
+     }
+    ],
+    "ls": {
+     "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790774315989",
+     "truereachDebugMode": "false"
+    },
+    "ss": {}
+   },
+   "gam": [
+    {
+     "t": 43562,
+     "iu": "22081762831:46400095,123greetings_int",
+     "sz": "300x400|300x480|300x250|320x480|250x360|250x250|320x400|300x600|120x600|160x600|"
+    }
+   ],
+   "ga": [
+    {
+     "t": 39707,
+     "tid": "G-R56NTBBBCB",
+     "en": "user_engagement",
+     "body": ""
+    },
+    {
+     "t": 45475,
+     "tid": "G-R56NTBBBCB",
+     "en": "page_view",
+     "body": ""
+    },
+    {
+     "t": 67317,
+     "tid": "G-R56NTBBBCB",
+     "en": "scroll",
+     "body": ""
+    }
+   ]
+  },
+  {
+   "path": "/mothers-day-messages/",
+   "s0": {
+    "url": "https://blog.123greetings.com/mothers-day-messages/",
+    "docH": 6703,
+    "bodyOverflow": "hidden auto",
+    "htmlOverflow": "visible",
+    "fixed": [
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcl",
+      "pos": "fixed",
+      "rect": [
+       0,
+       646,
+       390,
+       198
+      ],
+      "cover": 0.234,
+      "z": "2147483646",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": "We use cookies to make your experience sweeter! By using our site, you agree to "
+     }
+    ],
+    "pts": [
+     "195,422: P#.",
+     "195,814: DIV#.cc-window cc-floating cc-type-info cc-th",
+     "195,150: H1#.inner-arrow"
+    ],
+    "slots": [
+     {
+      "path": "/22081762831,46400095/123greetings_int",
+      "div": "div-gpt-ad-1784526288594-0",
+      "rect": [
+       45,
+       297,
+       300,
+       250
+      ],
+      "filled": false,
+      "ri": null
+     }
+    ],
+    "trEls": [
+     {
+      "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+      "pos": "fixed",
+      "display": "flex",
+      "vis": "hidden",
+      "pe": "auto",
+      "z": "2147483647",
+      "rect": [
+       0,
+       0,
+       390,
+       844
+      ],
+      "html": 891,
+      "iframes": 0
+     }
+    ],
+    "ls": {
+     "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790774347667",
+     "truereachDebugMode": "false"
+    },
+    "ss": {}
+   },
+   "s1": {
+    "url": "https://blog.123greetings.com/mothers-day-messages/",
+    "docH": 6637,
+    "bodyOverflow": "hidden auto",
+    "htmlOverflow": "visible",
+    "fixed": [
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+      "pos": "fixed",
+      "rect": [
+       0,
+       0,
+       390,
+       66
+      ],
+      "cover": 0.078,
+      "z": "9999",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": ""
+     },
+     {
+      "tag": "DIV",
+      "id": "",
+      "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcl",
+      "pos": "fixed",
+      "rect": [
+       0,
+       646,
+       390,
+       198
+      ],
+      "cover": 0.234,
+      "z": "2147483646",
+      "opacity": "1",
+      "pe": "auto",
+      "bg": "rgb(255, 255, 255)",
+      "hasIframe": false,
+      "text": "We use cookies to make your experience sweeter! By using our site, you agree to "
+     }
+    ],
+    "pts": [
+     "195,422: P#.",
+     "195,814: DIV#.cc-window cc-floating cc-type-info cc-th",
+     "195,150: P#."
+    ],
+    "slots": [
+     {
+      "path": "/22081762831,46400095/123greetings_int",
+      "div": "div-gpt-ad-1784526288594-0",
+      "rect": [
+       45,
+       6090,
+       300,
+       250
+      ],
+      "filled": false,
+      "ri": null
+     }
+    ],
+    "trEls": [
+     {
+      "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+      "pos": "fixed",
+      "display": "flex",
+      "vis": "hidden",
+      "pe": "auto",
+      "z": "2147483647",
+      "rect": [
+       0,
+       0,
+       390,
+       844
+      ],
+      "html": 891,
+      "iframes": 0
+     }
+    ],
+    "ls": {
+     "lastRenderedTime-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8": "1790774347667",
+     "truereachDebugMode": "false"
+    },
+    "ss": {}
+   },
+   "gam": [
+    {
+     "t": 75354,
+     "iu": "22081762831:46400095,123greetings_int",
+     "sz": "300x400|300x480|300x250|320x480|250x360|250x250|320x400|300x600|120x600|160x600|"
+    }
+   ],
+   "ga": [
+    {
+     "t": 73250,
+     "tid": "G-R56NTBBBCB",
+     "en": "user_engagement",
+     "body": ""
+    },
+    {
+     "t": 79137,
+     "tid": "G-R56NTBBBCB",
+     "en": "page_view",
+     "body": ""
+    },
+    {
+     "t": 100337,
+     "tid": "G-R56NTBBBCB",
+     "en": "scroll",
+     "body": ""
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "cached": 210,
+  "fetched": 2,
+  "r429": 0,
+  "f429": 0
+ },
+ "loads": 3
+}

@@ -1,0 +1,497 @@
+{
+ "mom": {
+  "log": {
+   "status": 200,
+   "n429": 0,
+   "pageErrors": [],
+   "console": [
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+     "url": "https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL",
+     "line": 0
+    },
+    {
+     "type": "warning",
+     "text": "[GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609240101/pubads_impl.js?cb=122881257",
+     "line": 22
+    },
+    {
+     "type": "warning",
+     "text": "Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing.",
+     "url": "https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js",
+     "line": 0
+    },
+    {
+     "type": "warning",
+     "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0702000743A0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+     "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+     "line": 0
+    },
+    {
+     "type": "warning",
+     "text": "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609240101/pubads_impl.js?cb=122881257",
+     "line": 22
+    },
+    {
+     "type": "warning",
+     "text": "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609240101/pubads_impl.js?cb=122881257",
+     "line": 22
+    },
+    {
+     "type": "error",
+     "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+     "url": "https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL",
+     "line": 0
+    },
+    {
+     "type": "warning",
+     "text": "[GroupMarkerNotSet(crbug.com/242999)!:A0A02000743A0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+     "url": "https://ep2.adtrafficquality.google/sodar/sodar2/255/runner.html",
+     "line": 0
+    }
+   ],
+   "http": [
+    "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+   ]
+  },
+  "gaBeforeConsent": [
+   {
+    "t": 1083,
+    "u": "https://www.google-analytics.com/g/collect?v=2&tid=G-R56NTBBBCB&gtm=45je69t0h2v9250288339za200zd9250288339xf1&_p=1790770448835&gcd=13l3l3l3l1l1&npa=0&dma=0&are="
+   }
+  ],
+  "clsAtLoad": {
+   "value": 0.0822602298310391,
+   "entries": [
+    {
+     "t": 1682,
+     "v": 0.0823,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.penci-block_content",
+      "div.penci-block_content",
+      "div.penci-block_content"
+     ]
+    }
+   ]
+  },
+  "banner": {
+   "rect": [
+    0,
+    646,
+    390,
+    198
+   ],
+   "pos": "fixed",
+   "z": "2147483646",
+   "vis": "visible",
+   "disp": "flex",
+   "text": "We use cookies to make your experience sweeter! By using our site, you agree to our Cookie Policy.\nAccept\nx",
+   "buttons": [
+    {
+     "tag": "A",
+     "cls": "cc-link",
+     "text": "Cookie Policy.",
+     "aria": "cookies - Cookie Policy. "
+    },
+    {
+     "tag": "A",
+     "cls": "cc-btn cc-dismiss",
+     "text": "Accept",
+     "aria": "Accept cookie"
+    },
+    {
+     "tag": "SPAN",
+     "cls": "cc-close",
+     "text": "x",
+     "aria": "x cookie"
+    }
+   ]
+  },
+  "cookiesBefore": [],
+  "copyButtons": {
+   "total": 9,
+   "visible": 7,
+   "sample": [
+    {
+     "w": 0,
+     "h": 0,
+     "outline": "none 0px",
+     "aria": null,
+     "text": "\n            Copy\n            \n                \n                \n            \n        ",
+     "type": null
+    }
+   ]
+  },
+  "scroll": [
+   {
+    "label": "start",
+    "scrollY": 0,
+    "nbPos": "static",
+    "nbClass": "penci_navbar_mobile shadow-enable",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 66,
+    "h1ViewportTop": 121,
+    "h1DocTop": 121,
+    "cls": 0.0823,
+    "nShifts": 1
+   },
+   {
+    "label": "to 40",
+    "scrollY": 40,
+    "nbPos": "static",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 66,
+    "h1ViewportTop": 81,
+    "h1DocTop": 121,
+    "cls": 0.0823,
+    "nShifts": 1
+   },
+   {
+    "label": "to 60",
+    "scrollY": 60,
+    "nbPos": "static",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 66,
+    "h1ViewportTop": 61,
+    "h1DocTop": 121,
+    "cls": 0.0823,
+    "nShifts": 1
+   },
+   {
+    "label": "to 70",
+    "scrollY": 70,
+    "nbPos": "fixed",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 0,
+    "h1ViewportTop": -15,
+    "h1DocTop": 55,
+    "cls": 0.1605,
+    "nShifts": 2
+   },
+   {
+    "label": "to 80",
+    "scrollY": 80,
+    "nbPos": "fixed",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 0,
+    "h1ViewportTop": -25,
+    "h1DocTop": 55,
+    "cls": 0.1605,
+    "nShifts": 2
+   },
+   {
+    "label": "to 120",
+    "scrollY": 120,
+    "nbPos": "fixed",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 0,
+    "h1ViewportTop": -65,
+    "h1DocTop": 55,
+    "cls": 0.1605,
+    "nShifts": 2
+   },
+   {
+    "label": "to 0",
+    "scrollY": 0,
+    "nbPos": "static",
+    "nbClass": "penci_navbar_mobile shadow-enable scrollup",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 66,
+    "h1ViewportTop": 121,
+    "h1DocTop": 121,
+    "cls": 0.2387,
+    "nShifts": 3
+   },
+   {
+    "label": "to 80",
+    "scrollY": 80,
+    "nbPos": "fixed",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 0,
+    "h1ViewportTop": -25,
+    "h1DocTop": 55,
+    "cls": 0.3169,
+    "nShifts": 4
+   },
+   {
+    "label": "to 0",
+    "scrollY": 0,
+    "nbPos": "static",
+    "nbClass": "penci_navbar_mobile shadow-enable scrollup",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 66,
+    "h1ViewportTop": 121,
+    "h1DocTop": 121,
+    "cls": 0.3951,
+    "nShifts": 5
+   },
+   {
+    "label": "to 80",
+    "scrollY": 80,
+    "nbPos": "fixed",
+    "nbClass": "penci_navbar_mobile shadow-enable scrolldown mobile-sticky",
+    "nbH": 66,
+    "wrapCls": "pc-wrapbuilder-header-inner penci-builder-id-header",
+    "wrapH": 0,
+    "h1ViewportTop": -25,
+    "h1DocTop": 55,
+    "cls": 0.4733,
+    "nShifts": 6
+   }
+  ],
+  "clsAfterScroll": {
+   "value": 0.4732554904945462,
+   "entries": [
+    {
+     "t": 1682,
+     "v": 0.0823,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.penci-block_content",
+      "div.penci-block_content",
+      "div.penci-block_content"
+     ]
+    },
+    {
+     "t": 11997,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    },
+    {
+     "t": 14180,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    },
+    {
+     "t": 14913,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    },
+    {
+     "t": 15546,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    },
+    {
+     "t": 16313,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    }
+   ]
+  },
+  "closeX": {
+   "tag": "SPAN",
+   "cls": "cc-close",
+   "role": "button",
+   "tabindex": "0",
+   "aria": "x cookie"
+  },
+  "cookiesAfterX": [
+   {
+    "name": "cookieconsent_status",
+    "value": "allow",
+    "expires": "2027-09-30T12:14:25.000Z"
+   }
+  ],
+  "bannerAfterX": "none/visible/cc-window cc-floating cc-type-info cc-theme-block cc-addedcloseX cc-bottom cc-right cc-color-override-1070757447  cc-invisible",
+  "clip": "“Happy birthday to the woman who taught me everything I know, including how to fold a fitted sheet (still working on it). You’ve been quietly running everyone’s life for years and still somehow have the bandwidth to ask if I’m eating enough. I am. Mostly. Love you.”",
+  "clipFirstCharCode": "201c",
+  "clipLastCharCode": "201d",
+  "btnAfterTap": ""
+ },
+ "/fathers-day-messages/": {
+  "status": 200,
+  "n429": 0,
+  "menu": {
+   "n": 16,
+   "heights": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
+   ],
+   "texts": [
+    "For Your Father",
+    "For Your Stepfather",
+    "For your Mentor",
+    "For your Uncle",
+    "For your Father-in-Law",
+    "For a Single Mother",
+    "For your Godfather",
+    "From Daughters",
+    "From Sons",
+    "From Children",
+    "For your Husband",
+    "For your Grandfather",
+    "Funny Wishes",
+    "For Someone Missing Their",
+    "For your Dad in Heaven",
+    "Formal Wishes"
+   ],
+   "missingTargets": [],
+   "containerTop": 152,
+   "containerH": 537,
+   "containerPos": "static",
+   "h1Top": 774,
+   "firstMsgTop": 876,
+   "scrollPaddingTop": "auto"
+  },
+  "clickedText": " Funny Wishes",
+  "href": "#fw",
+  "after": {
+   "hash": "#fw",
+   "scrollY": 7891,
+   "targetTop": 34,
+   "headingText": "Funny Wishes",
+   "headingTop": 34,
+   "headingBottom": 61,
+   "navbarPos": "fixed",
+   "navbarTop": 0,
+   "navbarBottom": 66
+  }
+ },
+ "/birthday-messages/": {
+  "status": 200,
+  "n429": 0,
+  "menu": {
+   "n": 6,
+   "heights": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20
+   ],
+   "texts": [
+    "For Her",
+    "For Him",
+    "For Anyone",
+    "By Milestone",
+    "Zodiac Birthday",
+    "Belated Birthday"
+   ],
+   "missingTargets": [],
+   "containerTop": 152,
+   "containerH": 192,
+   "containerPos": "static",
+   "h1Top": 414,
+   "firstMsgTop": null,
+   "scrollPaddingTop": "auto"
+  },
+  "clickedText": " By Milestone",
+  "href": "#byMilestone",
+  "after": {
+   "hash": "#byMilestone",
+   "scrollY": 2780,
+   "targetTop": 34,
+   "headingText": "BY MILESTONE",
+   "headingTop": 54,
+   "headingBottom": 73,
+   "navbarPos": "fixed",
+   "navbarTop": 0,
+   "navbarBottom": 66
+  }
+ },
+ "home": {
+  "status": 200,
+  "n429": 0,
+  "pageErrors": [],
+  "gaBeforeConsent": [
+   {
+    "t": 857,
+    "u": "https://www.google-analytics.com/g/collect?v=2&tid=G-R56NTBBBCB&gtm=45je69s1v9250288339za200zd9250288339xf1&_p=1790770493370&gcd=13l3l3l3l1l1&npa=0&dma=0&are=1&"
+   }
+  ],
+  "banner": [
+   0,
+   646,
+   390,
+   198
+  ],
+  "search": {
+   "sel": "gsc-control-cse gsc-control-cse-en",
+   "top": 782,
+   "docTop": 782,
+   "h": 60,
+   "placeholder": null
+  },
+  "btt": {
+   "rect": [
+    330,
+    784,
+    40,
+    40
+   ],
+   "cs": "block/1/visible",
+   "z": "99999",
+   "topElAtCenter": "A.cc-btn cc-dismiss",
+   "bannerCovers": true
+  },
+  "scrollAfterBttTap": 1500,
+  "accept": "Accept / cc-btn cc-dismiss",
+  "cookiesAfterAccept": [
+   {
+    "name": "cookieconsent_status",
+    "value": "dismiss",
+    "expires": "2027-09-30T12:15:06.000Z"
+   }
+  ],
+  "gaAfterAcceptTotal": 1,
+  "bannerOnNextPage": {
+   "disp": "none",
+   "cls": "cc-window cc-floating cc-type-info cc-theme-block cc-addedcloseX cc-bottom cc-right cc-color-override-1070757447 cc-invisible"
+  },
+  "revoke": false
+ },
+ "assetStats": {
+  "cached": 352,
+  "fetched": 12,
+  "retried429": 0,
+  "failed429": 0,
+  "forcedFail": 0
+ },
+ "loads": 5
+}

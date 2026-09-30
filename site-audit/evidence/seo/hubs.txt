@@ -1,0 +1,188 @@
+orphans (0 inlinks from any crawled page): 3
+   ('https://blog.123greetings.com/archive/', 'page', 0, 0, 0, '2026-04-28')
+   ('https://blog.123greetings.com/at-work-messages/', 'page', 0, 0, 0, '2026-06-01')
+   ('https://blog.123greetings.com/upcoming-events/', 'page', 0, 0, 0, '2026-06-19')
+
+reachable only via tag/author/category archives (0 inlinks from pages/posts): 0
+
+exactly 1 inlink from content pages: 216
+   Counter({'page': 215, 'post': 1})
+   ('https://blog.123greetings.com/mothers-day-card-ideas-12-things-my-mom-used-to-say-that-finally-make-sense-now/', 'post', 7, 1, 0, '2026-04-30')
+   ('https://blog.123greetings.com/national-blueberry-pie-day-messages/', 'page', 1, 1, 1, '2026-05-28')
+   ('https://blog.123greetings.com/national-tap-dance-day-messages/', 'page', 1, 1, 1, '2026-05-28')
+   ('https://blog.123greetings.com/easter-messages/', 'page', 1, 1, 1, '2026-05-28')
+   ('https://blog.123greetings.com/april-fools-day-messages/', 'page', 1, 1, 1, '2026-05-28')
+   ('https://blog.123greetings.com/earth-day-messages/', 'page', 1, 1, 1, '2026-05-28')
+   ('https://blog.123greetings.com/spring-messages/', 'page', 1, 1, 1, '2026-06-01')
+   ('https://blog.123greetings.com/graduation-messages/', 'page', 1, 1, 1, '2026-06-01')
+   ('https://blog.123greetings.com/birthday-messages-for-grandma/', 'page', 1, 1, 1, '2026-06-01')
+   ('https://blog.123greetings.com/engagement-messages/', 'page', 1, 1, 1, '2026-06-02')
+   ('https://blog.123greetings.com/mothers-day-messages/', 'page', 1, 1, 1, '2026-06-02')
+   ('https://blog.123greetings.com/red-rose-day-messages/', 'page', 1, 1, 1, '2026-06-10')
+   ('https://blog.123greetings.com/sneak-a-kiss-day-messages/', 'page', 1, 1, 1, '2026-06-10')
+   ('https://blog.123greetings.com/international-yoga-day-messages/', 'page', 1, 1, 1, '2026-06-10')
+   ('https://blog.123greetings.com/national-best-friends-day-messages/', 'page', 1, 1, 1, '2026-06-02')
+
+no in-content (main area) link from any page/post: 45 Counter({'post': 40, 'page': 5})
+
+median inlinks all 1.0 content 1.0
+sole content inlink source for 1-inlink pages: [('https://blog.123greetings.com/what-to-write-in-a-card/', 93), ('https://blog.123greetings.com/anniversary-messages/', 52), ('https://blog.123greetings.com/birthday-messages/', 51), ('https://blog.123greetings.com/thankyou-messages/', 6), ('https://blog.123greetings.com/wedding-messages/', 5), ('https://blog.123greetings.com/friendship-messages/', 5), ('https://blog.123greetings.com/inspiration-messages/', 3), ('https://blog.123greetings.com/mothers-day-messages-for-mom-what-to-write-when-she-saved-it-all/', 1)]
+
+https://blog.123greetings.com/birthday-messages/: links to 61 of 247 pages, 0 posts
+
+https://blog.123greetings.com/anniversary-messages/: links to 56 of 247 pages, 0 posts
+
+https://blog.123greetings.com/what-to-write-in-a-card/: links to 115 of 247 pages, 0 posts
+
+https://blog.123greetings.com/: links to 23 of 247 pages, 0 posts
+
+https://blog.123greetings.com/thankyou-messages/: links to 10 of 247 pages, 0 posts
+
+https://blog.123greetings.com/friendship-messages/: links to 9 of 247 pages, 0 posts
+
+https://blog.123greetings.com/inspiration-messages/: links to 7 of 247 pages, 0 posts
+
+https://blog.123greetings.com/wedding-messages/: links to 9 of 247 pages, 0 posts
+
+https://blog.123greetings.com/archive/: links to 4 of 247 pages, 9 posts
+
+https://blog.123greetings.com/upcoming-events/: links to 4 of 247 pages, 0 posts
+
+https://blog.123greetings.com/birthday-messages/: 58 child pages with "birthday" in URL; linked 57; missing 1
+    /birthday-thankyou-messages/ 1
+
+https://blog.123greetings.com/anniversary-messages/: 52 child pages with "anniversary" in URL; linked 52; missing 0
+
+https://blog.123greetings.com/what-to-write-in-a-card/: missing 132 pages
+    /anniversary-messages-for-aunt/ inlinks-content 1
+    /anniversary-messages-for-boss/ inlinks-content 1
+    /anniversary-messages-for-boyfriend/ inlinks-content 1
+    /anniversary-messages-for-brother/ inlinks-content 1
+    /anniversary-messages-for-co-worker/ inlinks-content 1
+    /anniversary-messages-for-customers/ inlinks-content 1
+    /anniversary-messages-for-dad/ inlinks-content 1
+    /anniversary-messages-for-daughter/ inlinks-content 1
+    /anniversary-messages-for-employee/ inlinks-content 1
+    /anniversary-messages-for-fiance/ inlinks-content 1
+    /anniversary-messages-for-fiancee/ inlinks-content 1
+    /anniversary-messages-for-friends/ inlinks-content 1
+    /anniversary-messages-for-girlfriend/ inlinks-content 1
+    /anniversary-messages-for-granddaughter/ inlinks-content 1
+    /anniversary-messages-for-grandma/ inlinks-content 1
+    /anniversary-messages-for-grandpa/ inlinks-content 1
+    /anniversary-messages-for-grandparents/ inlinks-content 1
+    /anniversary-messages-for-grandson/ inlinks-content 1
+    /anniversary-messages-for-husband/ inlinks-content 1
+    /anniversary-messages-for-in-laws/ inlinks-content 1
+    /anniversary-messages-for-mom/ inlinks-content 1
+    /anniversary-messages-for-mother-in-law/ inlinks-content 1
+    /anniversary-messages-for-neighbours/ inlinks-content 1
+    /anniversary-messages-for-niece/ inlinks-content 1
+    /anniversary-messages-for-parents/ inlinks-content 1
+    /anniversary-messages-for-siblings/ inlinks-content 1
+    /anniversary-messages-for-sister/ inlinks-content 1
+    /anniversary-messages-for-son/ inlinks-content 1
+    /anniversary-messages-for-stepmother/ inlinks-content 1
+    /anniversary-messages-for-uncle/ inlinks-content 1
+    /anniversary-messages-for-wife/ inlinks-content 1
+    /archive/ inlinks-content 0
+    /at-work-messages/ inlinks-content 0
+    /belated-anniversary-messages-for-her/ inlinks-content 1
+    /belated-anniversary-messages-for-him/ inlinks-content 1
+    /belated-anniversary-messages-for-sorry-i-forgot/ inlinks-content 1
+    /belated-birthday-messages-for-her/ inlinks-content 1
+    /belated-birthday-messages-for-him/ inlinks-content 1
+    /belated-birthday-messages-for-sorry-i-missed/ inlinks-content 1
+    /birthday-message-for-dad/ inlinks-content 2
+    /birthday-messages-for-across-the-miles/ inlinks-content 1
+    /birthday-messages-for-aquarius/ inlinks-content 1
+    /birthday-messages-for-aries/ inlinks-content 1
+    /birthday-messages-for-aunt/ inlinks-content 1
+    /birthday-messages-for-best-friend/ inlinks-content 1
+    /birthday-messages-for-boss/ inlinks-content 1
+    /birthday-messages-for-boyfriend/ inlinks-content 1
+    /birthday-messages-for-brother/ inlinks-content 1
+    /birthday-messages-for-cancer/ inlinks-content 1
+    /birthday-messages-for-capricorn/ inlinks-content 1
+    /birthday-messages-for-co-worker/ inlinks-content 1
+    /birthday-messages-for-daughter/ inlinks-content 2
+    /birthday-messages-for-father-in-law/ inlinks-content 1
+    /birthday-messages-for-gemini/ inlinks-content 1
+    /birthday-messages-for-girlfriend/ inlinks-content 1
+    /birthday-messages-for-granddaughter/ inlinks-content 1
+    /birthday-messages-for-grandma/ inlinks-content 1
+    /birthday-messages-for-grandpa/ inlinks-content 1
+    /birthday-messages-for-grandson/ inlinks-content 1
+    /birthday-messages-for-husband/ inlinks-content 2
+    /birthday-messages-for-leo/ inlinks-content 1
+    /birthday-messages-for-libra/ inlinks-content 1
+    /birthday-messages-for-mom/ inlinks-content 2
+    /birthday-messages-for-mother-in-law/ inlinks-content 1
+    /birthday-messages-for-nephew/ inlinks-content 1
+    /birthday-messages-for-niece/ inlinks-content 1
+    /birthday-messages-for-pisces/ inlinks-content 1
+    /birthday-messages-for-sagittarius/ inlinks-content 1
+    /birthday-messages-for-scorpio/ inlinks-content 1
+    /birthday-messages-for-sister/ inlinks-content 1
+    /birthday-messages-for-son/ inlinks-content 2
+    /birthday-messages-for-stepfather/ inlinks-content 1
+    /birthday-messages-for-stepmother/ inlinks-content 1
+    /birthday-messages-for-sweet-16/ inlinks-content 1
+    /birthday-messages-for-taurus/ inlinks-content 1
+    /birthday-messages-for-teacher/ inlinks-content 1
+    /birthday-messages-for-uncle/ inlinks-content 1
+    /birthday-messages-for-virgo/ inlinks-content 1
+    /birthday-messages-for-wife/ inlinks-content 2
+    /birthday-thankyou-messages/ inlinks-content 1
+    /business-anniversary-messages/ inlinks-content 1
+    /caring-friendship-messages/ inlinks-content 1
+    /colleagues-thankyou-messages/ inlinks-content 1
+    /company-anniversary-messages/ inlinks-content 1
+    /congratulations-thankyou-messages/ inlinks-content 1
+    /dailies-thankyou-messages/ inlinks-content 1
+    /dating-anniversary-messages/ inlinks-content 1
+    /friendship-anniversary-messages/ inlinks-content 1
+    /friendship-messages-for-best-friends/ inlinks-content 1
+    /friendship-messages-for-friends-forever/ inlinks-content 1
+    /friendship-messages-here-for-you/ inlinks-content 1
+    /funny-belated-birthday-messages/ inlinks-content 1
+    /funny-friendship-messages/ inlinks-content 1
+    /heartfelt-belated-birthday-messages/ inlinks-content 1
+    /inspiration-messages-motivation/ inlinks-content 1
+    /inspiration-messages-you-can-do-it/ inlinks-content 1
+    /invitation-thankyou-messages/ inlinks-content 1
+    /love-thankyou-messages/ inlinks-content 1
+    /messages-for-100th-birthday/ inlinks-content 1
+    /messages-for-10th-anniversary/ inlinks-content 1
+    /messages-for-13th-birthday/ inlinks-content 1
+    /messages-for-15th-anniversary/ inlinks-content 1
+    /messages-for-18th-birthday/ inlinks-content 1
+    /messages-for-1st-anniversary/ inlinks-content 1
+    /messages-for-1st-birthday/ inlinks-content 1
+    /messages-for-20th-anniversary/ inlinks-content 1
+    /messages-for-21st-birthday/ inlinks-content 1
+    /messages-for-25th-anniversary/ inlinks-content 1
+    /messages-for-30th-anniversary/ inlinks-content 1
+    /messages-for-30th-birthday/ inlinks-content 1
+    /messages-for-40th-anniversary/ inlinks-content 1
+    /messages-for-40th-birthday/ inlinks-content 1
+    /messages-for-50th-anniversary/ inlinks-content 1
+    /messages-for-50th-birthday/ inlinks-content 1
+    /messages-for-5th-anniversary/ inlinks-content 1
+    /messages-for-60th-anniversary/ inlinks-content 1
+    /messages-for-60th-birthday/ inlinks-content 1
+    /messages-for-70th-birthday/ inlinks-content 1
+    /messages-for-75th-anniversary/ inlinks-content 1
+    /messages-for-80th-birthday/ inlinks-content 1
+    /messages-for-90th-birthday/ inlinks-content 1
+    /more-inspiration-messages/ inlinks-content 1
+    /more-wedding-messages/ inlinks-content 1
+    /relationship-anniversary-messages/ inlinks-content 1
+    /thank-you-messages/ inlinks-content 2
+    /upcoming-events/ inlinks-content 0
+    /wedding-anniversary-messages/ inlinks-content 1
+    /wedding-messages-for-the-bride/ inlinks-content 1
+    /wedding-messages-for-the-groom/ inlinks-content 1
+    /wedding-messages-to-congratulate-the-couple/ inlinks-content 1
+    /wedding-messages-when-just-married/ inlinks-content 1
+    /work-anniversary-messages/ inlinks-content 1

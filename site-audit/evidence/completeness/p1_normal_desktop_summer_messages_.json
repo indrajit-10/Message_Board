@@ -1,0 +1,465 @@
+{
+ "path": "/summer-messages/",
+ "mode": "normal",
+ "vp": "desktop",
+ "tLoaded": 23601,
+ "nRequests": 140,
+ "hosts": {
+  "blog.123greetings.com": {
+   "n": 74,
+   "first": 128
+  },
+  "fonts-api.wp.com": {
+   "n": 3,
+   "first": 735
+  },
+  "www.google.com": {
+   "n": 6,
+   "first": 1344
+  },
+  "www.googletagmanager.com": {
+   "n": 1,
+   "first": 1520
+  },
+  "1437953666.rsc.cdn77.org": {
+   "n": 1,
+   "first": 1592
+  },
+  "s0.wp.com": {
+   "n": 1,
+   "first": 1616
+  },
+  "stats.wp.com": {
+   "n": 1,
+   "first": 1620
+  },
+  "fonts.wp.com": {
+   "n": 2,
+   "first": 1739
+  },
+  "i0.wp.com": {
+   "n": 1,
+   "first": 1747
+  },
+  "www.gstatic.com": {
+   "n": 5,
+   "first": 1833
+  },
+  "www.google-analytics.com": {
+   "n": 1,
+   "first": 1902
+  },
+  "securepubads.g.doubleclick.net": {
+   "n": 4,
+   "first": 1947
+  },
+  "pixel.wp.com": {
+   "n": 1,
+   "first": 1947
+  },
+  "fundingchoicesmessages.google.com": {
+   "n": 15,
+   "first": 2616
+  },
+  "fonts.gstatic.com": {
+   "n": 1,
+   "first": 2974
+  },
+  "cm.g.doubleclick.net": {
+   "n": 1,
+   "first": 3020
+  },
+  "dmp.im-apps.net": {
+   "n": 1,
+   "first": 3055
+  },
+  "connectid.analytics.yahoo.com": {
+   "n": 1,
+   "first": 3055
+  },
+  "cdn.jsdelivr.net": {
+   "n": 1,
+   "first": 3055
+  },
+  "tags.crwdcntrl.net": {
+   "n": 1,
+   "first": 3055
+  },
+  "invstatic101.creativecdn.com": {
+   "n": 1,
+   "first": 3056
+  },
+  "cdn.id5-sync.com": {
+   "n": 1,
+   "first": 3056
+  },
+  "static.criteo.net": {
+   "n": 1,
+   "first": 3056
+  },
+  "c8621726af3cb72b8c476a8e9d15c670.safeframe.googlesyndication.com": {
+   "n": 1,
+   "first": 3103
+  },
+  "sync6.im-apps.net": {
+   "n": 1,
+   "first": 3567
+  },
+  "pagead2.googlesyndication.com": {
+   "n": 4,
+   "first": 3610
+  },
+  "id5-sync.com": {
+   "n": 1,
+   "first": 3634
+  },
+  "bcp.crwdcntrl.net": {
+   "n": 1,
+   "first": 3652
+  },
+  "esp.rtbhouse.com": {
+   "n": 1,
+   "first": 3676
+  },
+  "ep1.adtrafficquality.google": {
+   "n": 2,
+   "first": 3708
+  },
+  "ep2.adtrafficquality.google": {
+   "n": 3,
+   "first": 3982
+  },
+  "gum.criteo.com": {
+   "n": 1,
+   "first": 4698
+  }
+ },
+ "cookies": [
+  {
+   "name": "_GRECAPTCHA",
+   "domain": "www.google.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_ga_R56NTBBBCB",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_ga",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_pubcid",
+   "domain": ".123greetings.com",
+   "expiresDays": 270,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "test_cookie",
+   "domain": ".doubleclick.net",
+   "expiresDays": 0,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__gads",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__gpi",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "__eoi",
+   "domain": ".123greetings.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_cc_id",
+   "domain": ".crwdcntrl.net",
+   "expiresDays": 270,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_cc_id",
+   "domain": ".123greetings.com",
+   "expiresDays": 270,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "panoramaId_expiry",
+   "domain": ".123greetings.com",
+   "expiresDays": 7,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "panoramaId",
+   "domain": ".123greetings.com",
+   "expiresDays": 7,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "panoramaIdType",
+   "domain": ".123greetings.com",
+   "expiresDays": 7,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "imid_secure",
+   "domain": ".im-apps.net",
+   "expiresDays": 400,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "imid_created_secure",
+   "domain": ".im-apps.net",
+   "expiresDays": 400,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "uid",
+   "domain": ".criteo.com",
+   "expiresDays": 390,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "FCCDCF",
+   "domain": ".123greetings.com",
+   "expiresDays": 390,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "FCNEC",
+   "domain": ".123greetings.com",
+   "expiresDays": 365,
+   "sameSite": "Lax",
+   "secure": false
+  }
+ ],
+ "info": {
+  "cmp": {
+   "tcfapi": "function",
+   "gpp": "function",
+   "uspapi": "function",
+   "googlefc": "object",
+   "gtag": "function"
+  },
+  "tcf": {
+   "gdprApplies": false,
+   "cmpLoaded": true,
+   "cmpStatus": "loaded",
+   "displayStatus": "disabled",
+   "apiVersion": "2.3",
+   "cmpVersion": 2,
+   "cmpId": 300,
+   "gvlVersion": 178,
+   "tcfPolicyVersion": 5
+  },
+  "usp": {
+   "d": {
+    "version": 1,
+    "uspString": "1---"
+   },
+   "ok": true
+  },
+  "gpp": {
+   "d": {
+    "gppVersion": "1.1",
+    "cmpStatus": "loaded",
+    "cmpDisplayStatus": "disabled",
+    "signalStatus": "ready",
+    "supportedAPIs": [
+     "7:usnat, 13:usfl"
+    ],
+    "cmpId": 300,
+    "sectionList": [],
+    "applicableSections": [
+     -1
+    ],
+    "gppString": "",
+    "parsedSections": {}
+   },
+   "ok": true
+  },
+  "dataLayer": [
+   "[\"js\",\"2026-09-30T13:21:19.130Z\"]",
+   "[\"config\",\"G-R56NTBBBCB\"]",
+   "[]",
+   "[]"
+  ],
+  "ls": {
+   "truereachDebugMode": "false",
+   "_GESPSK-pubcid.org": "[\"pubcid.org\",null,1790774480407,null,null,null,null,null,null,[100]]",
+   "_GESPSK-crwdcntrl.net": "[\"crwdcntrl.net\",\"79a8210db8c1099b7dd7a1e82990185ca02cac52210fd14290b4b562563521",
+   "panoramaId_expiry": "1791379281505",
+   "_GUSM": "[1790774480410,1790774480410,-1,1,-1,-1]",
+   "panoramaId": "79a8210db8c1099b7dd7a1e82990185ca02cac52210fd14290b4b56256352139",
+   "panoramaIdType": "panoDevice",
+   "_GESPSK-id5-sync.com": "[\"id5-sync.com\",null,1790774481955,null,null,null,null,null,null,[106]]",
+   "_GESPSK-esp.criteo.com": "[\"esp.criteo.com\",null,1790774480407,null,null,null,null,null,null,[100]]",
+   "lastRenderedTime-TR-7a488297-83fe-11f1-8ca4-ad80c4d99cbe": "1790774479328",
+   "_cc_id": "674e24032ea81c92415292834bf3827f",
+   "_grecaptcha": "09AKhCRwjYJMuwPckTZcAG-3VWVxHvcl2IF-1ZZozBaoa05VjVlf54ECzTgMPVDb6pfBFezbgiwlA2_T",
+   "_pubcid": "b43b918a-051f-4511-88a4-3e42f5d517de",
+   "_GSD": "1",
+   "_im_uid.9001": "b.5573320a690fc650",
+   "_GESPSK-intimatemerger.com": "[\"intimatemerger.com\",\"b.5573320a690fc650\",1790774481635]",
+   "_GESPSK-yahoo.com": "[\"yahoo.com\",null,1790774481081,null,null,null,null,null,null,[111]]",
+   "_wpfuj": "{\"1790774479\":\"https%3A%2F%2Fblog.123greetings.com%2Fsummer-messages%2F%7C%23%7C",
+   "_cc_id_update_ts": "1790774481345",
+   "_GESPSK-rtbhouse": "[\"rtbhouse\",\"wapEb+Z51IG/bo7gYJQI5MXEz///zNibHIs47z/Qo+x5MPNM0bIbNSir9gQApzYpqlt",
+   "_im_uid_mt.9001": "Wed, 30 Sep 2026 13:21:21 GMT",
+   "rtbhouse-esp": "1b833377-0289-49c3-a200-059497e7a1cf"
+  },
+  "banner": {
+   "visible": true,
+   "text": "We use cookies to make your experience sweeter! By using our site, you agree to our Cookie Policy. Accept x",
+   "buttons": [
+    "Cookie Policy.",
+    "Accept",
+    "x"
+   ]
+  },
+  "slots": [
+   {
+    "path": "/22081762831,46400095/123greetings_int",
+    "div": "div-gpt-ad-1784526288594-0",
+    "sizes": [
+     "300x250",
+     "250x360",
+     "240x400",
+     "320x480",
+     "300x480",
+     "300x400",
+     "320x400",
+     "120x600",
+     "160x600",
+     "300x600"
+    ],
+    "rect": [
+     533,
+     325,
+     300,
+     250
+    ],
+    "filled": null,
+    "targeting": []
+   }
+  ],
+  "pubadsTargeting": [],
+  "adEls": [
+   {
+    "tag": "DIV",
+    "id": "TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47",
+    "cls": "",
+    "rect": [
+     0,
+     0,
+     1366,
+     900
+    ],
+    "pos": "fixed",
+    "label": ""
+   },
+   {
+    "tag": "DIV",
+    "id": "div-gpt-ad-1784526288594-0",
+    "cls": "",
+    "rect": [
+     533,
+     325,
+     300,
+     250
+    ],
+    "pos": "static",
+    "label": ""
+   },
+   {
+    "tag": "DIV",
+    "id": "google_ads_iframe_/22081762831,46400095/123greetings_int_0__container__",
+    "cls": "",
+    "rect": [
+     533,
+     325,
+     300,
+     0
+    ],
+    "pos": "static",
+    "label": ""
+   }
+  ],
+  "docH": 3742,
+  "cta": {
+   "href": "https://www.123greetings.com/events/summer/",
+   "text": "summer",
+   "target": "_blank"
+  }
+ },
+ "ga": [
+  {
+   "t": 1902,
+   "tid": "G-R56NTBBBCB",
+   "en": "page_view",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/summer-messages/",
+   "ep": [],
+   "body": ""
+  }
+ ],
+ "gam": [
+  {
+   "t": 3056,
+   "iu": "22081762831:46400095,123greetings_int",
+   "enc": "/0/1",
+   "sz": "300x250|250x360|240x400|320x480|300x480|300x400|320x400|120x600|160x600|300x600",
+   "npa": null,
+   "gdpr": "0",
+   "us_privacy": "1---",
+   "gpp": null,
+   "gpc": null,
+   "rdp": null,
+   "ltd": null,
+   "cookie_enabled": "1"
+  }
+ ],
+ "clickTest": {
+  "before": "https://www.123greetings.com/events/summer/",
+  "hrefAfterMousedown": "https://www.123greetings.com/events/summer/",
+  "requestsAfterClick": []
+ },
+ "stats": {
+  "cached": 58,
+  "fetched": 15,
+  "r429": 0,
+  "f429": 0
+ },
+ "loads": 1
+}

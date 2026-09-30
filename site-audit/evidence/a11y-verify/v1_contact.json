@@ -1,0 +1,203 @@
+{
+ "log": {
+  "path": "/contact-us/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "2.dca _atomic_dca STALE"
+ },
+ "fields": [
+  {
+   "name": "your-name",
+   "type": "text",
+   "ph": "Name*",
+   "labels": 0,
+   "ac": null,
+   "ariaLabel": null,
+   "req": false,
+   "ariaReq": "true",
+   "vis": true
+  },
+  {
+   "name": "your-email",
+   "type": "email",
+   "ph": "Email*",
+   "labels": 0,
+   "ac": null,
+   "ariaLabel": null,
+   "req": false,
+   "ariaReq": "true",
+   "vis": true
+  },
+  {
+   "name": "your-subject",
+   "type": "text",
+   "ph": "Subject",
+   "labels": 0,
+   "ac": null,
+   "ariaLabel": null,
+   "req": false,
+   "ariaReq": null,
+   "vis": true
+  },
+  {
+   "name": "your-message",
+   "type": "textarea",
+   "ph": "Your Message",
+   "labels": 0,
+   "ac": null,
+   "ariaLabel": null,
+   "req": false,
+   "ariaReq": "true",
+   "vis": true
+  },
+  {
+   "name": "",
+   "type": "submit",
+   "ph": "",
+   "labels": 0,
+   "ac": null,
+   "ariaLabel": null,
+   "req": false,
+   "ariaReq": null,
+   "vis": true
+  },
+  {
+   "name": "_wpcf7_ak_hp_textarea",
+   "type": "textarea",
+   "ph": "",
+   "labels": 1,
+   "ac": null,
+   "ariaLabel": null,
+   "req": false,
+   "ariaReq": null,
+   "vis": false
+  }
+ ],
+ "form": {
+  "aria": "Contact form",
+  "ver": "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+  "novalidate": true,
+  "reqLegend": false
+ },
+ "img": [
+  {
+   "alt": null,
+   "src": "p-content/uploads/2026/04/email-2.png?w=1170&ssl=1",
+   "next": "bob@123greetings-inc.com"
+  }
+ ],
+ "landmarks": {
+  "main": 0,
+  "header": 0,
+  "footer": 0,
+  "navs": [
+   "nav.navigation.menu-style-1.no-class|",
+   "nav.navigation.menu-style-1.no-class|",
+   "nav.no-class.normal-click|",
+   "nav#sidebar-nav.header-1.mstyle-default|"
+  ],
+  "skip": [],
+  "firstFocusable": "<a href=\"https://blog.123greetings.com/\">\n            <img class=\"penci-mainlogo penci-limg pclogo-cls\" src=\"https://blog.123greetings.com/w"
+ },
+ "axe": {
+  "violations": [
+   {
+    "id": "image-alt",
+    "impact": "critical",
+    "count": 1,
+    "nodes": [
+     {
+      "target": "img[data-recalc-dims=\"1\"]",
+      "html": "<img data-recalc-dims=\"1\" decoding=\"async\" src=\"https://i0.wp.com/blog.123greetings.com/wp-content/uploads/2026/04/email-2.png?w=1170&amp;ssl=1\">",
+      "data": null
+     }
+    ]
+   },
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 6,
+    "nodes": [
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".penci-structure-10",
+      "html": "<section class=\"penci-section penci-dmcheck penci-elbg-activate penci-disSticky penci-structure-10 elementor-section elementor-top-section elementor-element ele",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "h2",
+      "html": "<h2 class=\"penci-heading-title\"><span class=\"inner-tit\">Want us to cover something?</span></h2>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".penci-heading-content",
+      "html": "<div class=\"penci-heading-content entry-content\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-503",
+      "html": "<div data-elementor-type=\"wp-post\" data-elementor-id=\"503\" class=\"elementor elementor-503\">",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": "#cookieconsent\\:desc",
+      "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "data": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "elmPartiallyObscuring",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

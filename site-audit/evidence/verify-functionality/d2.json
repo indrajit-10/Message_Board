@@ -1,0 +1,41 @@
+{
+ "queries": {
+  "tap dance": {
+   "n": 1,
+   "noResults": false,
+   "links": [
+    "/national-tap-dance-day-messages/"
+   ]
+  },
+  "sympathy": {
+   "n": 1,
+   "noResults": false,
+   "links": [
+    "/sympathy-condolences-messages/"
+   ]
+  },
+  "honey month": {
+   "n": 1,
+   "noResults": false,
+   "links": [
+    "/honey-month-messages/"
+   ]
+  },
+  "birthday messages for dad": {
+   "n": 4,
+   "noResults": false,
+   "links": [
+    "/birthday-message-for-dad/",
+    "/birthday-messages-for-stepfather/",
+    "/birthday-messages-for-granddaughter/",
+    "/anniversary-messages-for-mom/"
+   ]
+  }
+ },
+ "status": 200,
+ "cseBox": {
+  "placeholder": "Search Messages",
+  "docTop": 421
+ },
+ "loads": 1
+}

@@ -1,0 +1,32 @@
+total messages 2165 unique normalized 2154
+exact normalized dup messages across pages: 3
+4 | “Happy birthday! A big number on the cake, sure, but the number never quite matches how you feel, and it definitely doesn’t match who you’ve become. You’ve earn | ['/messages-for-21st-birthday/', '/messages-for-30th-birthday/', '/messages-for-40th-birthday/', '/messages-for-60th-birthday/']
+3 | “Happy anniversary! A decade, or two, or five — doesn’t really matter. What matters is that you’re still choosing each other on an ordinary Tuesday, still laugh | ['/messages-for-10th-anniversary/', '/messages-for-25th-anniversary/', '/messages-for-50th-anniversary/']
+2 | “Happy birthday to the kid who turned my life completely upside down and somehow made it better. You’ve been teaching me more than I’ve been teaching you since  | ['/birthday-messages-for-daughter/', '/birthday-messages-for-son/']
+
+== within-page duplicates ==
+/national-tap-dance-day-messages/ [('“On Dance Day, just remember: if you have two left feet, that’s not a problem. T', 2)]
+/fathers-day-messages/ [('“You were my first safe place. Still are, even when I pretend I do not need one.', 2)]
+/labor-day-messages/ [('“Happy Labor Day! May you take a well-deserved break today, enjoy the little thi', 2), ('“Wishing you a restful Labor Day! You work hard every day, care deeply for other', 2)]
+/birthday-messages-for-son/ [('“Our arms may not hold you like before, but our hearts always will Happy Birthda', 2)]
+
+== sentences (>=6 words) reused on 3+ pages ==
+sentences on 2+ pages: 13  on 3+: 6
+4 | You’ve earned every year you’re carrying. | ['/messages-for-21st-birthday/', '/messages-for-30th-birthday/', '/messages-for-40th-birthday/', '/messages-for-60th-birthday/']
+4 | Today is for celebrating exactly that. | ['/messages-for-21st-birthday/', '/messages-for-30th-birthday/', '/messages-for-40th-birthday/', '/messages-for-60th-birthday/']
+4 | The number is just the headline. | ['/messages-for-21st-birthday/', '/messages-for-30th-birthday/', '/messages-for-40th-birthday/', '/messages-for-60th-birthday/']
+4 | A big number on the cake, sure, but the number never quite matches how you feel, and it definitely doesn’t match who you’ve become. | ['/messages-for-21st-birthday/', '/messages-for-30th-birthday/', '/messages-for-40th-birthday/', '/messages-for-60th-birthday/']
+3 | What matters is that you’re still choosing each other on an ordinary Tuesday, still laughing at the same old jokes, still holding hands in the car wit | ['/messages-for-10th-anniversary/', '/messages-for-25th-anniversary/', '/messages-for-50th-anniversary/']
+3 | A decade, or two, or five — doesn’t really matter. | ['/messages-for-10th-anniversary/', '/messages-for-25th-anniversary/', '/messages-for-50th-anniversary/']
+2 | You’ve been teaching me more than I’ve been teaching you since about week two. | ['/birthday-messages-for-daughter/', '/birthday-messages-for-son/']
+2 | You’ve been right about almost everything since approximately 1962, and somehow you still manage to be gracious about it. | ['/fathers-day-messages/', '/mothers-day-messages/']
+2 | You don’t have to have everything figured out. | ['/birthday-messages-for-granddaughter/', '/family-messages/']
+2 | The world’s lucky to have you. | ['/birthday-messages-for-daughter/', '/birthday-messages-for-son/']
+2 | Thanks for being easy to work with on the hard days and still easier on the good ones. | ['/birthday-messages-for-boss/', '/birthday-messages-for-co-worker/']
+2 | Keep being exactly who you are. | ['/birthday-messages-for-daughter/', '/birthday-messages-for-son/']
+2 | Happy birthday to the kid who turned my life completely upside down and somehow made it better. | ['/birthday-messages-for-daughter/', '/birthday-messages-for-son/']
+
+== near-duplicate messages (jaccard>=0.6 on 3-word shingles, different pages, not exact) ==
+2
+(0.89, '/birthday-messages-for-co-worker/', '/birthday-messages-for-boss/', '“Happy birthday! Hoping today brings cake, coffee that hasn’t been sitting out for three hours, and at least o', '“Happy birthday! Hoping today brings cake, coffee that hasn’t been sitting out for three hours, and at least o')
+(0.66, '/mothers-day-messages/', '/fathers-day-messages/', '“Thinking of you today. I know Mother’s Day is a hard one when the person it was made for isn’t here anymore. ', '“Thinking of you today. I know Father’s Day is a hard one when the person it was made for isn’t here anymore. ')

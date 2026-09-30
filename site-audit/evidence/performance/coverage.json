@@ -1,0 +1,853 @@
+{
+ "path": "/birthday-messages-for-mom/",
+ "css": [
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/main.css?ver=8.7.6",
+   "total": 1343662,
+   "used": 22311,
+   "pct": 2
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1778843412",
+   "total": 102834,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/layout-grid/style.css?ver=1743174953",
+   "total": 58957,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.2",
+   "total": 54666,
+   "used": 7622,
+   "pct": 14
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1778843440",
+   "total": 46422,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/css/post-8620.css?ver=1790334127",
+   "total": 42029,
+   "used": 14656,
+   "pct": 35
+  },
+  {
+   "url": "https://fonts-api.wp.com/css?family=Montserrat%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CPoppins%3A3",
+   "total": 31527,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/css/font-awesome.4.7.0.swap.min.css?ver=4.7.0",
+   "total": 31035,
+   "used": 376,
+   "pct": 1
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/testimonial-free/src/Frontend/assets/css/font-awesome.min.css?ver=4.0.0",
+   "total": 29062,
+   "used": 376,
+   "pct": 1
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 25580,
+   "used": 7688,
+   "pct": 30
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1778843416",
+   "total": 23904,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/penci-recipe/css/recipe.css?ver=4.3",
+   "total": 22663,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.54.0",
+   "total": 22305,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://fonts-api.wp.com/css?family=Montserrat%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800it",
+   "total": 21438,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "global-styles-inline-css",
+   "total": 19782,
+   "used": 6799,
+   "pct": 34
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/css/swiper-bundle.min.css?ver=8.7.6",
+   "total": 18436,
+   "used": 71,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/testimonial-free/src/Frontend/assets/css/swiper.min.css?ver=4.0.0",
+   "total": 16466,
+   "used": 71,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/css/albertsans.css?ver=1778843434",
+   "total": 16452,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/dist/contact-form/css/jetpack-forms-layout.css?ver=16",
+   "total": 16372,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/testimonial-free/dist/style-rtp-blocks.css?ver=4.0.0",
+   "total": 15350,
+   "used": 390,
+   "pct": 3
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17",
+   "total": 11256,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/results-list.css?ver=0.4.0",
+   "total": 10266,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/custom-css-js/1553.css?v=3293",
+   "total": 10243,
+   "used": 343,
+   "pct": 3
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/penci-review/css/style.css?ver=3.6",
+   "total": 10090,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 9953,
+   "used": 1162,
+   "pct": 12
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/css/penci-icon.min.css?ver=8.7.6",
+   "total": 9403,
+   "used": 310,
+   "pct": 3
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/beautiful-and-responsive-cookie-consent/public/cookieNSCconsent.min.css?ver=4.9.2",
+   "total": 7402,
+   "used": 1859,
+   "pct": 25
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/mu-plugins/wpcomsh/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/wpcom-blocks-code-style/wpcom-blocks-",
+   "total": 6051,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/search-in-place/css/codepeople_shearch_in_place.min.css?ver=1.5.6",
+   "total": 4919,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/filter-checkbox.css",
+   "total": 4612,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/filter-date.css",
+   "total": 4500,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/css/social-counter.css?ver=8.7.6",
+   "total": 4366,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.3.2",
+   "total": 4258,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=7.1.2",
+   "total": 4186,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/results-sort.css",
+   "total": 4140,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-podcast/dist/blocks/podcast-episode/style.css?minify=false&",
+   "total": 4135,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/_inc/build/likes/style.min.css",
+   "total": 3727,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/search-input.css",
+   "total": 3385,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-paypal-payments/dist/paypal-payment-buttons/style.css?minif",
+   "total": 3213,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+   "total": 2979,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/ai-answer.css",
+   "total": 2926,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 2586,
+   "used": 1860,
+   "pct": 72
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/css/post-503.css?ver=1790317234",
+   "total": 2586,
+   "used": 1860,
+   "pct": 72
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/inc/block/heading-styles/build/style.min.css",
+   "total": 2535,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/filters-popover.css",
+   "total": 2341,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/active-filters.css",
+   "total": 2204,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://fonts-api.wp.com/css?family=Oswald:400&ver=7.1.2",
+   "total": 1801,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/results-load-more.css",
+   "total": 1206,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/uploads/elementor/css/post-8.css?ver=1790317233",
+   "total": 1168,
+   "used": 1102,
+   "pct": 94
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 940,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/inc/elementor/assets/css/fold.css?ver=8.7.6",
+   "total": 908,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/testimonial-free/src/Admin/assets/css/fontello.min.css?ver=4.0.0",
+   "total": 792,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/no-results.css",
+   "total": 782,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 752,
+   "used": 618,
+   "pct": 82
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/themes/soledad/style.css?ver=8.7.6",
+   "total": 736,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 722,
+   "used": 233,
+   "pct": 32
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/filters.css",
+   "total": 677,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/powered-by.css",
+   "total": 645,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/clear-filters.css",
+   "total": 422,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "jetpack-global-styles-frontend-style-inline-css",
+   "total": 383,
+   "used": 316,
+   "pct": 83
+  },
+  {
+   "url": "/wp-includes/css/classic-themes.min.css",
+   "total": 350,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "wp-emoji-styles-inline-css",
+   "total": 340,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/search-results.css",
+   "total": 261,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-search/build/search-blocks/results-count.css",
+   "total": 245,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 224,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 221,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 141,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "wp-img-auto-sizes-contain-inline-css",
+   "total": 135,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "jetpack-stats-inline-css",
+   "total": 69,
+   "used": 25,
+   "pct": 36
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 69,
+   "used": 0,
+   "pct": 0
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/wpforms-form-locker/assets/css/frontend.min.css?ver=2.8.0",
+   "total": 55,
+   "used": 0,
+   "pct": 0
+  }
+ ],
+ "js": [
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/recaptcha__en.js",
+   "total": 848245,
+   "used": 299826,
+   "pct": 35
+  },
+  {
+   "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202609230101/pubads_impl.js?cb=122881214",
+   "total": 703630,
+   "used": 251606,
+   "pct": 36
+  },
+  {
+   "url": "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB",
+   "total": 529557,
+   "used": 260763,
+   "pct": 49
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??43755b75c1",
+   "total": 370040,
+   "used": 45005,
+   "pct": 12
+  },
+  {
+   "url": "/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.XCDaU_vqQ2M.es5.O/d=1/rs=AJlcJMyAdN19Lb",
+   "total": 229224,
+   "used": 90756,
+   "pct": 40
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??34692c1620",
+   "total": 179937,
+   "used": 7661,
+   "pct": 4
+  },
+  {
+   "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+   "total": 134427,
+   "used": 80344,
+   "pct": 60
+  },
+  {
+   "url": "https://cdn.id5-sync.com/api/1.0/esp.js",
+   "total": 121105,
+   "used": 11234,
+   "pct": 9
+  },
+  {
+   "url": "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js",
+   "total": 101383,
+   "used": 18437,
+   "pct": 18
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+   "total": 87553,
+   "used": 36347,
+   "pct": 42
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.2",
+   "total": 60021,
+   "used": 35556,
+   "pct": 59
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/beautiful-and-responsive-cookie-consent/public/cookieNSCconsent.min.js?ver=4.9.2",
+   "total": 55580,
+   "used": 18396,
+   "pct": 33
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.2",
+   "total": 53085,
+   "used": 20480,
+   "pct": 39
+  },
+  {
+   "url": "https://tags.crwdcntrl.net/lt/c/16589/sync.min.js",
+   "total": 46160,
+   "used": 16667,
+   "pct": 36
+  },
+  {
+   "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+   "total": 35828,
+   "used": 19359,
+   "pct": 54
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??6e03354057",
+   "total": 31113,
+   "used": 9209,
+   "pct": 30
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?m=1784059681",
+   "total": 29867,
+   "used": 15740,
+   "pct": 53
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.2",
+   "total": 24569,
+   "used": 12345,
+   "pct": 50
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.2",
+   "total": 23185,
+   "used": 12231,
+   "pct": 53
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2",
+   "total": 22752,
+   "used": 20172,
+   "pct": 89
+  },
+  {
+   "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+   "total": 21546,
+   "used": 9777,
+   "pct": 45
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+   "total": 18674,
+   "used": 3134,
+   "pct": 17
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??fd7da59721",
+   "total": 18610,
+   "used": 3603,
+   "pct": 19
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "total": 13452,
+   "used": 680,
+   "pct": 5
+  },
+  {
+   "url": "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202640",
+   "total": 13430,
+   "used": 8511,
+   "pct": 63
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "total": 12512,
+   "used": 883,
+   "pct": 7
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??73538e6bd5",
+   "total": 11858,
+   "used": 1803,
+   "pct": 15
+  },
+  {
+   "url": "/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.XCDaU_vqQ2M.es5.O/d=1/exm=kernel_loader",
+   "total": 9143,
+   "used": 7925,
+   "pct": 87
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 8847,
+   "used": 3077,
+   "pct": 35
+  },
+  {
+   "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+   "total": 8729,
+   "used": 3352,
+   "pct": 38
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?m=1785046691",
+   "total": 7529,
+   "used": 1771,
+   "pct": 24
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??c5f2f102a4",
+   "total": 7319,
+   "used": 1540,
+   "pct": 21
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+   "total": 5791,
+   "used": 2380,
+   "pct": 41
+  },
+  {
+   "url": "/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.XCDaU_vqQ2M.es5.O/d=1/exm=ad_blocking_d",
+   "total": 5597,
+   "used": 3992,
+   "pct": 71
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+   "total": 5107,
+   "used": 3243,
+   "pct": 64
+  },
+  {
+   "url": "https://dmp.im-apps.net/secure-signal/provider.js",
+   "total": 4890,
+   "used": 3307,
+   "pct": 68
+  },
+  {
+   "url": "https://blog.123greetings.com/_jb_static/??e680d7a57e",
+   "total": 4133,
+   "used": 2156,
+   "pct": 52
+  },
+  {
+   "url": "https://stats.wp.com/e-202640.js",
+   "total": 3812,
+   "used": 1936,
+   "pct": 51
+  },
+  {
+   "url": "/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.XCDaU_vqQ2M.es5.O/d=1/exm=ad_blocking_d",
+   "total": 3290,
+   "used": 2762,
+   "pct": 84
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/wp-emoji-loader.min.js",
+   "total": 3061,
+   "used": 1523,
+   "pct": 50
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-includes/js/comment-reply.min.js?ver=7.1.2",
+   "total": 2950,
+   "used": 801,
+   "pct": 27
+  },
+  {
+   "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+   "total": 2729,
+   "used": 1407,
+   "pct": 52
+  },
+  {
+   "url": "elementor-frontend-js-before",
+   "total": 2513,
+   "used": 2513,
+   "pct": 100
+  },
+  {
+   "url": "/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.XCDaU_vqQ2M.es5.O/d=1/exm=ad_blocking_d",
+   "total": 2098,
+   "used": 2054,
+   "pct": 98
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 1842,
+   "used": 825,
+   "pct": 45
+  },
+  {
+   "url": "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "total": 1582,
+   "used": 1373,
+   "pct": 87
+  },
+  {
+   "url": "nsc_bar_nice-cookie-consent_js-js-after",
+   "total": 1151,
+   "used": 1151,
+   "pct": 100
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 1094,
+   "used": 724,
+   "pct": 66
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.2",
+   "total": 1057,
+   "used": 891,
+   "pct": 84
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 971,
+   "used": 971,
+   "pct": 100
+  },
+  {
+   "url": "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "total": 934,
+   "used": 799,
+   "pct": 86
+  },
+  {
+   "url": "main-scripts-js-extra",
+   "total": 803,
+   "used": 803,
+   "pct": 100
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 802,
+   "used": 238,
+   "pct": 30
+  },
+  {
+   "url": "codepeople-search-in-place-js-extra",
+   "total": 736,
+   "used": 736,
+   "pct": 100
+  },
+  {
+   "url": "https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js",
+   "total": 382,
+   "used": 382,
+   "pct": 100
+  },
+  {
+   "url": "jetpack-stats-js-before",
+   "total": 281,
+   "used": 281,
+   "pct": 100
+  },
+  {
+   "url": "stickThis-js-extra",
+   "total": 255,
+   "used": 255,
+   "pct": 100
+  },
+  {
+   "url": "penci_archive_ajax_navigation-js-extra",
+   "total": 250,
+   "used": 250,
+   "pct": 100
+  },
+  {
+   "url": "wpforms-user-journey-js-extra",
+   "total": 229,
+   "used": 229,
+   "pct": 100
+  },
+  {
+   "url": "wpcf7-recaptcha-js-before",
+   "total": 219,
+   "used": 219,
+   "pct": 100
+  },
+  {
+   "url": "jetpack-mu-wpcom-settings-js-before",
+   "total": 214,
+   "used": 214,
+   "pct": 100
+  },
+  {
+   "url": "contact-form-7-js-before",
+   "total": 197,
+   "used": 197,
+   "pct": 100
+  },
+  {
+   "url": "sp-real-blocks-frontend-js-extra",
+   "total": 166,
+   "used": 166,
+   "pct": 100
+  },
+  {
+   "url": "penci_rateyo-js-extra",
+   "total": 157,
+   "used": 157,
+   "pct": 100
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 153,
+   "used": 153,
+   "pct": 100
+  },
+  {
+   "url": "wp-i18n-js-after",
+   "total": 99,
+   "used": 99,
+   "pct": 100
+  },
+  {
+   "url": "jquery-ui-core-js-before",
+   "total": 68,
+   "used": 68,
+   "pct": 100
+  },
+  {
+   "url": "https://pagead2.googlesyndication.com/pagead/osd.js?fcd=true",
+   "total": 61,
+   "used": 61,
+   "pct": 100
+  },
+  {
+   "url": "https://fundingchoicesmessages.google.com/f/AGSKWxUR8YiApfnTYnawxz96ytPnux6TzhE5ai7lNYJ9kG2iXsVhVgVhZh8nPmjLSqAYTE2X-z4LBr04zF8Uig2ZskYij29m6q3j3kqGsl",
+   "total": 54,
+   "used": 54,
+   "pct": 100
+  },
+  {
+   "url": "https://blog.123greetings.com/birthday-messages-for-mom/",
+   "total": 44,
+   "used": 44,
+   "pct": 100
+  }
+ ]
+}

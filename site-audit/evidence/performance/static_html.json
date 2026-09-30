@@ -1,0 +1,5343 @@
+[
+ {
+  "f": "congratulations_messages.html",
+  "bytes": 219096,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29112,
+  "json_ld": 4333,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 17,
+  "imgs_lazy": 12,
+  "imgs_nowh": 17,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "belated_anniversary_messages_for_sorry_i_forgot.html",
+  "bytes": 172906,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29365,
+  "json_ld": 4581,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "bon_voyage_messages.html",
+  "bytes": 190988,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29051,
+  "json_ld": 4270,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 11,
+  "imgs_lazy": 6,
+  "imgs_nowh": 11,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "fathers_day_messages.html",
+  "bytes": 228168,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29034,
+  "json_ld": 4254,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 21,
+  "imgs_lazy": 16,
+  "imgs_nowh": 21,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "mothers_day_messages.html",
+  "bytes": 190812,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29091,
+  "json_ld": 4311,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "anniversary_messages.html",
+  "bytes": 222812,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 27630,
+  "json_ld": 4282,
+  "css_links": 41,
+  "style_tags": 29,
+  "inline_css": 95670,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 12,
+  "imgs_lazy": 7,
+  "imgs_nowh": 12,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "more_inspiration_messages.html",
+  "bytes": 215284,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29134,
+  "json_ld": 4348,
+  "css_links": 40,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 17,
+  "imgs_lazy": 12,
+  "imgs_nowh": 17,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "get_well_soon_messages.html",
+  "bytes": 183283,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29049,
+  "json_ld": 4272,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 11,
+  "imgs_lazy": 6,
+  "imgs_nowh": 11,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "everyday_messages.html",
+  "bytes": 248385,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 28975,
+  "json_ld": 4199,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 17,
+  "imgs_lazy": 12,
+  "imgs_nowh": 17,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "be_an_angel_day_messages.html",
+  "bytes": 180408,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29072,
+  "json_ld": 4298,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "messages_for_75th_anniversary.html",
+  "bytes": 172241,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29166,
+  "json_ld": 4393,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "sneak_a_kiss_day_messages.html",
+  "bytes": 170163,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29086,
+  "json_ld": 4298,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "anniversary_messages_for_mom.html",
+  "bytes": 178004,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29127,
+  "json_ld": 4353,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages_for_grandson.html",
+  "bytes": 172372,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29176,
+  "json_ld": 4401,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "anniversary_messages_for_friends.html",
+  "bytes": 171559,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29190,
+  "json_ld": 4415,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "sorry_messages.html",
+  "bytes": 179740,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29007,
+  "json_ld": 4223,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 10,
+  "imgs_lazy": 5,
+  "imgs_nowh": 10,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "at_work_messages.html",
+  "bytes": 172265,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29037,
+  "json_ld": 4255,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "summer_messages.html",
+  "bytes": 204323,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29006,
+  "json_ld": 4223,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 11,
+  "imgs_lazy": 6,
+  "imgs_nowh": 11,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "4th_of_july_messages.html",
+  "bytes": 241721,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29066,
+  "json_ld": 4284,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 20,
+  "imgs_lazy": 15,
+  "imgs_nowh": 20,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages_for_wife.html",
+  "bytes": 171044,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29124,
+  "json_ld": 4342,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "thank_you_messages.html",
+  "bytes": 182859,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29037,
+  "json_ld": 4258,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "messages_for_50th_anniversary.html",
+  "bytes": 171098,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29167,
+  "json_ld": 4395,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "new_baby_messages.html",
+  "bytes": 207201,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 28961,
+  "json_ld": 4187,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 14,
+  "imgs_lazy": 9,
+  "imgs_nowh": 14,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "thank_you_day_messages.html",
+  "bytes": 180056,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29048,
+  "json_ld": 4279,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "national_tap_dance_day_messages.html",
+  "bytes": 170841,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29161,
+  "json_ld": 4383,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "canada_day_messages.html",
+  "bytes": 200464,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29034,
+  "json_ld": 4247,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 14,
+  "imgs_lazy": 9,
+  "imgs_nowh": 14,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "invitation_messages.html",
+  "bytes": 175656,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29004,
+  "json_ld": 4234,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 7,
+  "imgs_lazy": 2,
+  "imgs_nowh": 7,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages_for_husband.html",
+  "bytes": 172064,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29165,
+  "json_ld": 4391,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages_for_teacher.html",
+  "bytes": 183043,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29109,
+  "json_ld": 4335,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 15,
+  "imgs_lazy": 10,
+  "imgs_nowh": 15,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "family_messages.html",
+  "bytes": 180628,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 28968,
+  "json_ld": 4186,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 7,
+  "imgs_lazy": 2,
+  "imgs_nowh": 7,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages_for_grandma.html",
+  "bytes": 178330,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29167,
+  "json_ld": 4391,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages_for_cancer.html",
+  "bytes": 171192,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29133,
+  "json_ld": 4361,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "anniversary_messages_for_boyfriend.html",
+  "bytes": 174948,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29228,
+  "json_ld": 4449,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "love_messages.html",
+  "bytes": 191777,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 28957,
+  "json_ld": 4173,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 10,
+  "imgs_lazy": 5,
+  "imgs_nowh": 10,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "more_wedding_messages.html",
+  "bytes": 190858,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29007,
+  "json_ld": 4241,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 9,
+  "imgs_lazy": 4,
+  "imgs_nowh": 9,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "teachers_day_messages.html",
+  "bytes": 187507,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29112,
+  "json_ld": 4328,
+  "css_links": 42,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 8,
+  "imgs_lazy": 3,
+  "imgs_nowh": 8,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "birthday_messages.html",
+  "bytes": 225925,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 27587,
+  "json_ld": 4233,
+  "css_links": 41,
+  "style_tags": 29,
+  "inline_css": 95670,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 11,
+  "imgs_lazy": 6,
+  "imgs_nowh": 11,
+  "comments": 15,
+  "wpcf7_form": false
+ },
+ {
+  "f": "home.html",
+  "bytes": 183409,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 26907,
+  "json_ld": 3064,
+  "css_links": 43,
+  "style_tags": 30,
+  "inline_css": 96094,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 10,
+  "imgs_lazy": 2,
+  "imgs_nowh": 5,
+  "comments": 16,
+  "wpcf7_form": false
+ },
+ {
+  "f": "mom.html",
+  "bytes": 173084,
+  "scripts_ext": 25,
+  "scripts_inline": 29,
+  "inline_js": 29112,
+  "json_ld": 4328,
+  "css_links": 39,
+  "style_tags": 30,
+  "inline_css": 96422,
+  "svg": 410,
+  "head_sync": [
+   "https://blog.123greetings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+  ],
+  "recaptcha": [
+   "https://www.google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL&ver=3.0",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7"
+  ],
+  "cf7": [
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?m=1786990702",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.7",
+   "https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7"
+  ],
+  "gpt": [],
+  "truereach": [
+   "https://1437953666.rsc.cdn77.org/publisher/3d64cfc3-83fc-11f1-8ca4-8324842a64f3/truereachAdRender.js"
+  ],
+  "gtm": [
+   "https://www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB"
+  ],
+  "preloads": [
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "https://fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.googleapis.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts.gstatic.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//www.google-analytics.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//fonts-api.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//widgets.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//s0.wp.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//0.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//1.gravatar.com",
+    null
+   ],
+   [
+    [
+     "dns-prefetch"
+    ],
+    "//2.gravatar.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//i0.wp.com",
+    null
+   ],
+   [
+    [
+     "preconnect"
+    ],
+    "//c0.wp.com",
+    null
+   ]
+  ],
+  "imgs": 6,
+  "imgs_lazy": 1,
+  "imgs_nowh": 6,
+  "comments": 15,
+  "wpcf7_form": false
+ }
+]

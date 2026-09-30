@@ -1,0 +1,142 @@
+{
+ "path": "/mothers-day-messages-for-wife-what-she-actually-wants/",
+ "mode": "normal",
+ "vp": "desktop",
+ "tLoaded": 22139,
+ "nRequests": 92,
+ "hosts": {
+  "blog.123greetings.com": {
+   "n": 66,
+   "first": 118
+  },
+  "fonts-api.wp.com": {
+   "n": 3,
+   "first": 665
+  },
+  "www.google.com": {
+   "n": 5,
+   "first": 823
+  },
+  "www.googletagmanager.com": {
+   "n": 1,
+   "first": 904
+  },
+  "s0.wp.com": {
+   "n": 1,
+   "first": 920
+  },
+  "stats.wp.com": {
+   "n": 1,
+   "first": 923
+  },
+  "i0.wp.com": {
+   "n": 1,
+   "first": 1032
+  },
+  "fonts.wp.com": {
+   "n": 6,
+   "first": 1033
+  },
+  "www.gstatic.com": {
+   "n": 5,
+   "first": 1062
+  },
+  "www.google-analytics.com": {
+   "n": 1,
+   "first": 1173
+  },
+  "pixel.wp.com": {
+   "n": 1,
+   "first": 1186
+  },
+  "fonts.gstatic.com": {
+   "n": 1,
+   "first": 2108
+  }
+ },
+ "cookies": [
+  {
+   "name": "_GRECAPTCHA",
+   "domain": "www.google.com",
+   "expiresDays": 180,
+   "sameSite": "None",
+   "secure": true
+  },
+  {
+   "name": "_ga_R56NTBBBCB",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  },
+  {
+   "name": "_ga",
+   "domain": ".123greetings.com",
+   "expiresDays": 400,
+   "sameSite": "Lax",
+   "secure": false
+  }
+ ],
+ "info": {
+  "cmp": {
+   "tcfapi": "undefined",
+   "gpp": "undefined",
+   "uspapi": "undefined",
+   "googlefc": "undefined",
+   "gtag": "function"
+  },
+  "dataLayer": [
+   "[\"js\",\"2026-09-30T13:33:59.716Z\"]",
+   "[\"config\",\"G-R56NTBBBCB\"]",
+   "[]",
+   "[]"
+  ],
+  "ls": {
+   "_grecaptcha": "09AKhCRwi3ujN62671bp18-AiV9wie1QLW5bg5dsGiJBOjxah3wWijdtkY2As2XKIoNx1hh6nSP-haXL",
+   "_wpfuj": "{\"1790775240\":\"https%3A%2F%2Fblog.123greetings.com%2Fmothers-day-messages-for-wi"
+  },
+  "banner": {
+   "visible": true,
+   "text": "We use cookies to make your experience sweeter! By using our site, you agree to our Cookie Policy. Accept x",
+   "buttons": [
+    "Cookie Policy.",
+    "Accept",
+    "x"
+   ]
+  },
+  "slots": [],
+  "adEls": [],
+  "docH": 5752,
+  "cta": {
+   "href": "https://www.123greetings.com/events/mothers_day/",
+   "text": "free Mother’s Day card collection",
+   "target": "_blank"
+  }
+ },
+ "ga": [
+  {
+   "t": 1173,
+   "tid": "G-R56NTBBBCB",
+   "en": "page_view",
+   "gcs": null,
+   "gcd": "13l3l3l3l1l1",
+   "npa": "0",
+   "dl": "https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wa",
+   "ep": [],
+   "body": ""
+  }
+ ],
+ "gam": [],
+ "clickTest": {
+  "before": "https://www.123greetings.com/events/mothers_day/",
+  "hrefAfterMousedown": "https://www.123greetings.com/events/mothers_day/",
+  "requestsAfterClick": []
+ },
+ "stats": {
+  "cached": 64,
+  "fetched": 0,
+  "r429": 0,
+  "f429": 0
+ },
+ "loads": 1
+}

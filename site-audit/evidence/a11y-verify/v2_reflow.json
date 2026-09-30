@@ -1,0 +1,115 @@
+{
+ "log": {
+  "path": "/contact-us/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "2.dca _atomic_dca HIT"
+ },
+ "at320": {
+  "vw": 320,
+  "vh": 256,
+  "cc": [
+   0,
+   58,
+   320,
+   198
+  ],
+  "ccPct": 77,
+  "hamburgerVisible": true,
+  "visibleDesktopNavLinks": 0,
+  "scrollW": 320
+ },
+ "acceptAt320": [
+  32,
+  185,
+  256,
+  40
+ ],
+ "widths": [
+  {
+   "vw": 1366,
+   "vh": 900,
+   "cc": [
+    966,
+    686,
+    384,
+    198
+   ],
+   "ccPct": 6,
+   "hamburgerVisible": false,
+   "visibleDesktopNavLinks": 4,
+   "scrollW": 1366
+  },
+  {
+   "vw": 1200,
+   "vh": 800,
+   "cc": [
+    800,
+    586,
+    384,
+    198
+   ],
+   "ccPct": 8,
+   "hamburgerVisible": false,
+   "visibleDesktopNavLinks": 4,
+   "scrollW": 1200
+  },
+  {
+   "vw": 1024,
+   "vh": 768,
+   "cc": [
+    624,
+    554,
+    384,
+    198
+   ],
+   "ccPct": 10,
+   "hamburgerVisible": false,
+   "visibleDesktopNavLinks": 4,
+   "scrollW": 1024
+  },
+  {
+   "vw": 900,
+   "vh": 700,
+   "cc": [
+    500,
+    486,
+    384,
+    198
+   ],
+   "ccPct": 12,
+   "hamburgerVisible": true,
+   "visibleDesktopNavLinks": 0,
+   "scrollW": 900
+  },
+  {
+   "vw": 768,
+   "vh": 1024,
+   "cc": [
+    368,
+    810,
+    384,
+    198
+   ],
+   "ccPct": 10,
+   "hamburgerVisible": true,
+   "visibleDesktopNavLinks": 0,
+   "scrollW": 768
+  },
+  {
+   "vw": 480,
+   "vh": 800,
+   "cc": [
+    80,
+    586,
+    384,
+    198
+   ],
+   "ccPct": 20,
+   "hamburgerVisible": true,
+   "visibleDesktopNavLinks": 0,
+   "scrollW": 480
+  }
+ ]
+}

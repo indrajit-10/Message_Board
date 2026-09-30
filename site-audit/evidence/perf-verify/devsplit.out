@@ -1,0 +1,10 @@
+12:29:06 cold-mob /graduation-messages/ ua=mob xac=[5.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1862.0
+12:29:12 then-desk /graduation-messages/ ua=desk xac=[5.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=2681.0
+12:29:17 cold-mob /retirement-messages/ ua=mob xac=[1.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=2003.0
+12:29:21 then-desk /retirement-messages/ ua=desk xac=[1.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1890.0
+12:29:26 cold-mob /halloween-messages/ ua=mob xac=[4.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=2057.0
+12:29:29 then-desk /halloween-messages/ ua=desk xac=[4.dca _atomic_dca STALE ] st=[a8c-cdn, dc;desc=dca, cache;desc=STALE;dur=8.0
+12:29:33 cold-mob /thanksgiving-messages/ ua=mob xac=[5.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1923.0
+12:29:38 then-desk /thanksgiving-messages/ ua=desk xac=[5.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1732.0
+12:29:43 cold-mob /diwali-messages/ ua=mob xac=[4.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=1917.0
+12:29:48 then-desk /diwali-messages/ ua=desk xac=[4.dca _atomic_dca MISS ] st=[a8c-cdn, dc;desc=dca, cache;desc=MISS;dur=2163.0

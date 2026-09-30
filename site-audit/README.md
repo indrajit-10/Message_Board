@@ -18,7 +18,8 @@ report as a filterable dashboard.
 | `data/page_summary.csv` | One row per crawled URL (words, messages, title claim, FAQs, inlinks…) |
 | `data/hidden_block_issues.csv` | Problems that sit only inside template blocks hidden on every screen size |
 | `data/*.json.gz` | Raw crawl (`pages.json`, `links.json`) |
-| `workflows/` | The multi-agent review workflows (page review, site audits) |
+| `workflows/` | The multi-agent review workflows (page review, site audits, critic verification) |
+| `evidence/` | Each agent's scripts, measurements and screenshots (JPEG), by area |
 
 ## How it was produced
 

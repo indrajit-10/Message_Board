@@ -1,0 +1,193 @@
+{
+ "log": {
+  "path": "/be-an-angel-day-messages/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "5.dca _atomic_dca STALE"
+ },
+ "faq": {
+  "items": 5,
+  "tag": "DETAILS",
+  "summaryHtml": "<summary class=\"e-n-accordion-item-title\" data-accordion-index=\"1\" tabindex=\"0\" aria-expanded=\"true\" aria-controls=\"e-n-accordion-item-3490\">\n\t\t\t\t\t<span class=\"e-n-accordion-item-title-header\"><div class=\"e-n-accordion-item-title-text\"> Why should you send a Be an Angel Day message? </div></span>\n\t\t\t\t\t\t\t<span class=\"e-n-accordion-item-title-icon\">\n\t\t\t<span class=\"e-opened\"><i aria-hidden=\"true\" cl",
+  "open": 1,
+  "regions": 5
+ },
+ "enter": {
+  "before": [
+   true,
+   false,
+   false,
+   false,
+   false
+  ],
+  "after": [
+   false,
+   false,
+   false,
+   false,
+   false
+  ],
+  "exp": "false"
+ },
+ "axe": {
+  "violations": [
+   {
+    "id": "button-name",
+    "impact": "critical",
+    "count": 5,
+    "nodes": [
+     {
+      "target": ".elementor-element-f58c0ad > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-98baf27 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-f76b821 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-5c67474 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-be0f098 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     }
+    ]
+   },
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 10,
+    "nodes": [
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-243bba4",
+      "html": "<div class=\"elementor-element elementor-element-243bba4 e-con-full e-flex e-con e-child\" data-id=\"243bba4\" data-element_type=\"container\" data-e-type=\"container\"",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-f58c0ad > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“You have a way of making life feel safer, softer, and easier to carry. Happy Be an Angel Day to my ang",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-98baf27 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“It’s easy to show up once. You keep showing up, and that’s what makes you an angel in disguise.”</p></",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-f76b821 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“Your presence makes me smile through my tough days and it feels less heavy. I hope you know how much t",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-5c67474 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“Happy Be an Angel Day. Thank you for the kindness you share so effortlessly, even when no one asks.”</",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-be0f098 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“The world has become a better place for people who care the way you do. Today is for you.”</p></div>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#faq",
+      "html": "<div class=\"elementor-element elementor-element-4b2e9df5 scrollmt50 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"4b2e9df5\" data-element_type=\"contai",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-503",
+      "html": "<div data-elementor-type=\"wp-post\" data-elementor-id=\"503\" class=\"elementor elementor-503\">",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": [
+   {
+    "id": "aria-prohibited-attr",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".e-n-accordion",
+      "html": "<div class=\"e-n-accordion\" aria-label=\"Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys\">",
+      "data": null
+     }
+    ]
+   },
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": "#cookieconsent\\:desc",
+      "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "data": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "elmPartiallyObscuring",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,564 @@
+[
+ {
+  "path": "/tag/alps/",
+  "preScrollShifts": 1,
+  "shifts": [
+   {
+    "v": 0.0077,
+    "t": 1433,
+    "input": false,
+    "y": 0,
+    "src": [
+     {
+      "n": "DIV.penci_nav_col.penci_nav_right.penci_nav_alignright",
+      "prev": [
+       17,
+       31
+      ],
+      "cur": [
+       14,
+       38
+      ]
+     },
+     {
+      "n": "UL.has-d-cols.penci-wrapper-data.penci-grid",
+      "prev": [
+       181,
+       642
+      ],
+      "cur": [
+       185,
+       638
+      ]
+     }
+    ]
+   },
+   {
+    "v": 0.0802,
+    "t": 7739,
+    "input": false,
+    "y": 67,
+    "src": [
+     {
+      "n": "DIV.container.penci-breadcrumb",
+      "prev": [
+       24,
+       21
+      ],
+      "cur": [
+       0,
+       0
+      ]
+     },
+     {
+      "n": "DIV.container",
+      "prev": [
+       65,
+       719
+      ],
+      "cur": [
+       0,
+       718
+      ]
+     },
+     {
+      "n": "SECTION.penci-section.penci-dmcheck.penci-elbg-activate",
+      "prev": [
+       814,
+       9
+      ],
+      "cur": [
+       748,
+       75
+      ]
+     },
+     {
+      "n": "DIV.elementor-container.elementor-column-gap-narrow",
+      "prev": [
+       0,
+       0
+      ],
+      "cur": [
+       768,
+       55
+      ]
+     }
+    ]
+   }
+  ],
+  "headerStates": [
+   {
+    "y": 100,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 200,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 300,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 400,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 500,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 600,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 700,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 800,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 900,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 1000,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 1100,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 1200,
+    "shifts": 2,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   }
+  ],
+  "info": {
+   "bg": null,
+   "hero": null,
+   "logo": {
+    "tag": "IMG",
+    "cls": "penci-mainlogo penci-limg pclogo-cls",
+    "w": "auto",
+    "h": "auto",
+    "ar": "auto",
+    "maxW": "280px",
+    "attrW": "",
+    "attrH": "",
+    "bg": "none",
+    "rect": [
+     0,
+     0
+    ],
+    "style": "",
+    "loading": null,
+    "fp": null
+   },
+   "preloads": []
+  }
+ },
+ {
+  "path": "/mothers-day-messages-for-wife-what-she-actually-wants/",
+  "preScrollShifts": 1,
+  "shifts": [
+   {
+    "v": 0.0001,
+    "t": 1086,
+    "input": false,
+    "y": 0,
+    "src": [
+     {
+      "n": "H1.",
+      "prev": [
+       17,
+       45
+      ],
+      "cur": [
+       22,
+       45
+      ]
+     },
+     {
+      "n": "P.message",
+      "prev": [
+       79,
+       103
+      ],
+      "cur": [
+       84,
+       103
+      ]
+     }
+    ]
+   }
+  ],
+  "headerStates": [
+   {
+    "y": 100,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 200,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 300,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 400,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 500,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 600,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 700,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 800,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 900,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 1000,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 1100,
+    "shifts": 1,
+    "els": []
+   },
+   {
+    "y": 1200,
+    "shifts": 1,
+    "els": []
+   }
+  ],
+  "info": {
+   "bg": null,
+   "hero": null,
+   "logo": null,
+   "preloads": []
+  }
+ },
+ {
+  "path": "/",
+  "preScrollShifts": 2,
+  "shifts": [
+   {
+    "v": 0,
+    "t": 1752,
+    "input": true,
+    "y": 0,
+    "src": [
+     {
+      "n": "DIV.penci_nav_col.penci_nav_right.penci_nav_alignright",
+      "prev": [
+       17,
+       31
+      ],
+      "cur": [
+       14,
+       38
+      ]
+     }
+    ]
+   },
+   {
+    "v": 0.0001,
+    "t": 2341,
+    "input": false,
+    "y": 0,
+    "src": [
+     {
+      "n": "TD.gsib_b",
+      "prev": [
+       806,
+       17
+      ],
+      "cur": [
+       806,
+       17
+      ]
+     }
+    ]
+   },
+   {
+    "v": 0.0802,
+    "t": 7785,
+    "input": false,
+    "y": 67,
+    "src": [
+     {
+      "n": "DIV.elementor-element.elementor-element-6dc0601.e-flex",
+      "prev": [
+       0,
+       823
+      ],
+      "cur": [
+       0,
+       823
+      ]
+     }
+    ]
+   }
+  ],
+  "headerStates": [
+   {
+    "y": 100,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 200,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 300,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 400,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 500,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 600,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 700,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 800,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 900,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 1000,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 1100,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   },
+   {
+    "y": 1200,
+    "shifts": 3,
+    "els": [
+     "DIV.penci_header.penci-header-builder.penci_builder_sticky_header_desktop.shadow-enable pos=fixed top=0 h=0",
+     "DIV.penci_stickybar.penci_navbar pos=static top=0 h=0",
+     "DIV.penci_header.penci-header-builder.main-builder-header.normal pos=static top=0 h=0",
+     "DIV.penci_mobile_midbar.penci-mobile-midbar.penci_container.sticky-enable pos=static top=0 h=66"
+    ]
+   }
+  ],
+  "info": {
+   "bg": null,
+   "hero": {
+    "tag": "IMG",
+    "cls": "attachment-full size-full wp-image-10390",
+    "w": "362px",
+    "h": "362px",
+    "ar": "auto 1080 / 1080",
+    "maxW": "100%",
+    "attrW": "1080",
+    "attrH": "1080",
+    "bg": "none",
+    "rect": [
+     362,
+     362
+    ],
+    "style": "",
+    "loading": "eager",
+    "fp": "high"
+   },
+   "logo": {
+    "tag": "IMG",
+    "cls": "penci-mainlogo penci-limg pclogo-cls",
+    "w": "auto",
+    "h": "auto",
+    "ar": "auto",
+    "maxW": "280px",
+    "attrW": "",
+    "attrH": "",
+    "bg": "none",
+    "rect": [
+     0,
+     0
+    ],
+    "style": "",
+    "loading": null,
+    "fp": null
+   },
+   "preloads": []
+  }
+ }
+]

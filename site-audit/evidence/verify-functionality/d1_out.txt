@@ -1,0 +1,387 @@
+{
+ "home": {
+  "status": 200,
+  "n429": 0,
+  "pageErrors": [],
+  "banner": [
+   966,
+   686,
+   384,
+   198
+  ],
+  "menu": [
+   {
+    "txt": "Home",
+    "visibleSubmenus": 0,
+    "liClass": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7608 current_page_item ajax-mega-menu menu-item-11478"
+   },
+   {
+    "txt": "About Us",
+    "visibleSubmenus": 0,
+    "liClass": "menu-item menu-item-type-post_type menu-item-object-page ajax-mega-menu menu-item-5817"
+   },
+   {
+    "txt": "What to write in a card",
+    "visibleSubmenus": 0,
+    "liClass": "menu-item menu-item-type-post_type menu-item-object-page ajax-mega-menu menu-item-14120"
+   },
+   {
+    "txt": "Contact Us",
+    "visibleSubmenus": 0,
+    "liClass": "menu-item menu-item-type-post_type menu-item-object-page ajax-mega-menu menu-item-5743"
+   }
+  ],
+  "tabs": [
+   {
+    "tag": "A",
+    "text": "https://blog.123greetings.com/",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     98,
+     13,
+     175,
+     23
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Home",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     779,
+     22,
+     50,
+     40
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "About Us",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     859,
+     22,
+     75,
+     40
+    ],
+    "outline": "none 0px rgb(0, 0, 0)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "What to write in a card",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     964,
+     22,
+     185,
+     40
+    ],
+    "outline": "none 0px rgb(0, 0, 0)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Contact Us",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     1179,
+     22,
+     89,
+     40
+    ],
+    "outline": "none 0px rgb(0, 0, 0)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "https://blog.123greetings.com/",
+    "inOffcanvas": true,
+    "inSidebarNav": false,
+    "rect": [
+     -238,
+     31,
+     146,
+     23
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "HOME",
+    "inOffcanvas": true,
+    "inSidebarNav": false,
+    "rect": [
+     -310,
+     100,
+     290,
+     43
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "ABOUT US",
+    "inOffcanvas": true,
+    "inSidebarNav": false,
+    "rect": [
+     -310,
+     144,
+     290,
+     43
+    ],
+    "outline": "none 0px rgb(49, 49, 49)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "WHAT TO WRITE IN A CARD",
+    "inOffcanvas": true,
+    "inSidebarNav": false,
+    "rect": [
+     -310,
+     188,
+     290,
+     43
+    ],
+    "outline": "none 0px rgb(49, 49, 49)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "CONTACT US",
+    "inOffcanvas": true,
+    "inSidebarNav": false,
+    "rect": [
+     -310,
+     232,
+     290,
+     43
+    ],
+    "outline": "none 0px rgb(49, 49, 49)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "123Greetings",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     111,
+     205,
+     91,
+     17
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Read More",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     93,
+     276,
+     78,
+     23
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "INPUT",
+    "text": "search",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     151,
+     336,
+     532,
+     24
+    ],
+    "outline": "none 0px rgb(68, 71, 70)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Halloween",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     232,
+     398,
+     74,
+     30
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Anniversary",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     328,
+     398,
+     85,
+     30
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Birthday",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     436,
+     398,
+     59,
+     30
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Summer",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     518,
+     398,
+     59,
+     30
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   },
+   {
+    "tag": "A",
+    "text": "Sympathy",
+    "inOffcanvas": false,
+    "inSidebarNav": false,
+    "rect": [
+     600,
+     398,
+     71,
+     30
+    ],
+    "outline": "none 0px rgb(0, 83, 123)",
+    "boxShadow": "none"
+   }
+  ],
+  "skipLink": false,
+  "csePlaceholder": "Search Messages",
+  "cse": {
+   "n": 4,
+   "links": [
+    "https://blog.123greetings.com/birthday-messages-for-mom/",
+    "https://blog.123greetings.com/birthday-messages-for-granddaughter/",
+    "https://blog.123greetings.com/birthday-messages-for-stepmother/",
+    "https://blog.123greetings.com/anniversary-messages-for-mom/"
+   ],
+   "structuredData": 4,
+   "overlay": false,
+   "resultText": [
+    "115+ Birthday Messages for Mom — Heartfelt, Funny & Sweet\n123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card › birthday-messages-for-mom\nLooking for the perfect b",
+    "80+ Birthday Wishes for Granddaughter — Proud & Sweet\n123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card › birthday-messages-for-granddaughter\nHope your birthday "
+   ]
+  }
+ },
+ "zzqx": {
+  "h1Rendered": "\"Zzqx\"",
+  "h1Transform": "capitalize",
+  "searchInputs": 0,
+  "bodyMain": "",
+  "status": 200
+ },
+ "deskJump": {
+  "hash": "#byMilestone",
+  "targetTop": 100,
+  "stickyHeader": [
+   0,
+   80
+  ],
+  "menuStillVisible": true,
+  "status": 200
+ },
+ "copy": {
+  "w": 18,
+  "h": 22,
+  "outline": "none",
+  "tooltipVisOnFocus": "hidden/0",
+  "ariaLabel": null
+ },
+ "momStructure": {
+  "breadcrumbs": false,
+  "bcSchema": true,
+  "shareButtons": 0
+ },
+ "recaptcha": {
+  "badge": true,
+  "vis": "hidden",
+  "display": "block",
+  "opacity": "1",
+  "rect": [
+   1296,
+   826,
+   256,
+   60
+  ],
+  "inlineStyle": "width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;",
+  "rules": [
+   {
+    "href": "https://blog.123greetings.com/wp-content/themes/soledad/main.css?ver=8.7.6",
+    "rule": ".pencif-contact-form .grecaptcha-badge { z-index: 999; }"
+   },
+   {
+    "href": "https://blog.123greetings.com/wp-content/uploads/custom-css-js/1553.css?v=3293",
+    "rule": ".grecaptcha-badge { visibility: hidden !important; }"
+   }
+  ],
+  "noticeText": false
+ },
+ "cookieFail": {
+  "pageErrors": [
+   "Cannot read properties of undefined (reading 'initialise')"
+  ],
+  "banner": false,
+  "cc": "undefined"
+ },
+ "bttTap": {
+  "center": [
+   350,
+   804
+  ],
+  "cookieBefore": [],
+  "cookieAfter": [
+   "dismiss"
+  ],
+  "scrollY": 1500,
+  "bannerVisible": false,
+  "scrollYAfterSecondTap": 0
+ },
+ "assetStats": {
+  "cached": 556,
+  "fetched": 0,
+  "retried429": 0,
+  "failed429": 0,
+  "forcedFail": 2
+ },
+ "loads": 8
+}

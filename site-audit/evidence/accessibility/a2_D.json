@@ -1,0 +1,38 @@
+{
+ "log": {
+  "path": "/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200
+ },
+ "mm": true,
+ "htmlScrollBehavior": "auto",
+ "transitions": [],
+ "animations": {
+  "pencipreload 0.6s xinfinite": [
+   "img.penci-lazy.penci-limg"
+  ]
+ },
+ "toggleAnim": [],
+ "goTop": {
+  "tag": "DIV",
+  "tabIndex": -1,
+  "role": null,
+  "name": null,
+  "rect": [
+   1306,
+   840,
+   40,
+   40
+  ],
+  "vis": "1/visible"
+ },
+ "goTopScrollYs": [
+  938,
+  938,
+  938,
+  938,
+  938,
+  938
+ ]
+}

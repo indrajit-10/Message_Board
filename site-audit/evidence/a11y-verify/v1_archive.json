@@ -1,0 +1,352 @@
+{
+ "log": {
+  "path": "/archive/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "2.dca _atomic_dca HIT"
+ },
+ "before": {
+  "html": "<a class=\"penci-ajax-more-button\" aria-label=\"More Posts\" href=\"#\" data-blockuid=\"pencilatest_posts_18272\" data-query=\"{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;desc&quot;,&quot;ignore_sticky_posts&quot;:1,&quot;post_status&quot;:&quot;publish&quot;,&quot;post__not_in&quot;:[],&q",
+  "aria": "More Posts",
+  "text": "LOAD MORE POSTS",
+  "color": "rgb(153, 153, 153)",
+  "bg": "rgb(255, 255, 255)",
+  "ratio": 2.85,
+  "fs": "12px/600",
+  "posts": 9,
+  "live": [
+   "div.cc-window.cc-floating.cc-type-info"
+  ]
+ },
+ "axName": [
+  "link:More Posts",
+  "StaticText:LOAD MORE POSTS",
+  "InlineTextBox:LOAD MORE POSTS"
+ ],
+ "after": {
+  "posts": 18,
+  "focus": "a.penci-ajax-more-button",
+  "url": "https://blog.123greetings.com/archive/",
+  "liveText": [
+   "div.cc-window.cc-floating.cc-type-info:We use cookies to make your experience s"
+  ]
+ },
+ "axe": {
+  "violations": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".ajax-more-text",
+      "html": "<span class=\"ajax-more-text\">Load More Posts</span>",
+      "data": {
+       "fgColor": "#999999",
+       "bgColor": "#ffffff",
+       "contrastRatio": 2.84,
+       "fontSize": "9.0pt (12px)",
+       "fontWeight": "normal",
+       "messageKey": null,
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   },
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci-desktop-sticky-mid > .container-normal.container > .penci_nav_row > .penci_nav_right.penci_nav_alignright.penci_nav_col > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 87,
+    "nodes": [
+     {
+      "target": ".penci-desktop-sticky-mid > .container-normal.container > .penci_nav_row > .penci_nav_left.penci_nav_alignleft.penci_nav_col",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".penci-structure-10",
+      "html": "<section class=\"penci-section penci-dmcheck penci-elbg-activate penci-disSticky penci-structure-10 elementor-section elementor-top-section elementor-element ele",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15317 > .grid-header-box > h2",
+      "html": "<h2 class=\"penci-entry-title entry-title grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-2nd-august/\">Five Minutes ",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15317 > .grid-header-box > .grid-post-box-meta",
+      "html": "<div class=\"grid-post-box-meta\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                        <span class=\"otherl-date\"><time class=\"entry-date published\" datetime=\"2026-08-02T18:30:",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15317 > .item-content.entry-content",
+      "html": "<div class=\"item-content entry-content\">\n\t\t\t\t<p>This morning I woke up with an unusual luxury.<br>\nTime.</p>\n            </div>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15317 > .penci-readmore-btn.penci-btn-align-center",
+      "html": "<div class=\"penci-readmore-btn penci-btn-align-center\">\n                <a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/five-minutes-with-bob-",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15313 > .grid-header-box > h2",
+      "html": "<h2 class=\"penci-entry-title entry-title grid-title penci_grid_title_df\"><a href=\"https://blog.123greetings.com/five-minutes-with-bob-1st-august/\">Five Minutes ",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15313 > .grid-header-box > .grid-post-box-meta",
+      "html": "<div class=\"grid-post-box-meta\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t                        <span class=\"otherl-date\"><time class=\"entry-date published\" datetime=\"2026-08-01T18:30:",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15313 > .item-content.entry-content",
+      "html": "<div class=\"item-content entry-content\">\n\t\t\t\t<p>I woke up smiling today.</p>\n            </div>",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": "#post-15313 > .penci-readmore-btn.penci-btn-align-center",
+      "html": "<div class=\"penci-readmore-btn penci-btn-align-center\">\n                <a class=\"penci-btn-readmore\" href=\"https://blog.123greetings.com/five-minutes-with-bob-",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   },
+   {
+    "id": "target-size",
+    "impact": "serious",
+    "count": 18,
+    "nodes": [
+     {
+      "target": "#post-15160 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-whatsapp.new-ver-share[aria-label=\"Share on Whatsapp\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send",
+      "data": {
+       "minSize": 24,
+       "width": 12,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15160 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-link.new-ver-share[aria-label=\"Copy Post Link\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https://blog.123greetings.com/wake-u",
+      "data": {
+       "minSize": 24,
+       "width": 13,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15147 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-whatsapp.new-ver-share[aria-label=\"Share on Whatsapp\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send",
+      "data": {
+       "minSize": 24,
+       "width": 12,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15147 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-link.new-ver-share[aria-label=\"Copy Post Link\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https://blog.123greetings.com/wake-u",
+      "data": {
+       "minSize": 24,
+       "width": 13,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15110 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-whatsapp.new-ver-share[aria-label=\"Share on Whatsapp\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send",
+      "data": {
+       "minSize": 24,
+       "width": 12,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15110 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-link.new-ver-share[aria-label=\"Copy Post Link\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https://blog.123greetings.com/wake-u",
+      "data": {
+       "minSize": 24,
+       "width": 13,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15065 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-whatsapp.new-ver-share[aria-label=\"Share on Whatsapp\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send",
+      "data": {
+       "minSize": 24,
+       "width": 12,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15065 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-link.new-ver-share[aria-label=\"Copy Post Link\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https://blog.123greetings.com/wake-u",
+      "data": {
+       "minSize": 24,
+       "width": 13,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15058 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-whatsapp.new-ver-share[aria-label=\"Share on Whatsapp\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send",
+      "data": {
+       "minSize": 24,
+       "width": 12,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15058 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-link.new-ver-share[aria-label=\"Copy Post Link\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https://blog.123greetings.com/wake-u",
+      "data": {
+       "minSize": 24,
+       "width": 13,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15033 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-whatsapp.new-ver-share[aria-label=\"Share on Whatsapp\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-whatsapp\" aria-label=\"Share on Whatsapp\" target=\"_blank\" rel=\"noreferrer\" href=\"https://api.whatsapp.com/send",
+      "data": {
+       "minSize": 24,
+       "width": 12,
+       "height": 21
+      }
+     },
+     {
+      "target": "#post-15033 > .penci-post-box-meta.penci-post-box-grid > .penci-post-share-box > .post-share-link.new-ver-share[aria-label=\"Copy Post Link\"]",
+      "html": "<a class=\"new-ver-share post-share-item post-share-link\" target=\"_blank\" aria-label=\"Copy Post Link\" rel=\"noreferrer\" href=\"https://blog.123greetings.com/wake-u",
+      "data": {
+       "minSize": 24,
+       "width": 13,
+       "height": 21
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": [
+   {
+    "id": "link-in-text-block",
+    "impact": "serious",
+    "count": 9,
+    "nodes": [
+     {
+      "target": "#post-15160 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-15147 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-15110 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-15065 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-15058 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-15033 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-14993 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-14902 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     },
+     {
+      "target": "#post-15044 > .grid-header-box > .grid-post-box-meta > .otherl-date-author.author-italic.author > .author-url.url.fn",
+      "html": "<a class=\"author-url url fn n\" href=\"https://blog.123greetings.com/author/iblog123greetingsgmail-com/\">Bob</a>",
+      "data": {
+       "messageKey": "bgOverlap"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

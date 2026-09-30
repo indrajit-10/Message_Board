@@ -1,0 +1,701 @@
+{
+ "home": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "fixedOnLoad": [
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "pos": "fixed",
+    "rect": [
+     0,
+     646,
+     390,
+     198
+    ],
+    "pctViewport": 23.4,
+    "z": "2147483646"
+   }
+  ],
+  "banner": {
+   "rect": [
+    0,
+    646,
+    390,
+    198
+   ],
+   "pct": 23.4
+  },
+  "fixedAfterScroll": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "pos": "fixed",
+    "rect": [
+     0,
+     0,
+     390,
+     66
+    ],
+    "pctViewport": 7.8,
+    "z": "9999"
+   },
+   {
+    "el": "div.cc-window.cc-floating.cc-type-info",
+    "pos": "fixed",
+    "rect": [
+     0,
+     646,
+     390,
+     198
+    ],
+    "pctViewport": 23.4,
+    "z": "2147483646"
+   }
+  ],
+  "backToTop": {
+   "rect": [
+    330,
+    784,
+    40,
+    40
+   ],
+   "vis": "visible",
+   "op": "1",
+   "disp": "block",
+   "cls": "penci-go-to-top-floating pgtt-style-1 show-up"
+  },
+  "afterBackToTop": 1500,
+  "search": [
+   {
+    "cls": "gsc-input",
+    "ph": "Search Messages",
+    "rect": [
+     83,
+     800,
+     218,
+     24
+    ]
+   }
+  ],
+  "burgerFound": 1,
+  "burgerA11y": {
+   "tag": "DIV",
+   "aria": null,
+   "expanded": null,
+   "text": "",
+   "cls": "button-menu-mobile header-builder",
+   "rect": [
+    356,
+    14,
+    24,
+    31
+   ]
+  },
+  "menuOpen": {
+   "panel": [
+    0,
+    0,
+    330,
+    844
+   ],
+   "links": [
+    {
+     "t": "",
+     "h": "https://blog.123greetings.com/",
+     "onScreen": true,
+     "h_px": 21
+    },
+    {
+     "t": "HOME",
+     "h": "https://blog.123greetings.com/",
+     "onScreen": true,
+     "h_px": 43
+    },
+    {
+     "t": "ABOUT US",
+     "h": "https://blog.123greetings.com/about-us/",
+     "onScreen": true,
+     "h_px": 43
+    },
+    {
+     "t": "WHAT TO WRITE IN A CARD",
+     "h": "https://blog.123greetings.com/what-to-write-in-a-card/",
+     "onScreen": true,
+     "h_px": 43
+    },
+    {
+     "t": "CONTACT US",
+     "h": "https://blog.123greetings.com/contact-us/",
+     "onScreen": true,
+     "h_px": 43
+    }
+   ],
+   "bodyOverflow": "hidden auto/visible",
+   "socials": [
+    {
+     "aria": "Facebook",
+     "h": "#",
+     "onScreen": false
+    },
+    {
+     "aria": "Instagram",
+     "h": "#",
+     "onScreen": false
+    },
+    {
+     "aria": "Whatsapp",
+     "h": "#",
+     "onScreen": false
+    }
+   ],
+   "legacySidebarNav": [
+    -270,
+    0,
+    270,
+    844,
+    "visible"
+   ]
+  },
+  "closeXcount": 1,
+  "menuAfterClose": {
+   "x": -330,
+   "onScreen": false,
+   "url": "https://blog.123greetings.com/",
+   "hash": "",
+   "sy": 0
+  },
+  "navToAbout": "https://blog.123greetings.com/about-us/",
+  "cls": {
+   "value": 0.000021064677631241725,
+   "entries": [
+    {
+     "t": 1313,
+     "v": 0,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_alignright"
+     ]
+    }
+   ]
+  }
+ },
+ "birthdayHub": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "bannerStillShown": true,
+  "xCount": 1,
+  "bannerAfterX": true,
+  "cookieAfterX": [
+   "cookieconsent_status=allow"
+  ],
+  "nav": {
+   "visible": true,
+   "top": 101,
+   "height": 258,
+   "items": 7,
+   "firstSectionTop": 494,
+   "pos": "relative"
+  },
+  "jump": {
+   "targetTop": 34,
+   "headerBottom": 0,
+   "sy": 2780,
+   "hash": "#byMilestone"
+  },
+  "fixedAfterJump": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "pos": "fixed",
+    "rect": [
+     0,
+     0,
+     390,
+     66
+    ],
+    "pctViewport": 7.8,
+    "z": "9999"
+   }
+  ],
+  "cls": {
+   "value": 0,
+   "entries": []
+  }
+ },
+ "fathersDay": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "nav": {
+   "visible": true,
+   "top": 101,
+   "height": 603,
+   "items": 17,
+   "h1Top": 774,
+   "firstSectionTop": 834,
+   "firstMsgTop": 876,
+   "smallTargets": 16,
+   "itemH": [
+    20,
+    20,
+    20
+   ]
+  },
+  "jump": {
+   "targetTop": 34,
+   "sy": 7891,
+   "hash": "#fw"
+  },
+  "fixedAfterJump": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "pos": "fixed",
+    "rect": [
+     0,
+     0,
+     390,
+     66
+    ],
+    "pctViewport": 7.8,
+    "z": "9999"
+   }
+  ],
+  "backToTop": {
+   "rect": [
+    330,
+    784,
+    40,
+    40
+   ],
+   "op": "1",
+   "vis": "visible",
+   "cls": "penci-go-to-top-floating pgtt-style-1 show-up"
+  },
+  "cls": {
+   "value": 0,
+   "entries": []
+  }
+ },
+ "mom": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "h1Visible": [
+   "Birthday Messages For Mom"
+  ],
+  "emptyVisible": 0,
+  "copyBtnCount": 7,
+  "copyBtnSize": [
+   18,
+   22
+  ],
+  "copyFeedback": {
+   "html": "COPIED",
+   "tipVis": "visible",
+   "tipOp": "0.0396191"
+  },
+  "clipboard": "“Happy birthday to the woman who taught me everything I know, including how to fold a fitted sheet (still working on it). You’ve been quietly running everyone’s",
+  "fixedMid": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "pos": "fixed",
+    "rect": [
+     0,
+     0,
+     390,
+     66
+    ],
+    "pctViewport": 7.8,
+    "z": "9999"
+   }
+  ],
+  "ecard": [],
+  "cls": {
+   "value": 0.16045928196374054,
+   "entries": [
+    {
+     "t": 1192,
+     "v": 0.0823,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.penci-block_content",
+      "div.penci-block_content",
+      "div.penci-block_content"
+     ]
+    },
+    {
+     "t": 10409,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-9f23a66.e-flex"
+     ]
+    }
+   ]
+  }
+ },
+ "halloween": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "samples": [
+   {
+    "sy": 0,
+    "fixed": [],
+    "tr": {
+     "vis": "hidden",
+     "disp": "flex",
+     "html": "<div class=\"del-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8\" style=\"bottom: 0px; position: relative;\"><button id=\"button-0\" style=\"position: fixed; width: 25px; height: 25px; padding: 0px; visibility: hid"
+    }
+   },
+   {
+    "sy": 1200,
+    "fixed": [
+     {
+      "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+      "pos": "fixed",
+      "rect": [
+       0,
+       0,
+       390,
+       66
+      ],
+      "pctViewport": 7.8,
+      "z": "9999"
+     }
+    ],
+    "tr": {
+     "vis": "hidden",
+     "disp": "flex",
+     "html": "<div class=\"del-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8\" style=\"bottom: 0px; position: relative;\"><button id=\"button-0\" style=\"position: fixed; width: 25px; height: 25px; padding: 0px; visibility: hid"
+    }
+   },
+   {
+    "sy": 2600,
+    "fixed": [
+     {
+      "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+      "pos": "fixed",
+      "rect": [
+       0,
+       0,
+       390,
+       66
+      ],
+      "pctViewport": 7.8,
+      "z": "9999"
+     }
+    ],
+    "tr": {
+     "vis": "hidden",
+     "disp": "flex",
+     "html": "<div class=\"del-TR-7a454e45-83fe-11f1-8ca4-ef30b08d90b8\" style=\"bottom: 0px; position: relative;\"><button id=\"button-0\" style=\"position: fixed; width: 25px; height: 25px; padding: 0px; visibility: hid"
+    }
+   }
+  ],
+  "ads": [
+   {
+    "id": "div-gpt-ad-1784526288594-0",
+    "rect": [
+     45,
+     1428,
+     300,
+     250
+    ]
+   }
+  ],
+  "cls": {
+   "value": 0.11935023172585221,
+   "entries": [
+    {
+     "t": 1268,
+     "v": 0,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_alignright"
+     ]
+    },
+    {
+     "t": 1337,
+     "v": 0.0411,
+     "src": [
+      "div.elementor-text-editor.elementor-clearfix",
+      "div.penci-block_content",
+      "div.penci-block_content",
+      "div.penci-block_content",
+      "div.penci-block_content"
+     ]
+    },
+    {
+     "t": 14945,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-3fa579df.e-flex"
+     ]
+    }
+   ]
+  }
+ },
+ "whatToWrite": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "fixed": [],
+  "btn0": {
+   "rect": [
+    360,
+    5,
+    25,
+    25
+   ],
+   "vis": "hidden",
+   "aria": null,
+   "text": "",
+   "chain": [
+    "BUTTON#button-0.",
+    "DIV#.del-TR-7a454e45-83fe-11f1-8ca4-ef30b08d9",
+    "DIV#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "DIV#main.penci-main-single-page-default",
+    "DIV#.container-single-page container-default-"
+   ]
+  },
+  "fixedScrolled": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.scrolldown",
+    "pos": "fixed",
+    "rect": [
+     0,
+     0,
+     390,
+     66
+    ],
+    "pctViewport": 7.8,
+    "z": "9999"
+   }
+  ],
+  "cls": {
+   "value": 0.10133280520457358,
+   "entries": [
+    {
+     "t": 1461,
+     "v": 0,
+     "src": [
+      "div.penci_nav_col.penci_nav_right.penci_nav_alignright"
+     ]
+    },
+    {
+     "t": 1681,
+     "v": 0.0231,
+     "src": [
+      "div.elementor-element.elementor-element-3ece06e.scrollmt50",
+      "div.elementor-element.elementor-element-66a4bd1.e-grid"
+     ]
+    },
+    {
+     "t": 10015,
+     "v": 0.0782,
+     "src": [
+      "div.container-single-page.container-default-page"
+     ]
+    }
+   ]
+  }
+ },
+ "post": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "fixed": [],
+  "share": [
+   {
+    "t": "",
+    "h": "https://api.whatsapp.com/send?text=Mother%E2%80%99s%20Day%20Messages%20for%20Wife%3A%20Wha",
+    "target": "_blank",
+    "cls": "new-ver-share post-share-item post-share-whatsapp",
+    "rect": [
+     124,
+     329,
+     170,
+     47
+    ]
+   }
+  ],
+  "relatedTitles": [
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Five Minutes With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob",
+   "Wake Up With Bob"
+  ],
+  "cls": {
+   "value": 0.07819905213270142,
+   "entries": [
+    {
+     "t": 9027,
+     "v": 0.0782,
+     "src": [
+      "div.penci-single-wrapper",
+      "section.penci-section.penci-dmcheck.penci-elbg-activate",
+      "div.elementor-widget-wrap.elementor-element-populated"
+     ]
+    }
+   ]
+  }
+ },
+ "contact": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "fixed": [],
+  "submitRect": [
+   15,
+   613,
+   150,
+   50
+  ],
+  "fixedAtSubmit": [
+   {
+    "el": "div.penci_navbar_mobile.shadow-enable.mobile-sticky",
+    "pos": "fixed",
+    "rect": [
+     0,
+     0,
+     390,
+     66
+    ],
+    "pctViewport": 7.8,
+    "z": "9999"
+   }
+  ],
+  "recaptchaNotice": false,
+  "labels": [
+   "Δ"
+  ],
+  "cls": {
+   "value": 0.07819905213270142,
+   "entries": [
+    {
+     "t": 9141,
+     "v": 0.0782,
+     "src": [
+      "div.elementor-element.elementor-element-b9c8db9.e-grid",
+      "section.penci-section.penci-dmcheck.penci-elbg-activate",
+      "li#menu-item-2376.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-2377.menu-item.menu-item-type-custom.menu-item-object-custom",
+      "li#menu-item-3733.menu-item.menu-item-type-custom.menu-item-object-custom"
+     ]
+    }
+   ]
+  }
+ },
+ "notFound": {
+  "status": 404,
+  "pageErrors": [],
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "404 https://blog.123greetings.com/this-does-not-exist/",
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "searchVisible": 1,
+  "cls": {
+   "value": 0,
+   "entries": []
+  }
+ },
+ "upcoming": {
+  "status": 200,
+  "pageErrors": [],
+  "consoleErrors": [
+   "requestStorageAccess: Permission denied.",
+   "Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "n429": 0,
+  "text": "HOME ABOUT US WHAT TO WRITE IN A CARD CONTACT US Copyright © 123Greetings.com, Inc. All rights reserved. Terms of Use Privacy Policy Cookie Policy Copyright Policy Do Not Sell My Info Request Opt In HOME",
+  "cls": {
+   "value": 0,
+   "entries": []
+  }
+ },
+ "assetStats": {
+  "cached": 743,
+  "fetched": 17,
+  "retried429": 0,
+  "failed429": 0,
+  "forcedFail": 0
+ },
+ "loads": 10
+}

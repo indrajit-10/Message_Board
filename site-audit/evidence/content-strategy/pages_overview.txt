@@ -1,0 +1,306 @@
+/encouragement-inspiration-messages/|404|404|0|0|0|82|0|1|None|Page not found - 123Greetings Blog - Free eCards, Card Message Ideas & What to W
+/penci-block/footer/|other|200|0|0|0|26|0|0|penci-block|Footer - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in 
+/penci-block/mega-menu/|other|200|0|0|0|44|0|0|penci-block|Mega Menu - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write 
+/|page|200|0|0|0|362|0|514|page|Card Messages & What to Write in a Card | 123Greetings Blog
+/4th-of-july-messages/|page|200|77|77|77|1737|7|1|page|100+ 4th of July Messages — Patriotic Wishes & Quotes
+/about-us/|page|200|0|0|0|343|0|512|page|About 123Greetings Blog – The People Behind the Cards
+/all-saints-day-messages/|page|200|5|5|5|301|4|1|page|All Saints’ Day Messages and Greetings | 123Greetings
+/always-live-better-than-yesterday-day-messages/|page|200|8|6|6|133|0|1|page|25+ Live Better Than Yesterday Day Messages & Wishes
+/angel-week-messages/|page|200|5|5|5|332|5|1|page|Angel Week Messages & Wishes | 123Greetings
+/anniversary-messages-for-aunt/|page|200|6|6|6|112|0|1|page|Anniversary Messages for Aunt, Fun & Heartfelt
+/anniversary-messages-for-boss/|page|200|17|15|15|321|0|1|page|50+ Work Anniversary Wishes for Boss — Professional & Warm
+/anniversary-messages-for-boyfriend/|page|200|13|11|11|201|0|1|page|100+ Anniversary Wishes for Boyfriend — Romantic & Sweet
+/anniversary-messages-for-brother/|page|200|5|3|3|84|0|1|page|100+ Anniversary Wishes for Brother, Heartfelt & Warm Meta Title
+/anniversary-messages-for-co-worker/|page|200|11|9|9|214|0|1|page|Work Anniversary Messages for Coworker - Warm & Professional
+/anniversary-messages-for-customers/|page|200|23|21|21|399|0|1|page|40+ Business Anniversary Messages for Customers — Grateful
+/anniversary-messages-for-dad/|page|200|14|12|12|239|0|1|page|50+ Anniversary Wishes for Dad — Heartfelt & Warm
+/anniversary-messages-for-daughter/|page|200|17|15|15|316|0|1|page|75+ Anniversary Wishes for Daughter — Proud & Loving
+/anniversary-messages-for-employee/|page|200|9|7|7|128|0|1|page|Anniversary Messages for Employee: Work Anniversary Wishes
+/anniversary-messages-for-fiance/|page|200|16|14|14|328|0|1|page|50+ Anniversary Wishes for Fiance — Loving & Heartfelt
+/anniversary-messages-for-fiancee/|page|200|16|14|14|256|0|1|page|Anniversary Messages for Fiancee: Romantic Wishes & Quotes
+/anniversary-messages-for-friends/|page|200|7|5|5|154|0|1|page|50+ Anniversary Wishes for Friends — Warm & Cheerful
+/anniversary-messages-for-girlfriend/|page|200|18|16|16|248|0|1|page|75+ Anniversary Wishes for Girlfriend — Romantic & Sweet
+/anniversary-messages-for-granddaughter/|page|200|6|6|6|116|0|1|page|Anniversary Messages for Granddaughter, from the Heart
+/anniversary-messages-for-grandma/|page|200|6|6|6|128|0|1|page|Anniversary Messages for Grandma, Wholesome & Sweet
+/anniversary-messages-for-grandpa/|page|200|5|5|5|193|0|1|page|Anniversary Wishes for Grandpa | Heartfelt Messages
+/anniversary-messages-for-grandparents/|page|200|18|16|16|294|0|1|page|100+ Anniversary Wishes for Grandparents — Proud & Loving
+/anniversary-messages-for-grandson/|page|200|5|5|5|189|0|1|page|Anniversary Wishes for Grandson | Loving Messages
+/anniversary-messages-for-husband/|page|200|10|8|8|207|0|1|page|100+ Anniversary Wishes for Husband — Romantic & Loving
+/anniversary-messages-for-in-laws/|page|200|9|7|7|163|0|1|page|75+ Anniversary Wishes for In-Laws — Warm & Respectful
+/anniversary-messages-for-mom/|page|200|18|16|16|313|0|1|page|50+ Anniversary Wishes for Mom — Loving & Heartfelt
+/anniversary-messages-for-mother-in-law/|page|200|6|6|6|151|0|1|page|Happy Anniversary Wishes for Mother-in-Law | Sweet Messages
+/anniversary-messages-for-neighbours/|page|200|5|5|5|104|0|1|page|Anniversary Messages for Neighbours | 123Greetings
+/anniversary-messages-for-niece/|page|200|7|7|7|154|0|1|page|Happy Anniversary Wishes for Niece | Heartfelt Messages
+/anniversary-messages-for-parents/|page|200|7|5|5|158|0|1|page|75+ Anniversary Wishes for Parents — Heartfelt & Proud
+/anniversary-messages-for-siblings/|page|200|5|5|5|100|0|1|page|Anniversary Messages for Siblings | 123Greetings
+/anniversary-messages-for-sister/|page|200|19|17|17|319|0|1|page|60+ Anniversary Wishes for Sister — Heartfelt & Warm
+/anniversary-messages-for-son/|page|200|13|11|11|203|0|1|page|50+ Anniversary Wishes for Son — Proud & Heartfelt
+/anniversary-messages-for-stepmother/|page|200|7|7|7|114|0|1|page|Anniversary wishes for Step Mom – Celebrating Her & Dad
+/anniversary-messages-for-uncle/|page|200|5|5|5|83|0|1|page|Anniversary Wishes for Uncle | Heartfelt Messages
+/anniversary-messages-for-wife/|page|200|8|6|6|154|0|1|page|100+ Anniversary Wishes for Wife — Romantic & Heartfelt
+/anniversary-messages/|page|200|0|0|0|135|0|2|page|250+ Anniversary Messages — Heartfelt Wishes for Everyone
+/april-fools-day-messages/|page|200|4|2|2|44|0|1|page|50+ April Fools' Day Messages — Funny Wishes & Pranks
+/archive/|page|200|0|0|0|209|0|0|page|All Posts – Card Messages & Wishes | 123Greetings Blog
+/at-work-messages/|page|200|8|6|6|188|0|0|page|50+ Workplace Messages — Professional Wishes for Colleagues
+/be-an-angel-day-messages/|page|200|7|5|5|348|5|0|page|Best Be an Angel Day Messages to Brighten Someone's Day
+/belated-anniversary-messages-for-her/|page|200|8|6|6|122|0|1|page|40+ Belated Anniversary Wishes for Her — Sweet & Sorry
+/belated-anniversary-messages-for-him/|page|200|7|5|5|100|0|1|page|40+ Belated Anniversary Wishes for Him — Heartfelt & Sorry
+/belated-anniversary-messages-for-sorry-i-forgot/|page|200|9|7|7|171|0|1|page|40+ Sorry I Forgot Our Anniversary Messages — Sincere Apology
+/belated-birthday-messages-for-her/|page|200|7|5|5|168|0|1|page|50+ Belated Birthday Wishes for Her — Sweet & Apologetic
+/belated-birthday-messages-for-him/|page|200|7|5|5|165|0|1|page|50+ Belated Birthday Wishes for Him — Funny & Heartfelt
+/belated-birthday-messages-for-sorry-i-missed/|page|200|7|5|5|117|0|1|page|50+ Sorry I Missed Your Birthday Messages — Sincere & Sweet
+/birthday-message-for-dad/|page|200|8|6|6|226|0|2|page|100+ Birthday Wishes for Dad — Heartfelt, Funny & Warm
+/birthday-messages-for-across-the-miles/|page|200|14|12|12|284|0|1|page|50+ Long Distance Birthday Wishes — Across the Miles
+/birthday-messages-for-aquarius/|page|200|7|5|5|133|0|1|page|50+ Birthday Wishes for Aquarius — Unique & Visionary
+/birthday-messages-for-aries/|page|200|7|5|5|102|0|1|page|50+ Birthday Wishes for Aries — Bold & Fiery Messages
+/birthday-messages-for-aunt/|page|200|8|6|6|121|0|1|page|75+ Birthday Wishes for Aunt — Warm, Funny & Loving
+/birthday-messages-for-best-friend/|page|200|7|5|5|143|0|1|page|100+ Birthday Wishes for Best Friend — Funny & Sweet
+/birthday-messages-for-boss/|page|200|8|6|6|143|0|1|page|50+ Professional Birthday Wishes for Your Boss (2026)
+/birthday-messages-for-boyfriend/|page|200|7|5|5|102|0|1|page|100+ Birthday Wishes for Boyfriend — Romantic & Sweet
+/birthday-messages-for-brother/|page|200|7|5|5|167|0|1|page|100+ Birthday Wishes for Brother — Funny & Heartfelt
+/birthday-messages-for-cancer/|page|200|7|5|5|120|0|1|page|50+ Birthday Wishes for Cancer — Warm & Heartfelt
+/birthday-messages-for-capricorn/|page|200|7|5|5|140|0|1|page|50+ Birthday Wishes for Capricorn — Ambitious & Steady
+/birthday-messages-for-co-worker/|page|200|7|5|5|155|0|1|page|50+ Birthday Wishes for Coworker — Professional & Friendly
+/birthday-messages-for-daughter/|page|200|8|6|6|185|0|2|page|100+ Birthday Wishes for Daughter — Heartfelt & Proud
+/birthday-messages-for-father-in-law/|page|200|7|5|5|106|0|1|page|50+ Birthday Wishes for Father-in-Law — Warm & Sincere
+/birthday-messages-for-gemini/|page|200|7|5|5|107|0|1|page|50+ Birthday Wishes for Gemini — Witty & Fun Messages
+/birthday-messages-for-girlfriend/|page|200|8|6|6|124|0|1|page|120+ Birthday Wishes for Girlfriend — Romantic & Cute
+/birthday-messages-for-granddaughter/|page|200|20|18|18|345|0|1|page|80+ Birthday Wishes for Granddaughter — Proud & Sweet
+/birthday-messages-for-grandma/|page|200|19|17|17|335|0|1|page|100+ Birthday Wishes for Grandma — Heartfelt & Loving
+/birthday-messages-for-grandpa/|page|200|7|5|5|107|0|1|page|80+ Birthday Wishes for Grandpa — Loving & Heartfelt
+/birthday-messages-for-grandson/|page|200|9|7|7|134|0|1|page|80+ Birthday Wishes for Grandson — Proud & Heartfelt
+/birthday-messages-for-husband/|page|200|8|6|6|171|0|2|page|120+ Birthday Wishes for Husband — Romantic & Funny
+/birthday-messages-for-leo/|page|200|7|5|5|129|0|1|page|50+ Birthday Wishes for Leo — Bold & Radiant Messages
+/birthday-messages-for-libra/|page|200|7|5|5|149|0|1|page|50+ Birthday Wishes for Libra — Charming & Balanced
+/birthday-messages-for-mom/|page|200|9|7|7|300|0|2|page|115+ Birthday Messages for Mom — Heartfelt, Funny & Sweet
+/birthday-messages-for-mother-in-law/|page|200|8|6|6|108|0|1|page|65+ Birthday Wishes for Mother-in-Law — Warm & Respectful
+/birthday-messages-for-nephew/|page|200|7|5|5|103|0|1|page|60+ Birthday Wishes for Nephew — Proud, Fun & Loving
+/birthday-messages-for-niece/|page|200|9|7|7|155|0|1|page|80+ Birthday Wishes for Niece — Sweet, Proud & Fun
+/birthday-messages-for-pisces/|page|200|7|5|5|129|0|1|page|50+ Birthday Wishes for Pisces — Dreamy & Heartfelt
+/birthday-messages-for-sagittarius/|page|200|7|5|5|146|0|1|page|50+ Birthday Wishes for Sagittarius — Adventurous & Free
+/birthday-messages-for-scorpio/|page|200|7|5|5|143|0|1|page|50+ Birthday Wishes for Scorpio — Deep & Passionate
+/birthday-messages-for-sister/|page|200|8|6|6|202|0|1|page|100+ Birthday Wishes for Sister — Funny, Loving & Sweet
+/birthday-messages-for-son/|page|200|10|8|8|187|0|2|page|100+ Birthday Wishes for Son — Proud & Heartfelt (2026)
+/birthday-messages-for-stepfather/|page|200|8|6|6|145|0|1|page|40+ Birthday Wishes for Stepdad — Thoughtful & Genuine
+/birthday-messages-for-stepmother/|page|200|7|5|5|113|0|1|page|40+ Birthday Wishes for Stepmom — Thoughtful & Warm
+/birthday-messages-for-sweet-16/|page|200|7|5|5|125|0|1|page|75+ Sweet 16 Birthday Wishes — Fun & Heartfelt Messages
+/birthday-messages-for-taurus/|page|200|7|5|5|98|0|1|page|50+ Birthday Wishes for Taurus — Loyal & Grounded
+/birthday-messages-for-teacher/|page|200|11|11|11|245|0|1|page|50+ Birthday Wishes for Teacher — Respectful & Warm
+/birthday-messages-for-uncle/|page|200|8|6|6|123|0|1|page|60+ Birthday Wishes for Uncle — Warm, Funny & Heartfelt
+/birthday-messages-for-virgo/|page|200|7|5|5|106|0|1|page|50+ Birthday Wishes for Virgo — Thoughtful & Graceful
+/birthday-messages-for-wife/|page|200|6|4|4|140|0|2|page|150+ Birthday Wishes for Wife — Romantic & Heart Touching
+/birthday-messages/|page|200|0|0|0|189|0|3|page|500+ Birthday Messages — Heartfelt, Funny & Unique Wishes
+/birthday-thankyou-messages/|page|200|5|5|5|293|5|1|page|Thank You Birthday Wishes in Return
+/bon-voyage-messages/|page|200|33|33|33|607|0|1|page|Bon Voyage Messages: Heartfelt & Fun Wishes for Safe Travels
+/bosss-day-messages/|page|200|5|5|5|309|5|1|page|Boss's Day Messages & Wishes for Your Boss
+/business-anniversary-messages/|page|200|5|5|5|98|0|1|page|Business Anniversary Messages & Wishes
+/canada-day-messages/|page|200|28|28|28|712|5|1|page|100+ Canada Day Messages & Wishes — Patriotic (July 1)
+/canadian-thanksgiving-messages/|page|200|5|5|5|345|5|1|page|Canadian Thanksgiving Messages & Wishes
+/candy-corn-day-messages/|page|200|5|5|5|274|5|1|page|National Candy Corn Day Messages & Wishes | 123Greetings
+/caring-friendship-messages/|page|200|8|8|8|453|5|1|page|Caring Messages for Friends: Heartfelt & Thoughtful Wishes
+/chocolate-day-messages/|page|200|10|10|10|335|5|1|page|Chocolate Day Wishes: Sweet Messages to Share
+/chocolate-milk-day-messages/|page|200|5|5|5|322|5|1|page|Chocolate Milk Day Messages & Wishes | 123Greetings
+/clergy-appreciation-day-messages/|page|200|5|5|5|346|5|2|page|Clergy Appreciation Day Messages & Wishes
+/colleagues-thankyou-messages/|page|200|5|5|5|329|5|1|page|Thank You Colleagues – Messages for the Team
+/columbus-day-messages/|page|200|5|5|5|334|5|1|page|Columbus Day Messages & Wishes |123Greetings
+/company-anniversary-messages/|page|200|5|5|5|114|0|1|page|Company Anniversary Messages & Wishes
+/congratulations-messages/|page|200|62|62|62|1442|0|1|page|75+ Congratulations Messages — Warm & Inspiring Wishes
+/congratulations-thankyou-messages/|page|200|5|5|5|317|5|1|page|Thank You Messages for Congratulations Received
+/contact-us/|page|200|0|0|0|86|0|512|page|Contact 123Greetings Blog – Suggest a Topic or Get in Touch
+/cousins-day-messages/|page|200|7|5|5|276|5|1|page|Cousins Day Messages: Heartwarming Wishes for Family Favorites
+/cute-messages/|page|200|9|7|7|249|3|1|page|Cute Messages for Your Partner: Sweet Everyday Texts to Share
+/dailies-thankyou-messages/|page|200|5|5|5|331|5|1|page|Thank You Dailies – Everyday Gratitude Messages
+/dance-day-messages/|page|200|8|6|6|111|0|1|page|30+ International Dance Day Messages & Wishes (Apr 29)
+/dating-anniversary-messages/|page|200|5|5|5|119|0|1|page|Dating Anniversary Messages & Wishes
+/day-of-the-dead-messages/|page|200|5|5|5|329|4|1|page|Fascinating Day of the Dead Messages & Greetings | 123Greetings
+/daylight-saving-time-ends-messages/|page|200|5|5|5|336|4|1|page|Daylight Saving Time Ends: Messages & Wishes | 123Greetings
+/dessert-day-messages/|page|200|5|5|5|347|5|1|page|Dessert Day Messages for the Sweetest Person
+/earth-day-messages/|page|200|6|4|4|88|0|1|page|50+ Earth Day Messages & Wishes — Inspire, Share, Act
+/easter-messages/|page|200|4|2|2|31|0|1|page|75+ Easter Messages & Wishes — Warm, Joyful & Blessed
+/engagement-messages/|page|200|3|1|1|45|0|1|page|100+ Engagement Wishes — Congratulations to the Couple!
+/everyday-messages/|page|200|111|111|111|2214|0|3|page|Everyday Messages & Wishes — Brighten Someone's Day
+/fall-messages/|page|200|10|10|10|335|5|1|page|Fall Wishes & Seasonal Ecards to Send
+/family-messages/|page|200|25|25|25|427|0|2|page|60+ Family Messages — Loving Wishes for Your Loved Ones
+/fathers-day-messages/|page|200|47|47|47|1872|7|1|page|100+ Father's Day Messages — Heartfelt Wishes for Dad
+/first-love-day-messages/|page|200|5|5|5|317|5|1|page|First Love Day Messages & Wishes | 123Greetings
+/friendship-anniversary-messages/|page|200|5|5|5|104|0|1|page|Friendship Anniversary Messages & Wishes
+/friendship-day-messages/|page|200|8|6|6|393|5|2|page|75+ Friendship Day Messages & Wishes — Fun & Heartfelt
+/friendship-messages-for-best-friends/|page|200|8|8|8|386|5|1|page|Best Friend Messages: Funny, Heartfelt & Wishes
+/friendship-messages-for-friends-forever/|page|200|6|6|6|319|5|1|page|Friends Forever Messages: Heartfelt & Fun Friendship Wishes
+/friendship-messages-here-for-you/|page|200|5|5|5|333|5|1|page|Here for You Messages for Friends | 123Greetings
+/friendship-messages/|page|200|0|0|0|552|5|3|page|Top Friendship Messages That will Rekindle The Bond
+/friendship-week/|page|200|12|10|10|439|5|1|page|Friendship Week Messages- Wishes, Quotes & Greetings
+/funny-belated-birthday-messages/|page|200|8|6|6|168|0|1|page|50+ Funny Belated Birthday Wishes — Hilarious & Late
+/funny-friendship-messages/|page|200|10|10|10|480|5|1|page|Funny Messages for Friends: Witty & Humorous Wishes
+/get-well-soon-messages/|page|200|18|18|18|624|0|3|page|100+ Get Well Soon Messages - Warm, Heartfelt & Caring
+/girlfriends-day-messages/|page|200|7|5|5|312|5|0|page|Girlfriend's Day Messages, Wishes & Greetings
+/graduation-messages/|page|200|22|20|20|598|0|1|page|100+ Graduation Wishes — What to Write in a Grad Card
+/grandparents-day-messages/|page|200|7|5|5|281|5|1|page|Grandparents Day Messages, Wishes & Heartfelt Greetings
+/guardian-angel-day-messages/|page|200|5|5|5|364|5|2|page|Guardian Angel Day Wishes & Messages | 123Greetings
+/guy-fawkes-day-messages/|page|200|5|5|5|336|4|1|page|Guy Fawkes Day Messages & Wishes: Fun, Bright & Festive
+/halloween-messages/|page|200|11|11|11|356|5|2|page|Halloween Messages & Wishes: Spooky, Funny & Fun
+/happiness-happens-day-messages/|page|200|5|5|5|328|5|1|page|Happiness Happens Day Wishes, Messages & Greetings
+/heartfelt-belated-birthday-messages/|page|200|6|4|4|103|0|1|page|50+ Heartfelt Belated Birthday Wishes — Sincere & Sweet
+/honey-month-messages/|page|200|8|8|8|302|5|1|page|Honey Month Messages for the One Who Sweetens Life
+/hug-week-messages/|page|200|7|5|5|92|0|1|page|30+ Hug Week Messages & Wishes — Warm & Heartfelt
+/hug-your-sweetheart-day-messages/|page|200|7|5|5|349|5|1|page|Hug Your Sweetheart Day Messages – Wishes & Greetings
+/ice-cream-day-messages/|page|200|8|6|6|107|0|1|page|30+ National Ice Cream Day Messages & Wishes — Sweet!
+/inspiration-messages-motivation/|page|200|19|19|19|775|4|1|page|Motivation Messages & Inspirational Words | 123Greetings
+/inspiration-messages-you-can-do-it/|page|200|17|17|17|687|4|1|page|You Can Do It Messages & Encouraging Words | 123Greetings
+/inspiration-messages/|page|200|0|0|0|489|5|1|page|Inspiration Messages - 123Greetings Blog - Free eCards, Card Message Ideas & Wha
+/international-cat-day-messages/|page|200|7|5|5|352|5|1|page|International Cat Day: Fun & Quirky Messages for Cat Lovers
+/international-daughters-day-messages/|page|200|5|5|5|386|5|1|page|International Daughter's Day Wishes & Messages
+/international-kissing-day-messages/|page|200|6|4|4|72|0|1|page|30+ International Kissing Day Messages & Wishes (Jul 6)
+/international-sunflower-day-messages/|page|200|13|11|11|370|5|1|page|Sunflower Day Messages: Warm Wishes to Brighten Their Day
+/international-yoga-day-messages/|page|200|4|2|2|44|0|1|page|50+ International Yoga Day Messages & Wishes (Jun 21)
+/invitation-messages/|page|200|6|6|6|205|3|1|page|Invitation Messages for Birthdays, Anniversaries & More
+/invitation-thankyou-messages/|page|200|5|5|5|319|5|1|page|Thank You Invitations for Being Included
+/just-because-day/|page|200|6|4|4|307|5|0|page|Just Because Day Messages- Sweet Messages & Greetings
+/keep-in-touch-messages/|page|200|7|5|5|234|3|1|page|Keep in Touch Messages: Fun Ways to Stay Connected
+/kiss-and-make-up-day-messages/|page|200|5|5|5|431|5|1|page|Kiss and Make Up Day Messages & Wishes
+/labor-day-messages/|page|200|12|12|12|519|5|1|page|Labor Day Messages: 50+ Warm & Meaningful Wishes
+/longest-kiss-day-messages/|page|200|7|7|7|334|5|1|page|Longest Kiss Day Messages for Your Special Someone
+/love-messages/|page|200|38|38|38|609|0|2|page|100+ Love Messages — Romantic, Sweet & Deeply Heartfelt
+/love-note-day-messages/|page|200|5|5|5|331|5|1|page|Love Note Day Messages & Wishes | 123Greetings
+/love-thankyou-messages/|page|200|7|7|7|350|5|1|page|Thank You Love Messages, Sweet & Heartfelt
+/messages-for-100th-birthday/|page|200|7|5|5|120|0|1|page|40+ Happy 100th Birthday Wishes — A Century Celebrated
+/messages-for-10th-anniversary/|page|200|10|8|8|205|0|1|page|50+ 10th Anniversary Wishes — A Decade of Love (2026)
+/messages-for-13th-birthday/|page|200|8|6|6|158|0|1|page|50+ Happy 13th Birthday Wishes — Official Teenager!
+/messages-for-15th-anniversary/|page|200|8|6|6|102|0|1|page|50+ 15th Anniversary Wishes — Crystal to China
+/messages-for-18th-birthday/|page|200|12|10|10|283|0|1|page|60+ Happy 18th Birthday Wishes — Welcome to Adulthood!
+/messages-for-1st-anniversary/|page|200|10|8|8|181|0|1|page|50+ 1st Anniversary Wishes — Romantic & Sweet Messages
+/messages-for-1st-birthday/|page|200|6|4|4|76|0|1|page|80+ Happy 1st Birthday Wishes — Sweet Messages for Baby
+/messages-for-20th-anniversary/|page|200|9|7|7|114|0|1|page|50+ 20th Anniversary Wishes — Crystal to China
+/messages-for-21st-birthday/|page|200|11|9|9|206|0|1|page|60+ Happy 21st Birthday Wishes — Funny & Inspiring
+/messages-for-25th-anniversary/|page|200|7|5|5|150|0|1|page|75+ 25th Anniversary Wishes — Silver Jubilee Messages
+/messages-for-30th-anniversary/|page|200|5|5|5|144|0|1|page|30th Anniversary Wishes for a Special Celebration | 123Greetings
+/messages-for-30th-birthday/|page|200|11|9|9|210|0|1|page|60+ Happy 30th Birthday Wishes — Funny & Heartfelt
+/messages-for-40th-anniversary/|page|200|5|5|5|119|0|1|page|40th Anniversary Wishes for a Special Celebration | 123Greetings
+/messages-for-40th-birthday/|page|200|13|11|11|230|0|1|page|60+ Happy 40th Birthday Wishes — Witty & Warm (2026)
+/messages-for-50th-anniversary/|page|200|6|4|4|133|0|1|page|50+ 50th Anniversary Wishes — Golden Jubilee Messages
+/messages-for-50th-birthday/|page|200|7|5|5|92|0|1|page|60+ Happy 50th Birthday Wishes — Inspiring & Funny
+/messages-for-5th-anniversary/|page|200|3|1|1|30|0|1|page|50+ 5th Anniversary Wishes — Wood Anniversary Messages
+/messages-for-60th-anniversary/|page|200|8|6|6|123|0|1|page|50+ 60th Anniversary Wishes — Diamond Jubilee Messages
+/messages-for-60th-birthday/|page|200|8|6|6|183|0|1|page|60+ Happy 60th Birthday Wishes — Warm & Celebratory
+/messages-for-70th-birthday/|page|200|8|6|6|178|0|1|page|60+ Happy 70th Birthday Wishes — Warm & Celebratory
+/messages-for-75th-anniversary/|page|200|9|7|7|147|0|1|page|50+ 75th Anniversary Wishes — Diamond Jubilee Messages
+/messages-for-80th-birthday/|page|200|7|5|5|92|0|1|page|60+ Happy 80th Birthday Wishes — Heartfelt & Inspiring
+/messages-for-90th-birthday/|page|200|7|5|5|122|0|1|page|60+ Happy 90th Birthday Wishes — Honoring 9 Decades
+/more-inspiration-messages/|page|200|60|60|60|918|0|1|page|80+ Words of Encouragement — Uplifting & Inspiring Messages
+/more-wedding-messages/|page|200|23|23|23|533|5|1|page|More Wedding Messages For Every Mood | 123Greetings
+/mothers-day-messages/|page|200|31|29|29|1462|0|1|page|125+ Mother's Day Messages — Heartfelt Wishes for Mom
+/national-best-friends-day-messages/|page|200|7|5|5|968|17|1|page|50+ National Best Friends Day Messages & Wishes (Jun 8)
+/national-blueberry-pie-day-messages/|page|200|4|2|2|49|0|1|page|25+ National Blueberry Pie Day Messages & Wishes
+/national-cat-day-messages/|page|200|5|5|5|276|5|1|page|National Cat Day Messages & Wishes | 123Greetings
+/national-childrens-day-messages/|page|200|5|3|3|53|0|1|page|National Children's Day Messages, Wishes & Greetings
+/national-coffee-day-messages/|page|200|6|6|6|280|5|1|page|National Coffee Day Messages to Warm Their Day
+/national-day-of-encouragement-messages/|page|200|5|5|5|373|5|1|page|National Day of Encouragement Messages & Wishes
+/national-dog-day-messages/|page|200|5|5|5|329|5|1|page|National Dog Day Wishes & Messages for Every Dog Lover
+/national-i-love-you-day-messages/|page|200|14|14|14|501|5|1|page|National I Love You Day Messages & Wishes
+/national-oatmeal-day-messages/|page|200|5|5|5|405|5|1|page|National Oatmeal Day Messages : Grainy, Crunchy & Nutritious
+/national-relaxation-day-messages/|page|200|5|5|5|291|5|1|page|Happy National Relaxation Day Messages & Wishes
+/national-tap-dance-day-messages/|page|200|6|4|4|81|0|1|page|30+ National Tap Dance Day Messages & Wishes (May 25)
+/national-thank-you-day-messages/|page|200|5|5|5|371|5|1|page|National Thank You Day Messages & Wishes | 123Greetings
+/new-baby-messages/|page|200|40|40|40|894|4|2|page|New Baby Messages & Wishes: Heartfelt, Cute & Funny
+/parents-day-messages/|page|200|13|11|11|387|5|1|page|100+ Parents Day Messages & Wishes — Heartfelt & Loving
+/positive-thinking-day-messages/|page|200|5|5|5|343|5|1|page|Positive Thinking Day Messages & Wishes | 123Greetings
+/pumpkin-day-messages/|page|200|6|6|6|345|5|1|page|Pumpkin Day Wishes for Fall's Little Joys
+/pumpkinfest-tennessee-messages/|page|200|5|5|5|301|5|1|page|Celebrate with Festive Pumpkinfest Wishes
+/raksha-bandhan-messages/|page|200|21|19|19|660|5|1|page|Rakhi Messages for Siblings | Make Them Laugh & Smile
+/red-rose-day-messages/|page|200|5|3|3|58|0|1|page|30+ Red Rose Day Messages & Wishes — Romantic (Jun 12)
+/relationship-anniversary-messages/|page|200|5|5|5|121|0|1|page|Relationship Anniversary Messages & Wishes
+/romance-awareness-month-messages/|page|200|7|5|5|445|5|1|page|Romance Awareness Month Wishes & Romantic Messages
+/romance-day-messages/|page|200|7|5|5|321|5|1|page|Romance Day Messages to Celebrate Love & Togetherness
+/rosh-hashanah-messages/|page|200|23|21|21|698|5|1|page|Rosh Hashanah Messages, Wishes & New Year Greetings
+/samhain-messages/|page|200|5|5|5|333|5|1|page|Samhain Festival: Messages, Wishes & Celtic Traditions
+/say-hey-day-messages/|page|200|5|5|5|374|5|1|page|Say Hey Day 2026: Heartfelt Wishes, Quotes & Ideas
+/send-a-smile-day-messages/|page|200|5|5|5|320|5|1|page|Send a Smile Day Wishes & Messages | 123Greetings
+/senior-citizen-day-messages/|page|200|12|10|10|372|5|0|page|Senior Citizen Day Messages, Wishes & Greetings
+/september-flower-month-messages/|page|200|5|5|5|305|5|1|page|September Birth Flowers: Aster & Morning Glory | 123Greetings
+/smile-month-messages/|page|200|16|14|14|502|5|1|page|Smile Month Messages: Wishes, Quotes & Greetings
+/sneak-a-kiss-day-messages/|page|200|5|3|3|68|0|1|page|25+ Sneak a Kiss Day Messages & Wishes — Fun & Flirty
+/sorry-messages/|page|200|15|15|15|516|0|2|page|100+ Sorry Messages — Heartfelt Apologies for Any Situation
+/spring-messages/|page|200|17|15|15|249|0|1|page|50+ Happy Spring Messages & Wishes — Fresh & Cheerful
+/st-francis-day-messages/|page|200|5|5|5|349|5|2|page|St. Francis Day: Messages, Wishes & Blessings
+/stepfamily-day-messages/|page|200|7|5|5|277|5|1|page|Stepfamily Day Messages, Wishes & Greetings
+/sukkot-messages/|page|200|5|5|5|317|5|1|page|Sukkot Wishes – Send Warm Wishes & Greetings
+/summer-messages/|page|200|39|39|39|937|5|2|page|50+ Happy Summer Messages & Wishes — Warm & Cheerful
+/sweetest-day-messages/|page|200|5|5|5|324|5|1|page|Sweetest Day Messages & Wishes: Sweet Ways to Celebrate
+/sympathy-condolences-messages/|page|200|12|10|10|331|0|2|page|100+ Condolence Messages — Comforting Words of Sympathy
+/teachers-day-messages/|page|200|18|18|18|537|5|1|page|100+ Teachers' Day Messages — Heartfelt Wishes & Quotes
+/teddy-bear-day-messages/|page|200|6|6|6|306|5|1|page|Teddy Bear Day Wishes for Someone You Love
+/thank-you-day-messages/|page|200|7|5|5|298|5|0|page|Thank You Day Wishes, Messages & Heartfelt Greetings
+/thank-you-messages/|page|200|25|23|23|611|0|2|page|100+ Thank You Messages — Heartfelt Words of Gratitude
+/thanksgiving-day-messages/|page|200|5|5|5|312|5|1|page|Thanksgiving Day Messages & Wishes | Happy Thanksgiving
+/thankyou-messages/|page|200|0|0|0|394|0|1|page|Heartfelt Thank You Messages, All Occasions
+/true-love-forever-day-messages/|page|200|7|5|5|355|5|1|page|True Love Forever Day Messages for Your Special Someone
+/upcoming-events/|page|200|0|0|0|0|0|0|page|Upcoming Events - 123Greetings Blog - Free eCards, Card Message Ideas & What to 
+/veterans-day-messages/|page|200|5|5|5|317|5|1|page|Veterans Day Messages & Wishes | Honor Our Heroes
+/wedding-anniversary-messages/|page|200|5|5|5|158|0|1|page|Wedding Anniversary Messages & Wishes
+/wedding-messages-for-the-bride/|page|200|7|7|7|391|5|1|page|Wedding Wishes for the Bride: 50+ Sweet Messages
+/wedding-messages-for-the-groom/|page|200|7|7|7|315|5|1|page|Wedding Wishes for the Groom: Sweet & Heartfelt Messages
+/wedding-messages-to-congratulate-the-couple/|page|200|9|9|9|411|5|1|page|Congratulations to the Couple | Wedding Wishes & Messages
+/wedding-messages-when-just-married/|page|200|9|9|9|332|5|1|page|Just Married Wishes: Sweet Messages for Newlyweds
+/wedding-messages/|page|200|0|0|0|500|5|1|page|Wedding Wishes: Beautiful Messages for the Happy Couple
+/what-to-write-in-a-card/|page|200|0|0|0|396|0|512|page|What to Write in a Card - Messages for Every Occasion.
+/wife-appreciation-day-messages/|page|200|6|6|6|416|5|1|page|Wife Appreciation Day Messages, Wishes & Quotes
+/womens-friendship-day-messages/|page|200|5|5|5|328|5|1|page|Women’s Friendship Day Messages & Wishes | 123Greetings
+/work-anniversary-messages/|page|200|5|5|5|105|0|1|page|Work Anniversary Messages & Wishes
+/working-parents-day/|page|200|7|5|5|301|5|1|page|Working Parents Day Messages, Wishes & Quotes
+/you-go-girl-day-messages/|page|200|5|5|5|385|5|1|page|You Go Girl Day 2026: Inspiring Ideas, Wishes & Quotes
+http://blog.123greetings.com/be-an-angel-day-messages/|page|200|7|5|5|348|5|1|None|Best Be an Angel Day Messages to Brighten Someone's Day
+http://blog.123greetings.com/girlfriends-day-messages/|page|200|7|5|5|312|5|1|None|Girlfriend's Day Messages, Wishes & Greetings
+http://blog.123greetings.com/just-because-day/|page|200|6|4|4|307|5|1|None|Just Because Day Messages- Sweet Messages & Greetings
+http://blog.123greetings.com/senior-citizen-day-messages/|page|200|12|10|10|372|5|1|None|Senior Citizen Day Messages, Wishes & Greetings
+http://blog.123greetings.com/smile-month-messages/|page|200|16|14|14|502|5|1|None|Smile Month Messages: Wishes, Quotes & Greetings
+http://blog.123greetings.com/thank-you-day-messages/|page|200|7|5|5|298|5|1|None|Thank You Day Wishes, Messages & Heartfelt Greetings
+http://blog.123greetings.com/true-love-forever-day-messages/|page|200|7|5|5|355|5|1|None|True Love Forever Day Messages for Your Special Someone
+/13th-july-your-weekly-bobcast/|post|200|0|0|0|721|0|10|post|13th JULY: Your Weekly Bobcast! - 123Greetings Blog - Free eCards, Card Message 
+/15th-june-your-weekly-bobcast/|post|200|0|0|0|590|0|13|post|15th JUNE: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message I
+/19th-may-your-week-with-bob/|post|200|0|0|0|583|0|14|post|19th May: Your Week With Bob - 123Greetings Blog - Free eCards, Card Message Ide
+/1st-june-your-weekly-bobcast/|post|200|0|0|0|653|0|11|post|1st JUNE: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message Id
+/22nd-june-your-weekly-bobcast/|post|200|0|0|0|422|0|10|post|22nd JUNE: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message I
+/24th-may-your-weekly-bobcast/|post|200|0|0|0|784|0|12|post|24th May: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message Id
+/29th-june-your-weekly-bobcast/|post|200|0|0|0|615|0|11|post|29th JUNE: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message I
+/6th-july-your-weekly-bobcast/|post|200|0|0|0|656|0|11|post|6th JULY: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message Id
+/7th-june-your-weekly-bobcast/|post|200|0|0|0|687|0|12|post|7th JUNE: Your Weekly Bobcast - 123Greetings Blog - Free eCards, Card Message Id
+/birthday-card-messages-when-my-brother-and-i-stopped-talking-about-things-that-mattered/|post|200|0|0|0|961|0|9|post|Birthday Card Messages: When My Brother and I Stopped Talking About Things That 
+/congratulations-card-messages-when-i-realized-id-quietly-let-an-old-friendship-drift/|post|200|0|0|0|947|0|11|post|Congratulations Card Messages: When I Realized I’d Quietly Let an Old Friendship
+/five-minutes-with-bob-11th-july/|post|200|0|0|0|316|0|17|post|A Couple of Minutes | Five Minutes With Bob
+/five-minutes-with-bob-13th-july/|post|200|0|0|0|357|0|13|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/five-minutes-with-bob-1st-august/|post|200|0|0|0|398|0|59|post|Aunt Helen's 50th Birthday | Five Minutes With Bob
+/five-minutes-with-bob-27th-july/|post|200|0|0|0|351|0|62|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/five-minutes-with-bob-28th-july/|post|200|0|0|0|331|0|62|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/five-minutes-with-bob-29th-july/|post|200|0|0|0|436|0|59|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/five-minutes-with-bob-2nd-august/|post|200|0|0|0|391|0|60|post|An Unusual Luxury | Five Minutes With Bob
+/five-minutes-with-bob-30th-july/|post|200|0|0|0|455|0|60|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/five-minutes-with-bob-31st-july/|post|200|0|0|0|359|0|59|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/five-minutes-with-bob/|post|200|0|0|0|380|0|4|post|Five Minutes With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & Wh
+/graduation-card-messages-when-my-dad-struggled-with-saying-he-was-proud-of-me/|post|200|0|0|0|862|0|8|post|Graduation Card Messages: When My Dad Struggled with Saying He Was Proud of Me -
+/happy-mothers-day-2026-messages-what-to-write-in-the-card/|post|200|0|0|0|1268|0|8|post|Happy Mother’s Day 2026 Messages: What to Write in the Card - 123Greetings Blog 
+/heartfelt-mothers-day-messages-that-prove-you-were-paying-attention/|post|200|0|0|0|1548|0|8|post|Heartfelt Mother’s Day Messages That Prove You Were Paying Attention - 123Greeti
+/love-messages-for-wife-the-thank-you-i-owed-my-wife-for-two-years/|post|200|0|0|0|926|0|9|post|Love Messages for Wife: The Thank-You I Owed My Wife for Two Years - 123Greeting
+/mothers-day-card-ideas-12-things-my-mom-used-to-say-that-finally-make-sense-now/|post|200|0|0|0|1365|0|8|post|Mother’s Day Card Ideas: 12 Things My Mom Used to Say That Finally Make Sense No
+/mothers-day-card-messages-for-grandma-funny-heartfelt/|post|200|0|0|0|1254|0|8|post|Mother’s Day Card Messages for Grandma: Funny & Heartfelt - 123Greetings Blog - 
+/mothers-day-messages-for-mom-what-to-write-when-she-saved-it-all/|post|200|0|0|0|1397|0|9|post|Mother’s Day Messages for Mom: What to Write When She Saved It All - 123Greeting
+/mothers-day-messages-for-mother-in-law-what-to-write/|post|200|0|0|0|1163|0|8|post|Mother’s Day Messages for Mother-in-Law: What to Write - 123Greetings Blog - Fre
+/mothers-day-messages-for-someone-who-lost-their-mom/|post|200|0|0|0|1322|0|5|post|Mother’s Day Messages for Someone Who Lost Their Mom - 123Greetings Blog - Free 
+/mothers-day-messages-for-wife-what-she-actually-wants/|post|200|0|0|0|1457|0|8|post|Mother’s Day Messages for Wife: What She Actually Wants - 123Greetings Blog - Fr
+/mothers-day-messages-from-son-what-to-write-when-you-live-far-away/|post|200|0|0|0|1532|0|10|post|Mother’s Day Messages From Son: What to Write When You Live Far Away - 123Greeti
+/mothers-day-wishes-for-stepmom-50-heartfelt-card-messages/|post|200|0|0|0|1302|0|11|post|Mother’s Day Wishes for Stepmom: 50+ Heartfelt Card Messages - 123Greetings Blog
+/sorry-messages-for-coworkers-when-my-coworker-struggled-with-saying-sorry/|post|200|0|0|0|952|0|8|post|Sorry Messages for Coworkers: When My Coworker Struggled with Saying Sorry - 123
+/thank-you-card-messages-when-my-father-in-law-said-the-quiet-thing-out-loud/|post|200|0|0|0|964|0|10|post|Thank You Card Messages: When My Father-in-Law Said the Quiet Thing Out Loud - 1
+/wake-up-with-bob-14th-july/|post|200|0|0|0|339|0|13|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-15th-july/|post|200|0|0|0|216|0|12|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-16th-july/|post|200|0|0|0|328|0|10|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-17th-july/|post|200|0|0|0|432|0|8|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-18th-july/|post|200|0|0|0|304|0|11|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-19th-july/|post|200|0|0|0|403|0|11|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-20th-july/|post|200|0|0|0|259|0|16|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-21st-july/|post|200|0|0|0|374|0|10|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-22nd-july/|post|200|0|0|0|360|0|13|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-23rd-july/|post|200|0|0|0|366|0|19|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-24th-july/|post|200|0|0|0|327|0|60|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-25th-july/|post|200|0|0|0|403|0|56|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/wake-up-with-bob-26th-july/|post|200|0|0|0|369|0|62|post|Wake Up With Bob - 123Greetings Blog - Free eCards, Card Message Ideas & What to
+/what-to-write-in-a-mothers-day-card-shell-actually-keep/|post|200|0|0|0|1319|0|8|post|What to Write in a Mother’s Day Card She’ll Actually Keep? - 123Greetings Blog -

@@ -1,0 +1,45 @@
+{
+ "PATH": "/birthday-messages/",
+ "css": {
+  "printRules": 2,
+  "printSheets": [],
+  "sheetsRead": 70,
+  "crossOrigin": 3
+ },
+ "vis": {
+  "header": {
+   "n": 1,
+   "h": 150,
+   "y": 0
+  },
+  "mobileNav": {
+   "n": 1,
+   "h": 66,
+   "y": 84
+  },
+  "cookieBanner": null,
+  "footer": null,
+  "copyButtons": 0,
+  "sidebar": null,
+  "adContainers": 0,
+  "grecaptcha": null,
+  "backToTop": {
+   "n": 1,
+   "h": 40,
+   "y": 920
+  },
+  "h1": [
+   "Birthday Messages, Wishes & Card Ideas"
+  ],
+  "docH": 2775
+ },
+ "nPages": 4,
+ "pdfBytes": 374185,
+ "msgs": 0,
+ "stats": {
+  "cached": 71,
+  "fetched": 0,
+  "r429": 0,
+  "f429": 0
+ }
+}

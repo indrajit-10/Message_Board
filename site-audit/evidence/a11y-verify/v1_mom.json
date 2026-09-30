@@ -1,0 +1,275 @@
+{
+ "log": {
+  "path": "/birthday-messages-for-mom/",
+  "pageErrors": [],
+  "http": [],
+  "status": 200,
+  "xcache": "3.dca _atomic_dca HIT"
+ },
+ "btns": {
+  "total": 9,
+  "visible": 7,
+  "msgs": 9,
+  "msgsVisible": 7,
+  "html": "<button class=\"copy-icon-btn\">\n            <span class=\"copy-tooltip\">Copy</span>\n            <svg class=\"copy-icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"#00537B\">\n                <rect x=\"9\" y=\"9\" width=\"13\" height=\"13\" rx=\"2\" stroke-widt",
+  "type": null,
+  "aria": null,
+  "title": null,
+  "size": [
+   18,
+   22
+  ],
+  "tipVis": "hidden",
+  "tipOp": "0",
+  "svgHidden": null,
+  "inForm": false,
+  "live": [
+   "div.cc-window.cc-floating.cc-type-info"
+  ],
+  "scriptHasBtn": true
+ },
+ "axButtons": [
+  "\"Accept cookie\"",
+  "\"x cookie\"",
+  "\"cookies - Cookie Policy. \"",
+  "\"\"",
+  "\"\"",
+  "\"\"",
+  "\"\"",
+  "\"\"",
+  "\"\"",
+  "\"\""
+ ],
+ "focus": {
+  "fv": true,
+  "outline": "none",
+  "shadow": "none",
+  "bg": "rgba(0, 0, 0, 0)",
+  "tipVis": "hidden",
+  "tipOp": "0"
+ },
+ "afterEnter": {
+  "tipText": "Copied",
+  "tipVis": "hidden",
+  "tipOp": "0",
+  "liveTexts": [
+   "We use cookies to make your experience sweeter! By using our"
+  ]
+ },
+ "clipboard": "“Happy birthday to the woman who taught me everything I know, including how to f",
+ "hover": {
+  "tipText": "Copied",
+  "tipVis": "visible",
+  "tipOp": "1"
+ },
+ "inText": [
+  {
+   "text": "Terms of Use",
+   "td": "none",
+   "fw": "400/400",
+   "c": "rgb(255, 255, 255)",
+   "pc": "rgb(46, 46, 46)",
+   "ratio": 13.58
+  },
+  {
+   "text": "Privacy Policy",
+   "td": "none",
+   "fw": "400/400",
+   "c": "rgb(255, 255, 255)",
+   "pc": "rgb(46, 46, 46)",
+   "ratio": 13.58
+  },
+  {
+   "text": "Cookie Policy",
+   "td": "none",
+   "fw": "400/400",
+   "c": "rgb(255, 255, 255)",
+   "pc": "rgb(46, 46, 46)",
+   "ratio": 13.58
+  },
+  {
+   "text": "Copyright Policy",
+   "td": "none",
+   "fw": "400/400",
+   "c": "rgb(255, 255, 255)",
+   "pc": "rgb(46, 46, 46)",
+   "ratio": 13.58
+  },
+  {
+   "text": "Do Not Sell My Info",
+   "td": "none",
+   "fw": "400/400",
+   "c": "rgb(255, 255, 255)",
+   "pc": "rgb(46, 46, 46)",
+   "ratio": 13.58
+  },
+  {
+   "text": "Request Opt In",
+   "td": "none",
+   "fw": "400/400",
+   "c": "rgb(255, 255, 255)",
+   "pc": "rgb(46, 46, 46)",
+   "ratio": 13.58
+  }
+ ],
+ "axe": {
+  "violations": [
+   {
+    "id": "button-name",
+    "impact": "critical",
+    "count": 6,
+    "nodes": [
+     {
+      "target": ".elementor-element-04d81a6 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-0905efa > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-8c72296 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-d61d7f6 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-126f7e9 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     },
+     {
+      "target": ".elementor-element-4a92e69 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .copy-icon-btn",
+      "html": "<button class=\"copy-icon-btn\">",
+      "data": null
+     }
+    ]
+   },
+   {
+    "id": "landmark-unique",
+    "impact": "moderate",
+    "count": 1,
+    "nodes": [
+     {
+      "target": ".penci_nav_right.penci_nav_flexrow.penci_nav_alignright > .pc-main-menu.pc-builder-menu.pc-builder-element > .menu-style-1.menu-item-normal.navigation",
+      "html": "<nav class=\"navigation menu-style-1 no-class menu-item-normal \" role=\"navigation\" itemscope=\"\" itemtype=\"https://schema.org/SiteNavigationElement\">",
+      "data": {
+       "role": "navigation",
+       "accessibleText": null
+      }
+     }
+    ]
+   },
+   {
+    "id": "region",
+    "impact": "moderate",
+    "count": 11,
+    "nodes": [
+     {
+      "target": ".penci_nav_left.penci_nav_flexrow.penci_nav_alignleft",
+      "html": "<div class=\"penci_nav_col penci_nav_left penci_nav_flexrow penci_nav_alignleft\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".pb-logo-sidebar-mobile",
+      "html": "<div class=\"pc-builder-element pc-logo pb-logo-sidebar-mobile penci-header-image-logo \">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-b09b394",
+      "html": "<div class=\"elementor-element elementor-element-b09b394 e-con-full e-flex e-con e-child\" data-id=\"b09b394\" data-element_type=\"container\" data-e-type=\"container\"",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-a90ce5d > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-04d81a6 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-0905efa > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\">",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-8c72296 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“To the woman who knows me better than anyone else: Happy Birthday. Thank you for the quiet moments of ",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-d61d7f6 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“Happy birthday to the person who has always been my safe place, my biggest cheerleader, and my anchor.",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-126f7e9 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“Wishing the happiest of birthdays to the best mom in the world. You’ve managed to survive raising me, ",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-element-4a92e69 > .elementor-widget-container > .penci-block-vc.penci-text-editor > .penci-block_content > .elementor-text-editor.elementor-clearfix",
+      "html": "<div class=\"elementor-text-editor elementor-clearfix\"><p>“Happy birthday to my incredible mom! Every day is an exciting adventure, and I owe this beautiful futu",
+      "data": {
+       "isIframe": false
+      }
+     },
+     {
+      "target": ".elementor-503",
+      "html": "<div data-elementor-type=\"wp-post\" data-elementor-id=\"503\" class=\"elementor elementor-503\">",
+      "data": {
+       "isIframe": false
+      }
+     }
+    ]
+   }
+  ],
+  "incomplete": [
+   {
+    "id": "color-contrast",
+    "impact": "serious",
+    "count": 1,
+    "nodes": [
+     {
+      "target": "#cookieconsent\\:desc",
+      "html": "<span id=\"cookieconsent:desc\" class=\"cc-message\">",
+      "data": {
+       "contrastRatio": 0,
+       "fontSize": "12.0pt (16px)",
+       "fontWeight": "normal",
+       "messageKey": "elmPartiallyObscuring",
+       "expectedContrastRatio": "4.5:1"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

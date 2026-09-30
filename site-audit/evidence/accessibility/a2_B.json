@@ -1,0 +1,166 @@
+{
+ "log": {
+  "path": "/birthday-messages-for-mom/",
+  "pageErrors": [],
+  "http": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "status": 200
+ },
+ "before": {
+  "offcanvasLeft": -330,
+  "bodyClass": [],
+  "active": "body.wp-singular.page-template.page-template-page-fullwidth",
+  "hbExpanded": null,
+  "close": {
+   "rect": [
+    0,
+    0,
+    390,
+    844
+   ],
+   "name": "Close"
+  }
+ },
+ "focusable": false,
+ "afterTap": {
+  "offcanvasLeft": 0,
+  "bodyClass": [
+   "open-mobile-builder-sidebar-nav"
+  ],
+  "active": "body.wp-singular.page-template.page-template-page-fullwidth",
+  "hbExpanded": null,
+  "close": {
+   "rect": [
+    330,
+    0,
+    60,
+    844
+   ],
+   "name": "Close"
+  }
+ },
+ "tabsWhileOpen": [
+  {
+   "el": "a.close-mobile-menu-builder.mpos-left",
+   "name": "Close",
+   "rect": [
+    330,
+    0,
+    60,
+    844
+   ],
+   "inVP": true,
+   "covered": 1,
+   "by": "div.cc-window.cc-floating.cc-type-info"
+  },
+  {
+   "el": "a",
+   "name": "",
+   "rect": [
+    92,
+    31,
+    146,
+    21
+   ],
+   "inVP": true,
+   "covered": 0,
+   "by": null
+  },
+  {
+   "el": "a",
+   "name": "HOME",
+   "rect": [
+    20,
+    100,
+    290,
+    43
+   ],
+   "inVP": true,
+   "covered": 0,
+   "by": null
+  },
+  {
+   "el": "a",
+   "name": "ABOUT US",
+   "rect": [
+    20,
+    144,
+    290,
+    43
+   ],
+   "inVP": true,
+   "covered": 0,
+   "by": null
+  },
+  {
+   "el": "a",
+   "name": "WHAT TO WRITE IN A CARD",
+   "rect": [
+    20,
+    188,
+    290,
+    43
+   ],
+   "inVP": true,
+   "covered": 0,
+   "by": null
+  },
+  {
+   "el": "a",
+   "name": "CONTACT US",
+   "rect": [
+    20,
+    232,
+    290,
+    43
+   ],
+   "inVP": true,
+   "covered": 0,
+   "by": null
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    183,
+    18,
+    22
+   ],
+   "inVP": true,
+   "covered": 3,
+   "by": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg.mpos-left"
+  },
+  {
+   "el": "button.copy-icon-btn",
+   "name": "",
+   "rect": [
+    35,
+    419,
+    18,
+    22
+   ],
+   "inVP": true,
+   "covered": 3,
+   "by": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg.mpos-left"
+  }
+ ],
+ "afterEscape": {
+  "offcanvasLeft": 0,
+  "bodyClass": [
+   "open-mobile-builder-sidebar-nav"
+  ],
+  "active": "button.copy-icon-btn",
+  "hbExpanded": null,
+  "close": {
+   "rect": [
+    330,
+    0,
+    60,
+    844
+   ],
+   "name": "Close"
+  }
+ }
+}
