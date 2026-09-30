@@ -1,0 +1,360 @@
+area,severity,title,verdict,affected urls,count,evidence,fix
+Functionality & UX,high,Broken and mismatched card links (CTAs): 40 links on 13 pages return 404,unverified,https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/ | https://blog.123greetings.com/mothers-day-messages-for-someone-who-lost-their-mom/ | https://blog.123greetings.com/mothers-day-messages-for-mother-in-law-what-to-write/ | https://blog.123greetings.com/happy-mothers-day-2026-messages-what-to-write-in-the-card/ | https://blog.123greetings.com/mothers-day-card-messages-for-grandma-funny-heartfelt/ | https://blog.123greetings.com/mothers-day-wishes-for-stepmom-50-heartfelt-card-messages/ | https://blog.123greetings.com/sorry-messages-for-coworkers-when-my-coworker-struggled-with-saying-sorry/ | https://blog.123greetings.com/love-messages-for-wife-the-thank-you-i-owed-my-wife-for-two-years/ | https://blog.123greetings.com/thank-you-card-messages-when-my-father-in-law-said-the-quiet-thing-out-loud/ | https://blog.123greetings.com/congratulations-card-messages-when-i-realized-id-quietly-let-an-old-friendship-drift/ | https://blog.123greetings.com/19th-may-your-week-with-bob/ | https://blog.123greetings.com/happiness-happens-day-messages/ | https://blog.123greetings.com/honey-month-messages/ | https://blog.123greetings.com/love-note-day-messages/ | https://blog.123greetings.com/st-francis-day-messages/ | https://blog.123greetings.com/sweetest-day-messages/,40,"links.json has 8 dead targets used 40 times across 13 pages. I re-checked the main ones live with curl.
+
+Mother's Day posts: the ""More Mother's Day Messages & Cards"" block on 6 posts has 5–6 arrow links each (""→ Mother's Day messages for your wife"", ""→ …for grandma"", etc.). All 32 of these point to the same URL, https://www.123greetings.com/blog/what-to-write-in-a-card, which returns 404; https://www.123greetings.com/blog/ is also 404 (shots/d_post_404_ctas.png).
+
+Other dead targets (all 404):
+- /events/sorry/
+- /events/thank_you/ (2 pages)
+- /events/congratulations/
+- /family/father/
+- /events/honey-month/ (the /events/honey_month/ variant is also 404)
+- a doubled URL: /events/national_vanilla_pudding_day/https://www.123greetings.com/events/national_vanilla_pudding_day/
+- internal link blog.123greetings.com/encouragement-inspiration-messages/
+
+Working targets exist for several of these (all 200, checked live): /general/sorry/, /thank_you/, /congratulations/, /events/national_vanilla_pudding_day/, /events/sweetest_day/.
+
+Mismatched links:
+- /love-note-day-messages/: ""Romantic Card"" goes to /tags/romantic_birthday_cards.html, a birthday category.
+- /sweetest-day-messages/: its only card link is /events/valentines_day/ (""Unlike Valentine's Day…""), although /events/sweetest_day/ exists.
+- /st-francis-day-messages/: links to https://www.123greetings.com/?utm_source=chatgpt.com.
+
+Redirect handling for old URLs is otherwise fine: http→https, missing trailing slash, ?p=8620 and a truncated slug all 301 once to the canonical URL.","1. Replace each /blog/what-to-write-in-a-card link with its specific blog page (e.g. ""Mother's Day messages for your wife"" → https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/).
+2. On www.123greetings.com, add a 301 from /blog/* to https://blog.123greetings.com/*.
+3. Retarget the other dead links:
+   - /events/sorry/ → /general/sorry/
+   - /events/thank_you/ → /thank_you/
+   - /events/congratulations/ → /congratulations/
+   - the doubled vanilla URL → /events/national_vanilla_pudding_day/
+   - encouragement-inspiration-messages → /inspiration-messages/
+   - romantic_birthday_cards → a love/romance category
+4. Add /events/sweetest_day/ to /sweetest-day-messages/.
+5. Remove the chatgpt UTM.
+6. Run a link check before publishing."
+Functionality & UX,high,"Message pages are dead ends: no breadcrumbs, no related messages, no in-content links",unverified,https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/national-tap-dance-day-messages/ | https://blog.123greetings.com/be-an-angel-day-messages/ | https://blog.123greetings.com/anniversary-messages-for-boyfriend/ | https://blog.123greetings.com/messages-for-50th-anniversary/,234,"234 of 242 message pages (pages.json, type=page with message blocks) have no link in the main content to any other blog page. Only 8 do: /everyday-messages/, /stepfamily-day-messages/, /happiness-happens-day-messages/, /national-relaxation-day-messages/, /national-day-of-encouragement-messages/, /wife-appreciation-day-messages/, /international-daughters-day-messages/, /congratulations-messages/.
+
+Example: every link on /birthday-messages-for-mom/ is one of these:
+- the 4 header items (repeated in 3 header copies and the off-canvas menu)
+- the hidden side-nav anchors
+- 6 legal footer links to www.123greetings.com
+
+There are no breadcrumbs, no ""more birthday messages"", no link back to /birthday-messages/, and no eCard link. The page ends after 7 messages (shots/d_mom_full.png).
+
+The header offers only Home, About Us, What to write in a card and Contact Us. The footer has only legal links. A visitor who arrives from search has to go back to the homepage or to /what-to-write-in-a-card/ to find a sibling page such as /birthday-message-for-dad/.","1. Enable Yoast breadcrumbs in the page template (Home › Birthday › For Mom).
+2. Add a template-level ""More [occasion] messages"" block that links the parent hub and 4–8 sibling pages, for example an Elementor Loop Grid filtered by a shared tag or parent page.
+3. Add a link back to the hub under the H1."
+Functionality & UX,high,"Most pages have no search box, and the site's own search skips all 242 message pages",unverified,https://blog.123greetings.com/?s=birthday | https://blog.123greetings.com/?s=tap+dance | https://blog.123greetings.com/?s=sympathy | https://blog.123greetings.com/?s=birthday+messages+for+mom | https://blog.123greetings.com/?s=zzqx | https://blog.123greetings.com/this-does-not-exist/ | https://blog.123greetings.com/ | https://blog.123greetings.com/what-to-write-in-a-card/ | https://blog.123greetings.com/birthday-messages-for-mom/,242,"The header has no search control at 1366px or at 390px: there is no search icon or form in the header DOM, and the off-canvas menu contains only 4 links. A search box is visible in only three places. (1) The homepage and (2) /what-to-write-in-a-card/ each have a Google Programmable Search box (""Search Messages"", div.gcse-search). (3) 404 pages have the theme's WordPress search form (pc-searchform). I fetched 40 page HTMLs (38 message pages, 1 post, the homepage) and only the homepage contained a search widget. The crawl found pc-searchform only on the 404 template.
+
+The WordPress search (the one the 404 page uses) returns posts only:
+- /?s=birthday: 10 results per page (page 2 exists), all posts (""Five Minutes With Bob"", ""…Weekly Bobcast"", etc.). /birthday-messages/ and /birthday-messages-for-mom/ are missing.
+- /?s=tap+dance: 2 posts; /national-tap-dance-day-messages/ is missing.
+- /?s=sympathy: 1 post; /sympathy-condolences-messages/ is missing.
+- /?s=birthday+messages+for+mom: 10 Mother's Day posts; /birthday-messages-for-mom/ is missing.
+
+The 404 page says ""Please use search for help"", but that search cannot return a message page.
+
+The zero-results page (/?s=zzqx) shows only ""Sorry, but nothing matched your search terms. Please try again with some different keywords."" It has no search field, no suggestions and no links, and it capitalises the query as ""Zzqx"" (shots/d_search_empty.png).
+
+The homepage Google search does find pages (""birthday mom"" gives 4 results including /birthday-messages-for-mom/). However, every result shows an extra underlined ""Structured data"" link (shots/RATE_LIMITED_CSS_MISSING__d_home_cse_results.png; the site's own CSS was rate-limited in that capture, but the Google results block rendered normally).","1. Add one search control to the desktop header and the mobile off-canvas menu, on every template.
+2. Use a single engine everywhere, and make it include message pages: remove the theme's posts-only search restriction (Soledad option or a pre_get_posts filter), or switch to Jetpack Search, or use Google search consistently.
+3. Point the 404 form and the results template at that same engine.
+4. On the zero-results template, show a search field and links to the top occasion hubs.
+5. Turn off the ""Structured data"" link in the Programmable Search control panel."
+Functionality & UX,medium,"""You may also like"" on every post shows the same 10 unrelated 'Bob' diary posts",unverified,https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/ | https://blog.123greetings.com/mothers-day-messages-for-someone-who-lost-their-mom/ | https://blog.123greetings.com/birthday-card-messages-when-my-brother-and-i-stopped-talking-about-things-that-mattered/,49,"Every one of the 49 posts in pages.json has the same related-posts carousel (.penci-related-carousel) under ""YOU MAY ALSO LIKE"": 7× ""Five Minutes With Bob"" and 3× ""Wake Up With Bob"", i.e. the 10 most recent diary posts.
+
+For example, the post ""Mother's Day Messages for Wife"" recommends ""Five Minutes With Bob, August 2, 2026"" and similar (shots/d_post_related.png, m_post_related.png).
+
+The cause is that all posts are in the single category ""123greetings"", so relating posts by category just returns the latest posts. Previous/next links do work (e.g. ""Heartfelt Mother's Day Messages…"" / ""What to Write in a Mother's Day Card…"").","Switch the Soledad related-posts source to tags, or to a custom taxonomy by occasion. Exclude the Bob diary series, or move it to its own category, and give the Mother's Day, Birthday and other posts proper categories."
+Functionality & UX,medium,/upcoming-events/ is a blank page but is listed in the sitemap,unverified,https://blog.123greetings.com/upcoming-events/,1,"The page returns 200 with the title ""Upcoming Events"". The content container is empty (innerHTML is 6 characters of whitespace), there is no H1, and the body text is only header and footer (259 characters).
+
+What a visitor sees:
+- Desktop: the header, then the footer directly underneath at y≈85, then a white screen (shots/d_upcoming_events.png).
+- Mobile: the header, the footer, and about 1,300px of white (shots/m_upcoming_events.png).
+
+The page is in the page sitemap and has 0 internal inlinks, so the only way in is from search engines.","Either build the events list (for example, upcoming occasions linking to their message pages), or unpublish the page, 301 it to /what-to-write-in-a-card/ and remove it from the sitemap."
+Functionality & UX,medium,141 of 242 message pages have no link to send a matching eCard,unverified,https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/national-tap-dance-day-messages/ | https://blog.123greetings.com/sympathy-condolences-messages/ | https://blog.123greetings.com/mothers-day-messages/ | https://blog.123greetings.com/thank-you-messages/ | https://blog.123greetings.com/graduation-messages/ | https://blog.123greetings.com/easter-messages/ | https://blog.123greetings.com/love-messages/,141,"pages.json: 141 of 242 message pages have no link in the main content to www.123greetings.com (the full list is in the ""Message pages without eCard CTA"" table). This includes the site's flagship pages:
+- all 31 /anniversary-messages-for-*/ pages
+- 37 /birthday-messages-for-*/ pages
+- the milestone birthday and anniversary pages
+- /mothers-day-messages/, /sympathy-condolences-messages/, /thank-you-messages/
+
+In the browser, /birthday-messages-for-mom/ has 0 www.123greetings.com links in content on desktop and on mobile. Matching card categories do exist; for example, https://www.123greetings.com/events/national_tap_dance_day/ (200) is linked from a Bob post but not from /national-tap-dance-day-messages/.","Add a CTA block to the message-page Elementor template, placed after the first 3–5 messages and again at the end: ""Send a free [occasion] eCard →"". Store its target URL in a per-page custom field so every page links to its matching www.123greetings.com category."
+Functionality & UX,medium,"Cookie banner covers 23% of the mobile screen and blocks search and back-to-top; closing with ""x"" counts as consent",unverified,https://blog.123greetings.com/ | https://blog.123greetings.com/birthday-messages/ | https://blog.123greetings.com/about-us/ | https://blog.123greetings.com/contact-us/,0,"The banner appears on first visit on every tested page.
+- Desktop: a 384x198 dialog at bottom-right.
+- Mobile: a full-width 390x198 dialog, 23.4% of the 390x844 viewport, position:fixed, z-index 2147483646. It stays on screen while scrolling until dismissed.
+
+What it covers on the mobile homepage:
+- The ""Search Messages"" box, which sits at y=800, inside the banner area (y=646–844).
+- The back-to-top button at (330,784). After scrolling to y=1500 I tapped back-to-top and the page did not move (scrollY stayed 1500), because the banner took the tap (shots/m_home_scrolled_1500.png, m_home_banner.png).
+
+Dismissal:
+- ""Accept"" sets cookieconsent_status=dismiss with a 1-year expiry. The banner did not reappear on the next pages (/about-us/ → /contact-us/).
+- Tapping ""x"" sets cookieconsent_status=allow, so closing the banner is recorded as consent.
+- There is no reject or settings option, and no revoke button (plugin config ""revokable"":""0"").
+- Google Analytics (GA4) collect requests fired before any choice was made (seen in the load log).
+- If the plugin script fails, no banner shows at all (see the JavaScript finding).","1. On mobile, use a compact bar (under about 15% of the viewport) with inline buttons.
+2. While the banner is visible, raise the back-to-top button above it.
+3. Make ""x"" behave as dismiss or deny, not allow; add Reject and a revoke link.
+4. Coordinate with the privacy reviewers on holding back analytics and ads until consent (e.g. Google Consent Mode)."
+Functionality & UX,medium,"Header has no mega menu or occasion links; the Soledad 'Mega Menu' and 'Footer' templates are public, indexable pages",unverified,https://blog.123greetings.com/ | https://blog.123greetings.com/penci-block/mega-menu/ | https://blog.123greetings.com/penci-block/footer/ | https://blog.123greetings.com/thank-you-messages/ | https://blog.123greetings.com/thankyou-messages/ | https://blog.123greetings.com/archive/,2,"Header menu:
+- 4 top-level items (Home, About Us, What to write in a card, Contact Us); all 4 return 200 and work.
+- Every <li> has the class ""ajax-mega-menu"", but none has a submenu. Hovering each item at 1366px revealed no dropdown or mega-menu panel. There are no ""#"" dead links in the header.
+- No header item leads to an occasion hub (Birthday, Anniversary, etc.). Hubs are reachable only from homepage tiles or from /what-to-write-in-a-card/.
+
+Template pages:
+- The Soledad block ""Mega Menu"" is a live page at /penci-block/mega-menu/: 200, meta robots ""index, follow"", showing 6 ""Five Minutes With Bob"" cards (shots/d_penci_block_mega_menu.png).
+- /penci-block/footer/ is also a live 200 page.
+
+Conflicting entry points: the homepage ""Thank You"" tile links to /thank-you-messages/ (""100+ Thank You Messages""), while ""Thank You"" on /what-to-write-in-a-card/ links to a different page, /thankyou-messages/ (""Heartfelt Thank You Messages, All Occasions"").
+
+Footer: only 6 legal links (Terms, Privacy, Cookie, Copyright, Do Not Sell, Opt In), all 200 on www.123greetings.com. There are no social-profile links anywhere on the site (links.json contains no facebook/instagram/pinterest URLs).
+
+Archives: /archive/ (""All Posts – Card Messages & Wishes"") has 0 inlinks and lists only Bob diary posts. Its ""Load More Posts"" button works (9 → 18 posts). Category pagination works (clicking ""3"" gives ""Page 3 of 5"" with 20 posts), author page 5 shows only a previous link, and /tag/bob/page/2–5 return 200.","1. Attach a real mega menu under ""What to write in a card"" listing the 15 occasion hubs, or add the top 4–5 occasions to the header.
+2. Exclude the penci_block post type from the front end and from search: set Yoast ""show in search results"" to No, or register it as non-public.
+3. Choose one Thank You hub and 301 the other.
+4. Add footer navigation (top occasions, archive, about/contact) and social profiles.
+5. Either link /archive/ from the site or retitle it to match what it lists."
+Functionality & UX,medium,"Keyboard users get no visible focus, hit invisible menu links, and cannot open the mobile menu",unverified,https://blog.123greetings.com/ | https://blog.123greetings.com/birthday-messages-for-mom/ | sitewide (all templates),0,"Desktop, tabbing from the top of the homepage:
+- The order is logo → Home → About Us → What to write in a card → Contact Us.
+- Then 5 more stops (logo, HOME, ABOUT US, WHAT TO WRITE IN A CARD, CONTACT US) land inside the closed off-canvas menu #penci_off_canvas, which sits off-screen at x=-310.
+- Only after that does focus reach the content (""123Greetings"", ""Read More"", the search box, trending links).
+
+Every focused link had `outline:none` and no box-shadow. In shots/d_home_focus_tab3.png, ""About Us"" has focus and looks exactly like the other items. There is no skip link.
+
+Mobile menu button: it is `<div class=""button-menu-mobile header-builder"">` with no role, tabindex, aria-label or aria-expanded, and it measures 24x31px. At mobile widths it cannot be reached or announced by assistive technology.
+
+Other controls:
+- Back-to-top is a non-focusable `<div class=""penci-go-to-top-floating"">`.
+- The message copy buttons are `<button class=""copy-icon-btn"">` with no aria-label. Their only text is a visibility:hidden tooltip, so they have no accessible name. They are 18x22px with outline:none.
+- The unused legacy #sidebar-nav contains focusable Facebook/Instagram/Whatsapp links with href=""#"" and target=_blank.
+
+The hamburger itself works with touch: it opens a 330px panel, locks body scroll, the X closes it, and the About link navigates (shots/m_menu_open.png).","1. Add :focus-visible outlines to links and buttons.
+2. Make the closed off-canvas panel inert, or visibility:hidden, so it drops out of the tab order.
+3. Replace the hamburger div with `<button aria-label=""Open menu"" aria-expanded>`, at least 44px.
+4. Make back-to-top a `<button aria-label=""Back to top"">`.
+5. Give copy buttons aria-label=""Copy message"".
+6. Add a skip-to-content link.
+7. Remove the legacy #sidebar-nav."
+Functionality & UX,medium,"Mobile jump menu: headings land under the sticky header, and the long menu pushes messages below the fold",unverified,https://blog.123greetings.com/birthday-messages/ | https://blog.123greetings.com/fathers-day-messages/ | https://blog.123greetings.com/4th-of-july-messages/ | https://blog.123greetings.com/everyday-messages/ | https://blog.123greetings.com/congratulations-messages/ | https://blog.123greetings.com/more-inspiration-messages/ | https://blog.123greetings.com/birthday-messages-for-teacher/ | https://blog.123greetings.com/canada-day-messages/ | https://blog.123greetings.com/new-baby-messages/,19,"19 hub pages show a visible jump menu. In the fetched HTML, every one of its anchors points to an id that exists on the page. The menus on /more-inspiration-messages/ are the one case I didn't verify in the browser (see the jump-menu table).
+
+Desktop (1366px) works:
+- /birthday-messages/: all 6 items click through, update the URL hash, and land the section at 100px, below the 80px sticky header.
+- /fathers-day-messages/: all 16 items do the same.
+- The menu stays in view while scrolling.
+
+Mobile (390x844):
+- The menu becomes a plain block above the H1 and does not stick.
+- On /fathers-day-messages/ it is 603px tall with 17 items. The H1 starts at y=774 and the first message at y=876, so no message is visible on the first screen (shots/m_fathers_day_top.png). 16 of the 17 items are 20px tall, under the 24px minimum target size.
+- After tapping ""By Milestone"" on /birthday-messages/, the section top lands at 34px while the fixed header covers 0–66px, so the heading is cut off (shots/m_birthday_hub_after_jump.png).
+- After tapping ""Funny Wishes"" on /fathers-day-messages/, the section top is again at 34px and the heading is completely hidden (shots/m_fathers_day_after_jump.png).
+- The only way back to the menu is the back-to-top button.","1. Add `html{scroll-padding-top:80px}`, or `scroll-margin-top:80px` on the section containers.
+2. Below 768px, collapse the menu into a ""Jump to section"" dropdown (<details>/<select>) or a horizontal row of scrolling chips.
+3. Make menu items at least 44px tall.
+4. Consider a small sticky ""Sections"" button."
+Functionality & UX,medium,"Mobile: content jumps 66px when the header becomes sticky, and injected copy buttons shift text on load",unverified,https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/halloween-messages/ | https://blog.123greetings.com/what-to-write-in-a-card/ | https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/ | https://blog.123greetings.com/contact-us/,0,"Header jump (mobile, 390x844), measured on /birthday-messages-for-mom/:
+- Scrolling from 60px to 70px switches .penci_navbar_mobile from position:static to fixed (adding the class ""mobile-sticky"").
+- Its wrapper collapses from 66px to 0px, and the visible H1's position in the document moves from 121px to 55px. The whole page jumps up 66px.
+- Each crossing records a 0.0782 layout shift. Three crossings gave a cumulative layout shift (CLS) of 0.2346 (shots/m_mom_scroll40_before_switch.png vs m_mom_scroll80_after_switch.png).
+- The same 0.0782 shift appeared on /halloween-messages/, /what-to-write-in-a-card/, the Mother's Day wife post and /contact-us/, so this is sitewide on mobile.
+
+Copy buttons: the inline ""Click to Copy"" snippet inserts a <button> before every message at DOMContentLoaded.
+- On mobile this shifted text by 0.0823 on /birthday-messages-for-mom/ (at 1.19s) and 0.0411 on /halloween-messages/ (at 1.34s). The sources were div.elementor-text-editor and div.penci-block_content.
+- Mobile CLS totals: 0.161 on /birthday-messages-for-mom/, 0.119 on /halloween-messages/, 0.101 on /what-to-write-in-a-card/.
+
+On desktop, the same pages measured 0.003–0.028, because desktop uses a separate sticky clone that slides in. I saw no shifts caused by ads.","1. Keep the 66px space when the mobile navbar becomes fixed: a placeholder div, a min-height on the wrapper, or position:sticky instead of toggling to fixed.
+2. Render the copy button in the Elementor template or with PHP, or reserve its space in CSS (e.g. `.msgs .penci-block_content{padding-left:28px}` with the button absolutely positioned), so nothing moves after load."
+Functionality & UX,low,"A hidden 'Emotions' template block on 138 message pages holds a duplicate H1, empty “” quotes and dead '#' anchors",unverified,https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/be-an-angel-day-messages/ | https://blog.123greetings.com/national-tap-dance-day-messages/ | https://blog.123greetings.com/thank-you-messages/ | https://blog.123greetings.com/at-work-messages/ | https://blog.123greetings.com/belated-anniversary-messages-for-sorry-i-forgot/,138,"Visitors never see this block. The container (e.g. elementor-element-396920a on /birthday-messages-for-mom/) has elementor-hidden-desktop, elementor-hidden-tablet and elementor-hidden-mobile, and only the mobile and tablet breakpoints are active in the Elementor settings, so it never renders.
+
+In the browser on desktop and mobile, /birthday-messages-for-mom/, /be-an-angel-day-messages/ and /national-tap-dance-day-messages/ each show exactly 1 visible H1 and 0 visible empty “” blocks (shots/d_mom_full.png). 18 of 18 sampled pages were hidden the same way.
+
+The HTML of each of the 138 pages still contains:
+- a second H1 (e.g. ""Birthday messages, for Mom"")
+- two empty “” paragraphs
+- a one-item ""Emotions"" jump link that is either href=""#"" (101 pages) or points to an id that doesn't exist (#n on /be-an-angel-day-messages/ and /thank-you-day-messages/, #fe on /thank-you-messages/, #r on /at-work-messages/, #f on /anniversary-messages-for-friends/)
+- placeholder labels such as ""abc"" (/belated-anniversary-messages-for-sorry-i-forgot/) and ""Nostalgic"" (/be-an-angel-day-messages/)
+
+The copy-button script also attaches 2 invisible buttons to these empty blocks.","Delete the hidden container from the Elementor template instead of hiding it with responsive visibility. Alternatively, finish it (real section ids and labels, no empty blocks) and show it. Either way, crawlers stop seeing the duplicate H1 and empty quotes."
+Functionality & UX,low,Contact and comment forms rely on placeholders instead of labels; reCAPTCHA badge hidden without the required notice,unverified,https://blog.123greetings.com/contact-us/ | https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/,50,"Contact form (/contact-us/, Contact Form 7):
+- The form has `novalidate`. Fields have no <label>, only placeholders (""Name*"", ""Email*"", ""Subject"", ""Your Message""), and ""required"" is set only via aria-required.
+- Validation happens in the browser when a field loses focus. Typing ""not-an-email"" and tabbing out showed ""The e-mail address entered is invalid.""; emptying Name showed ""The field is required."" (shots/d_contact_blur_validation.png).
+- Submit was not clicked: the form posts via AJAX, so clicking would send a request.
+- The reCAPTCHA v3 badge is present but visibility:hidden, and the page has no ""protected by reCAPTCHA / Privacy Policy / Terms"" text.
+
+Comment form (#commentform, on all 49 posts):
+- A textarea plus Name* and Email* inputs, placeholders only.
+- The email field is type=""text"", and name/email have neither required nor aria-required.
+- There is no cookies-consent checkbox. The heading reads ""LEAVE A COMMENT"" (shots/d_post_comment_form.png, m_post_comment_form.png).","1. Add visible <label>s.
+2. Use type=""email"" with autocomplete attributes (name, email), and add required.
+3. Because the reCAPTCHA badge is hidden, add Google's disclosure text under the contact form."
+Functionality & UX,low,"Copy-message button: copies the quote marks, gives no error feedback, and message pages have no share buttons",unverified,https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/,0,"Copying works both by desktop click and mobile tap: the icon turns into a checkmark with ""COPIED"" for 2 seconds (shots/d_mom_copy_clicked.png, m_mom_copy_tapped.png).
+
+Issues:
+- The clipboard text includes the typographic quotation marks. After clicking copy on the first message, the clipboard read `“Happy birthday to the woman who taught me everything I know, …`, starting with U+201C, so users paste the quote marks into their card.
+- The ""Copy"" tooltip only shows on :hover, not on keyboard focus.
+- The snippet calls navigator.clipboard.writeText() without awaiting it or catching errors, so ""Copied"" shows even if the write fails.
+- 9 buttons are created on /birthday-messages-for-mom/ but only 7 are visible; 2 sit inside the hidden template block.
+- Message pages have no share buttons.
+
+Posts have a ""Share"" hover dropdown with only WhatsApp and Copy Link. Copy Link correctly copies the post URL and opens no new tab (shots/d_post_share_hover.png).","1. Strip the wrapping quote marks before copying, e.g. `text.trim().replace(/^[“""]|[”""]$/g,'')`.
+2. Await writeText and show an error state if it fails.
+3. Show the tooltip on :focus-visible as well as hover.
+4. Add WhatsApp, email and Pinterest share buttons, per message or per page, to message pages."
+Functionality & UX,low,"The homepage 'initialise' error comes from the cookie plugin's inline script, which crashes when its library fails to load",unverified,https://blog.123greetings.com/,0,"Clean loads: I loaded 22 URLs one at a time on desktop and mobile, with first-party files served through a local cache to avoid rate-limit (429) errors. There were 0 uncaught exceptions. The only console errors came from third parties: ""requestStorageAccess: Permission denied."" from a third-party iframe, and a 401 on google.com/recaptcha/api2/pat on mobile.
+
+Root cause of the earlier homepage error: the inline script #nsc_bar_nice-cookie-consent_js-js-after runs `window.addEventListener(""load"",function(){ window.cookieconsent.initialise({...}) })` without checking that the Beautiful Cookie Consent 4.9.2 library, cookieNSCconsent.min.js, actually loaded. In browser.json that file had returned 429.
+
+Reproduced by forcing a 429 for that one file: `TypeError: Cannot read properties of undefined (reading 'initialise') at nsc_bar_nice-cookie-consent_js-js-after:2:66`, window.cookieconsent is undefined, and no consent banner renders.
+
+The same fragility showed during this audit when WordPress.com rate-limited static files while other audit agents shared our IP (25–47 static files returned 429 per homepage load). Missing files cascaded into more unguarded failures:
+- ""jQuery is not defined""
+- ""$(...).stickThis is not a function"" (_jb_static/??c5f2f102a4:17, when jq-sticky-anything.min.js 429'd)
+- ""Cannot read properties of undefined (reading 'setLocaleData')"" (wp-i18n-js-after)
+- ""wp is not defined""
+- Contact Form 7 index.js: ""reading 'i18n'""
+- Elementor: ""failed to load chunk background-video""
+
+The homepage also assigns `window.onload = function(){…}` to set the search placeholder, which overwrites any other window.onload handler.","1. Guard the init: `if (window.cookieconsent && window.cookieconsent.initialise) {…}`, or move it into the plugin's own file.
+2. Add similar existence checks to the theme's inline -after scripts (stickThis, wp.i18n).
+3. Replace the `window.onload` assignment with addEventListener('load', …).
+4. Reduce the number of separate static requests per page (enable Jetpack Boost concatenation for the remaining plugin JS/CSS) so partial load failures are less likely."
+Performance,critical,"Uncached HTML takes about 2.3 s to generate, and the edge cache keeps it for only 300 s, so mobile LCP is 3.9-6.8 s",unverified,"sitewide (HTML documents, 668 URLs) | https://blog.123greetings.com/ | https://blog.123greetings.com/birthday-messages/ | https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/mothers-day-messages/ | https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/ | https://blog.123greetings.com/tag/alps/",668,"curl samples, sequential with 2.5 s gaps and a Chrome navigation Accept header (script agent-work/performance/ttfb.sh, output ttfb.out). Uncached means a cache-busting ?perfaudit=<random> query string, or the first request after the page sat idle for about 5 minutes.
+- 21 MISS responses: server-timing 'cache;desc=MISS;dur=' median 2,283 ms (min 1,905, p90 2,432, max 5,537 on the post). Client TTFB median 2.46 s, max 6.02 s. Header x-nananana: Batcache-Set.
+- 15 edge HITs: dur 1-3 ms, TTFB median 169 ms (142-448).
+- HTML header is 'cache-control: max-age=300, must-revalidate'. Static assets, by contrast, get max-age=31536000 or 315360000.
+- The first request after about 3-7 minutes idle was a full MISS for 5 of 5 URLs: / 2,046 ms, /birthday-messages/ 2,011, /birthday-messages-for-mom/ 2,283, /mothers-day-messages/ 2,296, the post 2,424. /tag/alps/, requested about 3 minutes earlier, was a HIT.
+- All 7 Lighthouse mobile runs measured server response 1,873-2,520 ms. LCP breakdown shows TTFB as 38-62% of LCP (/archive/ TTFB 2,407 of 3,856 ms; / 2,483 of 4,632 ms).
+- The earlier crawl got x-ac STALE on 507 of 513 HTML responses and a fresh HIT on only 6, so pages are usually expired at the edge between visits.
+- Once the HTML was cached, Lighthouse desktop runs measured server response 77-88 ms.
+Repro: curl -s -o /dev/null -D - -H 'Accept: text/html' 'https://blog.123greetings.com/tag/alps/?x=123' | grep -i server-timing","1. Cut origin render time (target under 600 ms). Profile with Query Monitor on a MISS. Deactivate plugins whose assets load but are unused on these pages: penci-recipe, penci-review, testimonial-free, wpforms-form-locker, layout-grid, search-in-place, Jetpack PayPal and Search blocks. Reduce the Elementor/Soledad dynamic widgets that run queries per request (side-nav penci-advanced-list, latest-posts blocks). Check that the persistent object cache is hit.
+2. Lengthen HTML edge caching. Send a longer Cache-Control / s-maxage with stale-while-revalidate from a small mu-plugin. First confirm with WordPress.com support that the Atomic edge honours it; WP.com purges on publish, so staleness risk is low.
+3. Warm the cache for top landing pages (seasonal message pages) with a scheduled sitemap fetch before holidays.
+Expected: removes about 2 s from mobile FCP/LCP for every visitor who hits an expired page."
+Performance,critical,"reCAPTCHA v3 and Contact Form 7 assets load on every page (about 800 KiB and 0.75-1.9 s of main-thread time), but only /contact-us/ has a form",unverified,"sitewide (all page types: home, message pages, posts, archive, tag) | https://blog.123greetings.com/ | https://blog.123greetings.com/mothers-day-messages/ | https://blog.123greetings.com/archive/ | https://blog.123greetings.com/tag/alps/ | https://blog.123greetings.com/contact-us/",668,"Where the assets appear:
+- 39 of 39 saved raw HTML pages include google.com/recaptcha/api.js?render=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL plus 3 CF7 scripts (swv/index.js, includes/js/index.js, modules/recaptcha/index.js) and CF7 styles.css.
+- In the crawl, only 1 of 513 200-OK pages contains a .wpcf7 form (/contact-us/).
+
+Cost per page (Lighthouse mobile, all 7 tested pages):
+- reCAPTCHA makes 9-12 requests totalling 764-770 KiB, plus 34.6 KiB of Roboto from fonts.gstatic.com pulled by its anchor iframe.
+- recaptcha__en.js (347 KiB compressed, 828 KB decoded, 35% used per coverage) downloads twice: once in the page and once in the api2/anchor iframe (partitioned cache).
+- That is 45-62% of the bytes Lighthouse recorded: /tag/alps/ 803 of 1,243 KiB, /archive/ 803 of 1,501 KiB, / 804 of 2,001 KiB.
+- Main-thread time from reCAPTCHA is 753-1,886 ms per page, with 179-883 ms of it blocking. On / it is the single largest long-task source (541 ms task).
+
+A/B with Playwright (mobile, 4x CPU, same page, CF7 and reCAPTCHA blocked) on /:
+- ScriptDuration 2,046 -> 1,020 ms
+- TaskDuration 4,388 -> 2,553 ms
+- long tasks 17 -> 9
+- approx TBT 1,243 -> 642 ms
+
+Same A/B on /mothers-day-messages/: ScriptDuration 4,002 -> 3,189 ms, approx TBT 2,142 -> 1,645 ms.","Enqueue CF7 and reCAPTCHA only where a form is rendered:
+- add_filter('wpcf7_load_js','__return_false');
+- add_filter('wpcf7_load_css','__return_false');
+- On the contact page template, call wpcf7_enqueue_scripts(); wpcf7_enqueue_styles();
+- On wp_enqueue_scripts at priority 20 or later: if (!is_page('contact-us')) { wp_dequeue_script('google-recaptcha'); wp_dequeue_script('wpcf7-recaptcha'); }
+- Better still, load reCAPTCHA only when the contact form gets focus.
+Expected: about 800 KiB and 9-13 requests less on 667 of 668 URLs, and 0.75-1.9 s less main-thread time on mid-range mobile."
+Performance,high,"Message pages load a heavy ad and identity stack (truereach, GPT, Funding Choices, 7 ID-sync vendors) for one ad slot",unverified,"https://blog.123greetings.com/birthday-messages/ | https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/mothers-day-messages/ | all Elementor message pages (38 of 38 sampled HTML files include truereachAdRender.js; not on home, posts, archive or tag)",38,"What loads: 1437953666.rsc.cdn77.org/.../truereachAdRender.js (defer, cache max-age=600) injects securepubads gpt.js plus pubads_impl (213 KiB) and Funding Choices (15 requests, 106 KiB). It also pulls identity modules: cdn.id5-sync.com esp.js (35 KiB, 89% unused), static.criteo.net, tags.crwdcntrl.net, connectid.analytics.yahoo.com, dmp.im-apps.net, invstatic101.creativecdn.com (no-cache), esp.rtbhouse.com, and cdn.jsdelivr.net prebid pubcid.
+
+Lighthouse mobile on /mothers-day-messages/:
+- 44 ad/ID requests, 565 KiB
+- DoubleClick: 436 ms main-thread, 282 ms blocking
+- Funding Choices: 767 ms main-thread, 274 ms blocking
+- 27 third-party scripts, against 8 on the post, archive and tag pages
+
+Playwright after load and scroll: exactly one GPT slot (div-gpt-ad-1784526288594-0, /22081762831,46400095/123greetings_int). window.pbjs exists but has 0 adUnits.
+
+A/B (mobile, 4x CPU, ad stack blocked) on /mothers-day-messages/:
+- requests 125 -> 85
+- TaskDuration 7,181 -> 5,240 ms
+- ScriptDuration 4,002 -> 2,952 ms
+- approx TBT 2,142 -> 1,003 ms
+
+A second consent tool also loads on every page: beautiful-and-responsive-cookie-consent (17 KiB JS + CSS).","Delay truereach until after the load event plus idle time, or until first scroll or interaction. The single interstitial slot doesn't need to compete with first render. Ask the vendor to drop ID modules that aren't contracted (ID5, Criteo IDs, Lotame, Yahoo ConnectID, RTB House, AudienceSearch, creativecdn) and to serve the loader with a long cache TTL. Keep one CMP: Funding Choices or the NSC cookie banner, not both.
+Expected: about 40 fewer requests, about 560 KiB less, and about 1 s less TBT on message pages."
+Performance,high,"Render-blocking CSS: 34-40 stylesheets, a 1.3 MB main.css that is 98% unused, and 96 KB of inline CSS in every HTML page",unverified,sitewide | https://blog.123greetings.com/ | https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/,668,"Lighthouse mobile:
+- 38-44 render-blocking resources per page.
+- Estimated savings 2,480 ms (/), 2,850 (/birthday-messages/), 2,550 (mom), 2,700 (mothers-day), 3,120 (post), 2,900 (archive), 1,650 (tag).
+- jquery.min.js loads synchronously in <head> (656-954 ms estimated).
+
+main.css (?ver=8.7.6):
+- 176.5 KiB Brotli, 1,312 KB decoded, VeryHigh priority.
+- Unused-css audit: 98.4% unused. A 352 ms long task is attributed to parsing and styling it on /.
+
+Coverage on /birthday-messages-for-mom/ (Playwright, after full scroll):
+- 71 stylesheets, 2,111 KB of CSS decoded, 70 KB used (3.3%).
+- 0% used: roboto.css 100 KB, layout-grid 57.6 KB, inter.css 45 KB, robotoslab 23 KB, penci-recipe 22 KB, eicons 22 KB.
+- 1% used: two Font Awesome 4 stylesheets, 30 KB (theme) and 28 KB (testimonial-free).
+
+Inline CSS in HTML:
+- Every sampled HTML (39 files) carries 95.7-96.4 KB of inline CSS in 29-30 <style> blocks. That is about 53% of a 173-180 KB document.
+- Largest blocks: penci-custom-style 25.6 KB, global-styles 19.8 KB, header builder 10 KB, 7 Jetpack Search block styles about 22 KB.
+
+Main-thread 'Style & Layout' is 542-1,434 ms on mobile. On / the LCP 'render delay' phase is 1,412 ms (30% of LCP).","1. Enable Jetpack Boost 'Optimize CSS loading' (critical CSS). Boost is already installed (_jb_static bundles).
+2. In Soledad Performance settings, turn on the options that split or trim main.css, and turn off unused features.
+3. Dequeue plugin CSS on pages that don't use it: penci-recipe, penci-review, layout-grid, testimonial-free (4 files), wpforms-form-locker, mediaelement (2 files), jetpack-paypal-payments, search-in-place, social-counter, and the Jetpack Search block inline styles if Jetpack Search isn't used.
+4. Enable Elementor's 'Improved CSS Loading' and 'Inline Font Icons' features.
+5. Load jQuery in the footer or defer it (Boost 'Defer non-essential JavaScript').
+Expected: FCP and LCP about 1.5-3 s faster on mobile Slow-4G (Lighthouse estimate), plus 0.5-1 s less style/layout main-thread time."
+Performance,high,"Web fonts: 7 text families and 386-549 @font-face rules per page, only 4-10 faces used; theme fonts have no font-display",unverified,sitewide,668,"Elementor local Google Fonts CSS (render-blocking, font-display: swap):
+- roboto.css: 162 faces (weights 100-900 x normal/italic x 9 subsets), 100 KB decoded
+- robotoslab.css: 63 faces
+- inter.css: 126 faces
+- albertsans.css: 36 faces (message pages)
+
+Theme fonts via fonts-api.wp.com: two overlapping stylesheets (Montserrat 300-800 plus italics with 6 subsets, 60 faces; Montserrat and Poppins, 86 faces) plus Oswald 400 (5 faces). None has font-display. Lighthouse flags fonts.wp.com Montserrat/Poppins woff2 as invisible-text risk (475-602 ms each).
+
+Playwright document.fonts: 386-549 FontFace objects declared per page, 4-10 actually loaded. On /mothers-day-messages/ only FontAwesome, Montserrat 600, Poppins 400 and penciicon load. Roboto, Roboto Slab and Oswald are never used on the pages tested. Coverage shows 0% usage of roboto.css, robotoslab.css and inter.css on the mom page.
+
+Icon fonts: three Font Awesome builds (theme FA 4.7 with 75.9 KiB woff2, testimonial-free FA 4.6.3 CSS, Elementor FA5 CSS 57 KB decoded plus fa-regular 13.5 KiB), plus eicons, fontello, swiper-icons and penciicon. penci-icon.min.css lists the TTF before WOFF2, so the 20.5 KiB TTF downloads instead of the 16.9 KiB WOFF2.
+
+Preconnect hints point at fonts.googleapis.com and fonts.gstatic.com, which no page font uses. fonts.wp.com (the woff2 host) gets no hint.
+
+Font swaps cause shifts: Lighthouse desktop mom page 0.0275 + 0.0076 + 0.0006 attributed to 'Web font loaded'.","1. Elementor > Settings > Advanced: Google Fonts Load = Swap. Remove unused families from Site Settings > Global Fonts and theme defaults (Roboto, Roboto Slab, Inter, Albert Sans) or disable Elementor Google Fonts entirely. Limit subsets to latin.
+2. Soledad typography: use one body family and one heading family with 2-3 weights, and request with &display=swap (or self-host them).
+3. Replace preconnects with one to fonts.wp.com, or self-host.
+4. Drop duplicate Font Awesome builds (keep one, or switch to inline SVG icons).
+5. Reorder the penciicon src list so woff2 comes first.
+6. Preload the 1-2 critical woff2 files.
+Expected: 4 fewer render-blocking CSS requests (about 190 KB decoded @font-face CSS), no invisible text, and less font-swap CLS."
+Performance,medium,"Layout shifts: the sticky mobile header shifts content by 0.08 on first scroll on every page, and the logo has empty width/height",unverified,"sitewide (sticky header, 7 of 7 tested pages) | https://blog.123greetings.com/birthday-messages/ | https://blog.123greetings.com/archive/ | https://blog.123greetings.com/tag/alps/ | https://blog.123greetings.com/",668,"Sticky header (Playwright mobile 412x823, probe_cls.mjs):
+- On / and /tag/alps/, a layout-shift entry of 0.0802 (hadRecentInput=false) fires at scrollY=67.
+- Its sources are DIV.container (rect y 65 -> 0), DIV.container.penci-breadcrumb and SECTION.penci-section. The 66 px header DIV.penci_mobile_midbar.sticky-enable drops out of flow without a placeholder.
+- The same 0.08 shift appeared during scrolling on all 7 pages in the inventory pass.
+- Real-user CLS counts scroll-triggered shifts, because scrolling is not input.
+
+Logo: img.penci-mainlogo has width="""" and height="""" with CSS width/height auto and max-width 280px. On /birthday-messages/, Lighthouse mobile CLS is 0.136, of which 0.132 is a shift of div.container-single-page caused by this image ('Media element lacking an explicit size').
+
+Lighthouse load-only CLS: /archive/ 0.156, /tag/alps/ 0.156, /birthday-messages/ 0.136, / desktop 0.094 (hero plus font swaps). Adding the 0.08 scroll shift puts most pages above the 0.1 'good' threshold.","Keep the header's space reserved when it becomes fixed: wrap it in a container with min-height equal to the header height (66 px mobile), or use position: sticky instead of toggling position: fixed. Output width=""700"" height=""240"" on the logo <img>, or add CSS aspect-ratio: 700/240."
+Performance,medium,"The post template's LCP image is a CSS background, so the browser can't discover it early (mobile LCP 6.8 s)",unverified,https://blog.123greetings.com/mothers-day-messages-for-wife-what-she-actually-wants/ | likely all 49 posts using the Soledad single-post header (verified on this post),49,"The LCP element is span.attachment-penci-full-thumb.penci-single-featured-img, with inline style background-image: url(https://i0.wp.com/.../2026/04/may4th-husband-to-wife.webp?fit=585%2C329&ssl=1) and padding-top: 56.24%. The HTML has no <link rel=preload>.
+
+Lighthouse mobile LCP 6.82 s: TTFB 2,596 ms, load delay 3,343 ms (49%), load 812 ms, render 66 ms.
+Lighthouse desktop LCP 1.2 s, with 801 ms of load delay.
+
+The 585 px-wide image fills a 372 CSS-px slot on a 2.625 DPR phone (about 977 device px), so it is also blurry on mobile.","Render the featured image as <img> with srcset/sizes, fetchpriority=""high"" and no lazy-loading. Soledad has single-post header options for this; the span already carries penci-disable-lazy. Alternatively, print <link rel=""preload"" as=""image"" imagesrcset=... fetchpriority=""high""> for the featured image in wp_head on single posts."
+Performance,medium,"Unused JavaScript: Soledad library bundle 88% unused, two Swiper versions, 1st-party JS 75% unused",unverified,https://blog.123greetings.com/birthday-messages-for-mom/ | https://blog.123greetings.com/mothers-day-messages/ | sitewide (theme bundles),668,"Playwright JS coverage on /birthday-messages-for-mom/:
+- 70 scripts, 3.90 MB decoded, 35% executed.
+- First-party: 32 scripts, 1.06 MB, 25% used.
+- _jb_static/??43755b75c1 (98 KiB Brotli, 370 KB decoded) is 12% used. It bundles Swiper 11.0.5, Isotope, Jarallax, Magnific Popup, Theia sticky, Slick, imagesLoaded, fitvids, Masonry and a video controller.
+- _jb_static/??34692c1620 (47 KiB, 180 KB decoded) is 4% used and carries a second Swiper (8.3.2, from testimonial-free).
+
+Lighthouse bootup on /mothers-day-messages/: jquery.min.js accounts for 1,565 ms of script time (handlers run through jQuery). Most message pages have 20-25 first-party scripts, loaded synchronously at the end of body.
+
+Also loaded everywhere: wp-emoji-release.min.js (5.8 KiB plus 3 KB inline module), wp-polyfill, comment-reply, and sticky-menu-or-anything (a third sticky implementation next to Soledad and Theia).","In Soledad Performance settings, disable the features and libraries the site doesn't use (masonry/isotope, jarallax parallax, magnific lightbox, theia sticky sidebar, slick). Remove testimonial-free if no testimonials render (it adds Swiper 8, FA and fontello). Enable Jetpack Boost 'Defer non-essential JavaScript'. Disable emoji scripts (remove_action('wp_head','print_emoji_detection_script',7)). Remove the sticky-menu plugin if the theme's sticky header is used."
+Performance,low,"Homepage loads Google Programmable Search (CSE) upfront, and every page carries Jetpack Search CSS",unverified,https://blog.123greetings.com/,1,"Lighthouse mobile on /:
+- cse.google.com/cse.js, cse_element__en.js (127 KiB, 55% unused), adsense/search/async-ads.js (45 KiB, 73% unused), default_v6 CSS and more: 7 requests, 195 KiB.
+- 426 ms main-thread, 112 ms blocking.
+- Pulls adtrafficquality/sodar (about 23 KiB).
+- The CSE widget holds the deepest DOM on the page (depth 25, nested tables).
+
+Every page also inlines 7 Jetpack Search block styles, about 22 KB.","Load CSE only when the search box gets focus or is clicked, or use the site's own search. Dequeue Jetpack Search block styles if Jetpack Search isn't used."
+Performance,low,Oversized logo (2 copies) and a 37 KB JPEG favicon at high priority on every page,unverified,sitewide,668,"The logo /wp-content/uploads/2026/04/123greetings.webp (39.7 KB, 700x240) comes straight from origin, not Photon, with no srcset. It appears twice in the header and renders at 131-146 CSS px wide on mobile (Lighthouse layout: 280 px), about 1.8-2x larger than needed at DPR 2.625.
+
+cropped-favicon.jpg is a 37.2 KiB JPEG fetched at High priority on every uncached visit.
+
+Apart from these, images are in good shape:
+- 60-140 KiB of images per page
+- 3,440 of 3,731 crawled image references are WebP
+- the homepage hero uses loading=eager, fetchpriority=high and width/height
+- Photon serves WebP with a 2-year cache","Export the logo at about 300x103 (about 2x rendered size) or serve it through Photon with srcset. Add width/height (see the CLS finding). Replace the favicon with a 32/48 px PNG or ICO under 5 KB, plus an SVG icon."
+Performance,low,"Three analytics beacons: GA4 gtag.js (173 KiB), Jetpack Stats and WP.com bilmur",unverified,sitewide,668,"www.googletagmanager.com/gtag/js?id=G-R56NTBBBCB is 173 KiB compressed and 517 KB decoded (49% used). Lighthouse mobile: 278-577 ms main-thread and 147-418 ms blocking per page (/archive/ 577/418, / 545/394).
+
+stats.wp.com e-202640.js, s0.wp.com bilmur.min.js and pixel.wp.com are cheap together: 3 requests, 7.8 KiB, under 3 ms blocking.",Delay gtag until after load or idle (or load through the consent tool once consent is given). Configure GA4 so it doesn't also run enhanced-measurement features the site doesn't use. Keep Jetpack Stats only if it's used.

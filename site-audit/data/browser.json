@@ -1,0 +1,3831 @@
+[
+ {
+  "path": "/",
+  "viewport": "desktop",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [
+   "TypeError: Cannot read properties of undefined (reading 'initialise')"
+  ],
+  "failed": [],
+  "httpErrors": [
+   "429 https://blog.123greetings.com/wp-content/uploads/elementor/google-fonts/fonts/inter-6ab57b19.woff2",
+   "429 https://blog.123greetings.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7",
+   "429 https://blog.123greetings.com/wp-content/plugins/beautiful-and-responsive-cookie-consent/public/cookieNSCconsent.min.js?ver=4.9.2"
+  ],
+  "requests": 114,
+  "bytes": 1671837,
+  "status": 200,
+  "loadMs": 3695,
+  "title": "Card Messages & What to Write in a Card | 123Greetings Blog",
+  "domContentLoaded": 2713,
+  "loadEvent": 3687,
+  "transferKB": 1221,
+  "resourceCount": 100,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "i0.wp.com",
+   "cse.google.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com",
+   "clients1.google.com",
+   "ep1.adtrafficquality.google",
+   "ep2.adtrafficquality.google"
+  ],
+  "imageCount": 11,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 26,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   }
+  ],
+  "visibleHashLinks": 1,
+  "h1": [
+   "The message you write on a card is often the icing on the cake. A beautiful card captures the moment, but the words inside make it truly personal and memorable."
+  ],
+  "bodyTextLen": 2515,
+  "screenshot": "screenshots/desktop_home.png"
+ },
+ {
+  "path": "/archive/",
+  "viewport": "desktop",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "429 https://blog.123greetings.com/_jb_static/??79b8b36027"
+  ],
+  "requests": 93,
+  "bytes": 1730103,
+  "status": 200,
+  "loadMs": 1722,
+  "title": "All Posts – Card Messages & Wishes | 123Greetings Blog",
+  "domContentLoaded": 1350,
+  "loadEvent": 1714,
+  "transferKB": 233,
+  "resourceCount": 82,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 27,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 1,
+  "h1": [
+   "Our Archive"
+  ],
+  "bodyTextLen": 1396,
+  "screenshot": "screenshots/desktop_archive.png"
+ },
+ {
+  "path": "/upcoming-events/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 84,
+  "bytes": 1557283,
+  "status": 200,
+  "loadMs": 4121,
+  "title": "Upcoming Events - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3660,
+  "loadEvent": 4118,
+  "transferKB": 41,
+  "resourceCount": 73,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 9,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [],
+  "bodyTextLen": 367,
+  "screenshot": "screenshots/desktop_upcoming_events.png"
+ },
+ {
+  "path": "/what-to-write-in-a-card/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either t",
+   "warning: [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155",
+   "warning: [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 141,
+  "bytes": 1983783,
+  "status": 200,
+  "loadMs": 2928,
+  "title": "What to Write in a Card - Messages for Every Occasion.",
+  "domContentLoaded": 1078,
+  "loadEvent": 2923,
+  "transferKB": 490,
+  "resourceCount": 127,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "cse.google.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "clients1.google.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "dmp.im-apps.net",
+   "connectid.analytics.yahoo.com",
+   "cdn.jsdelivr.net",
+   "tags.crwdcntrl.net",
+   "invstatic101.creativecdn.com",
+   "cdn.id5-sync.com",
+   "static.criteo.net",
+   "b215a349c56e2bf03c4e45a19a1b7667.safeframe.googlesyndication.com",
+   "sync6.im-apps.net",
+   "esp.rtbhouse.com",
+   "id5-sync.com",
+   "bcp.crwdcntrl.net",
+   "pagead2.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "ep2.adtrafficquality.google",
+   "gum.criteo.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 41,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Every Relationship Is Worthy Of A Special Message"
+  ],
+  "bodyTextLen": 1498,
+  "screenshot": "screenshots/desktop_what_to_write_in_a_card.png"
+ },
+ {
+  "path": "/birthday-messages/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [
+   "net::ERR_BLOCKED_BY_ORB https://fundingchoicesmessages.google.com/f/AGSKWxU6iZZe-vyJaoYZEniEi8Hehy_RgANSlu4GC6QnAJb1utX-NaBMV0vI8ACvXtLCGN36qQpsGKV5mSW9Ur1QiVvZyxxWMwZdS64UNIq1xopKHCvUQIWqfuwmAKxBSz3YvoThfWDG8jmdp2_3IxZSg9W8"
+  ],
+  "httpErrors": [],
+  "requests": 125,
+  "bytes": 2127810,
+  "status": 200,
+  "loadMs": 2594,
+  "title": "500+ Birthday Messages — Heartfelt, Funny & Unique Wishes",
+  "domContentLoaded": 1217,
+  "loadEvent": 2575,
+  "transferKB": 409,
+  "resourceCount": 112,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "3672f8d299fd71d53965fe360c089b8f.safeframe.googlesyndication.com",
+   "pagead2.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "ep2.adtrafficquality.google",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 12,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 72,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.elementor-element.elementor-element-5440041",
+    "h": 750,
+    "w": 355,
+    "top": 102
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Birthday Messages, Wishes & Card Ideas"
+  ],
+  "bodyTextLen": 1544,
+  "screenshot": "screenshots/desktop_birthday_messages.png"
+ },
+ {
+  "path": "/birthday-messages-for-mom/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 122,
+  "bytes": 1943735,
+  "status": 200,
+  "loadMs": 2079,
+  "title": "115+ Birthday Messages for Mom — Heartfelt, Funny & Sweet",
+  "domContentLoaded": 987,
+  "loadEvent": 2076,
+  "transferKB": 151,
+  "resourceCount": 108,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "df371e36e921ef1cbd56e478e6a8d493.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 16,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Birthday messages, for Mom",
+   "Birthday Messages For Mom"
+  ],
+  "bodyTextLen": 1995,
+  "screenshot": "screenshots/desktop_birthday_messages_for_mom.png"
+ },
+ {
+  "path": "/national-tap-dance-day-messages/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 122,
+  "bytes": 1999080,
+  "status": 200,
+  "loadMs": 2010,
+  "title": "30+ National Tap Dance Day Messages & Wishes (May 25)",
+  "domContentLoaded": 873,
+  "loadEvent": 2007,
+  "transferKB": 203,
+  "resourceCount": 108,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "208bd53d55e2013c250895c6656da803.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 13,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "National Tap Dance Day Messages",
+   "National Tap Dance Day Messages"
+  ],
+  "bodyTextLen": 782,
+  "screenshot": "screenshots/desktop_national_tap_dance_day_messages.png"
+ },
+ {
+  "path": "/anniversary-messages/",
+  "viewport": "desktop",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "429 https://blog.123greetings.com/_jb_static/??6e03354057"
+  ],
+  "requests": 128,
+  "bytes": 2073179,
+  "status": 200,
+  "loadMs": 4768,
+  "title": "250+ Anniversary Messages — Heartfelt Wishes for Everyone",
+  "domContentLoaded": 3656,
+  "loadEvent": 4765,
+  "transferKB": 173,
+  "resourceCount": 114,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "14dbe51afb7a3e8ff6a5a76b4b714b9a.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "csi.gstatic.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 13,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 68,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.elementor-element.elementor-element-58e8104d",
+    "h": 750,
+    "w": 355,
+    "top": 102
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Anniversary Messages, Wishes & Card Ideas"
+  ],
+  "bodyTextLen": 1400,
+  "screenshot": "screenshots/desktop_anniversary_messages.png"
+ },
+ {
+  "path": "/halloween-messages/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 125,
+  "bytes": 2009944,
+  "status": 200,
+  "loadMs": 2514,
+  "title": "Halloween Messages & Wishes: Spooky, Funny & Fun",
+  "domContentLoaded": 1501,
+  "loadEvent": 2510,
+  "transferKB": 170,
+  "resourceCount": 111,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "2f6b164bcc1fb398338a4d40accf647c.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "ep2.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 21,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Halloween Messages"
+  ],
+  "bodyTextLen": 1783,
+  "screenshot": "screenshots/desktop_halloween_messages.png"
+ },
+ {
+  "path": "/thanksgiving-day-messages/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 125,
+  "bytes": 2009821,
+  "status": 200,
+  "loadMs": 4477,
+  "title": "Thanksgiving Day Messages & Wishes | Happy Thanksgiving",
+  "domContentLoaded": 3377,
+  "loadEvent": 4475,
+  "transferKB": 151,
+  "resourceCount": 111,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "d705f5e57c34d6ac68d63c2496989bed.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 14,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Thanksgiving Day Messages"
+  ],
+  "bodyTextLen": 1633,
+  "screenshot": "screenshots/desktop_thanksgiving_day_messages.png"
+ },
+ {
+  "path": "/sympathy-condolences-messages/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 122,
+  "bytes": 1943720,
+  "status": 200,
+  "loadMs": 1967,
+  "title": "100+ Condolence Messages — Comforting Words of Sympathy",
+  "domContentLoaded": 855,
+  "loadEvent": 1964,
+  "transferKB": 138,
+  "resourceCount": 108,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "cm.g.doubleclick.net",
+   "87069215733c10ba31aad49a6dd6de0f.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 19,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Sympathy & Condolences Messages",
+   "Sympathy & Condolences Messages"
+  ],
+  "bodyTextLen": 2096,
+  "screenshot": "screenshots/desktop_sympathy_condolences_messages.png"
+ },
+ {
+  "path": "/mothers-day-messages-for-wife-what-she-actually-wants/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 93,
+  "bytes": 1654431,
+  "status": 200,
+  "loadMs": 1542,
+  "title": "Mother’s Day Messages for Wife: What She Actually Wants - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 1205,
+  "loadEvent": 1539,
+  "transferKB": 140,
+  "resourceCount": 78,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 9,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 28,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Mother’s Day Messages for Wife: What She Actually Wants"
+  ],
+  "bodyTextLen": 8912,
+  "screenshot": "screenshots/desktop_mothers_day_messages_for_wife_what_she_actually_wants.png"
+ },
+ {
+  "path": "/five-minutes-with-bob-2nd-august/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 91,
+  "bytes": 1617979,
+  "status": 200,
+  "loadMs": 1083,
+  "title": "An Unusual Luxury | Five Minutes With Bob",
+  "domContentLoaded": 736,
+  "loadEvent": 1081,
+  "transferKB": 82,
+  "resourceCount": 77,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 9,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 21,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Five Minutes With Bob"
+  ],
+  "bodyTextLen": 3273,
+  "screenshot": "screenshots/desktop_five_minutes_with_bob_2nd_august.png"
+ },
+ {
+  "path": "/tag/alps/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 87,
+  "bytes": 1595677,
+  "status": 200,
+  "loadMs": 1405,
+  "title": "Alps Archives - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 902,
+  "loadEvent": 1401,
+  "transferKB": 189,
+  "resourceCount": 76,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "i0.wp.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 11,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Alps"
+  ],
+  "bodyTextLen": 549,
+  "screenshot": "screenshots/desktop_tag_alps.png"
+ },
+ {
+  "path": "/category/123greetings/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 91,
+  "bytes": 1743209,
+  "status": 200,
+  "loadMs": 3424,
+  "title": "123greetings Archives - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3030,
+  "loadEvent": 3420,
+  "transferKB": 182,
+  "resourceCount": 80,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "i0.wp.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 20,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "123greetings"
+  ],
+  "bodyTextLen": 1496,
+  "screenshot": "screenshots/desktop_category_123greetings.png"
+ },
+ {
+  "path": "/contact-us/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 92,
+  "bytes": 1617537,
+  "status": 200,
+  "loadMs": 2240,
+  "title": "Contact 123Greetings Blog – Suggest a Topic or Get in Touch",
+  "domContentLoaded": 1512,
+  "loadEvent": 2221,
+  "transferKB": 97,
+  "resourceCount": 79,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "i0.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 1,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 9,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "Contact Us"
+  ],
+  "bodyTextLen": 838,
+  "screenshot": "screenshots/desktop_contact_us.png"
+ },
+ {
+  "path": "/about-us/",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 95,
+  "bytes": 1610615,
+  "status": 200,
+  "loadMs": 2014,
+  "title": "About 123Greetings Blog – The People Behind the Cards",
+  "domContentLoaded": 1633,
+  "loadEvent": 2011,
+  "transferKB": 191,
+  "resourceCount": 86,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "i0.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 11,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "About Us"
+  ],
+  "bodyTextLen": 1486,
+  "screenshot": "screenshots/desktop_about_us.png"
+ },
+ {
+  "path": "/?s=birthday",
+  "viewport": "desktop",
+  "console": [
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [],
+  "requests": 93,
+  "bytes": 1746183,
+  "status": 200,
+  "loadMs": 4047,
+  "title": "You searched for birthday - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3491,
+  "loadEvent": 4044,
+  "transferKB": 180,
+  "resourceCount": 81,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "i0.wp.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 18,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [
+   "\"Birthday\""
+  ],
+  "bodyTextLen": 1916,
+  "screenshot": "screenshots/desktop_s_birthday.png"
+ },
+ {
+  "path": "/this-page-does-not-exist-audit-check/",
+  "viewport": "desktop",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "error: Failed to load resource: the server responded with a status of 429 (Too Many Requests)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "404 https://blog.123greetings.com/this-page-does-not-exist-audit-check/",
+   "429 https://blog.123greetings.com/_jb_static/??34692c1620",
+   "429 https://blog.123greetings.com/_jb_static/??c5f2f102a4",
+   "429 https://blog.123greetings.com/_jb_static/??4251e2f9f7"
+  ],
+  "requests": 86,
+  "bytes": 1561082,
+  "status": 404,
+  "loadMs": 3790,
+  "title": "Page not found - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3383,
+  "loadEvent": 3787,
+  "transferKB": 36,
+  "resourceCount": 75,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 10,
+  "fixedElements": [
+   {
+    "el": "div#.penci_header.penci-header-builder",
+    "h": 80,
+    "w": 1366,
+    "top": -80
+   },
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 900,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 920
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 900,
+    "w": 1366,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 826
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 384,
+    "top": 686
+   }
+  ],
+  "visibleHashLinks": 0,
+  "h1": [],
+  "bodyTextLen": 459,
+  "screenshot": "screenshots/desktop_this_page_does_not_exist_audit_check.png"
+ },
+ {
+  "viewport": "desktop",
+  "checks": {
+   "sideMenu": {
+    "visibleHashLinks": 0,
+    "sample": []
+   },
+   "search": {
+    "searchInputs": 0,
+    "visibleSearch": 0,
+    "searchToggle": 0,
+    "searchResults": {
+     "title": "You searched for birthday - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+     "articles": 20,
+     "text": "Home\nAbout Us\nWhat to write in a card\nContact Us\nHOME\nABOUT US\nWHAT TO WRITE IN A CARD\nCONTACT US\nSearch Results For \"Birthday\"\nBirthday Card Messages: When My Brother and I Stopped Talking About Things That Mattered\nMay 15, 2026\n\nI was at the hardware store last Sunday and walked past the cordless drills my brother used to swear by. …\n\nREAD MORE\nFive Minutes With Bob\nAugust 1, 2026\n\nI woke up smi"
+    },
+    "noResultsMessage": "Sorry"
+   },
+   "contactForm": {
+    "found": true,
+    "cls": "wpcf7-form init",
+    "fields": [
+     {
+      "name": "your-name",
+      "type": "text",
+      "required": true,
+      "labelled": true
+     },
+     {
+      "name": "your-email",
+      "type": "email",
+      "required": true,
+      "labelled": true
+     },
+     {
+      "name": "your-subject",
+      "type": "text",
+      "required": false,
+      "labelled": true
+     },
+     {
+      "name": "your-message",
+      "type": "textarea",
+      "required": true,
+      "labelled": true
+     },
+     {
+      "name": "",
+      "type": "submit",
+      "required": false,
+      "labelled": false
+     },
+     {
+      "name": "_wpcf7_ak_hp_textarea",
+      "type": "textarea",
+      "required": false,
+      "labelled": true
+     }
+    ]
+   },
+   "notFound": {
+    "status": 404,
+    "title": "Page not found - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+    "hasSearch": true,
+    "text": "Home\nAbout Us\nWhat to write in a card\nContact Us\nHOME\nABOUT US\nWHAT TO WRITE IN A CARD\nCONTACT US\n\nOOPS! Page you're looking for doesn't exist. Please use search for help\n\nBACK TO HOME PAGE\n\nCopyright © 123Greetings.com, Inc. All rights reserved.\n\nTerms of Use\n \nPrivacy Policy\n \nCookie Policy\n \nCopy"
+   }
+  }
+ },
+ {
+  "path": "/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 115,
+  "bytes": 1755556,
+  "status": 200,
+  "loadMs": 5888,
+  "title": "Card Messages & What to Write in a Card | 123Greetings Blog",
+  "domContentLoaded": 5042,
+  "loadEvent": 5883,
+  "transferKB": 1330,
+  "resourceCount": 100,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "i0.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "cse.google.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com",
+   "clients1.google.com",
+   "ep1.adtrafficquality.google",
+   "ep2.adtrafficquality.google"
+  ],
+  "imageCount": 11,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 29,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 4,
+  "h1": [
+   "The message you write on a card is often the icing on the cake. A beautiful card captures the moment, but the words inside make it truly personal and memorable."
+  ],
+  "bodyTextLen": 2583,
+  "screenshot": "screenshots/mobile_home.png"
+ },
+ {
+  "path": "/archive/",
+  "viewport": "mobile",
+  "console": [
+   "error: [Report Only] Refused to frame 'https://www.google.com/' because an ancestor violates the following Content Security Policy directive: \"frame-ancestors 'self'\".\n",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [
+   "net::ERR_BLOCKED_BY_ORB https://csp.withgoogle.com/csp/frame-ancestors/38fac9d5b82543fc4729580d18ff2d3d"
+  ],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 93,
+  "bytes": 1674097,
+  "status": 200,
+  "loadMs": 4437,
+  "title": "All Posts – Card Messages & Wishes | 123Greetings Blog",
+  "domContentLoaded": 3799,
+  "loadEvent": 4428,
+  "transferKB": 155,
+  "resourceCount": 82,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com",
+   "csp.withgoogle.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 30,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 4,
+  "h1": [
+   "Our Archive"
+  ],
+  "bodyTextLen": 1356,
+  "screenshot": "screenshots/mobile_archive.png"
+ },
+ {
+  "path": "/upcoming-events/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 87,
+  "bytes": 1566805,
+  "status": 200,
+  "loadMs": 3883,
+  "title": "Upcoming Events - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3253,
+  "loadEvent": 3849,
+  "transferKB": 41,
+  "resourceCount": 74,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 12,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [],
+  "bodyTextLen": 327,
+  "screenshot": "screenshots/mobile_upcoming_events.png"
+ },
+ {
+  "path": "/what-to-write-in-a-card/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "warning: Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either t",
+   "warning: [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155",
+   "warning: [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 145,
+  "bytes": 2003801,
+  "status": 200,
+  "loadMs": 5542,
+  "title": "What to Write in a Card - Messages for Every Occasion.",
+  "domContentLoaded": 3357,
+  "loadEvent": 5535,
+  "transferKB": 450,
+  "resourceCount": 129,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "1437953666.rsc.cdn77.org",
+   "s0.wp.com",
+   "cse.google.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "clients1.google.com",
+   "fundingchoicesmessages.google.com",
+   "dmp.im-apps.net",
+   "connectid.analytics.yahoo.com",
+   "cdn.jsdelivr.net",
+   "tags.crwdcntrl.net",
+   "invstatic101.creativecdn.com",
+   "cdn.id5-sync.com",
+   "static.criteo.net",
+   "0d01da2e0d00192a7f89ffa341edc70e.safeframe.googlesyndication.com",
+   "pagead2.googlesyndication.com",
+   "c.ltmsphrcl.net",
+   "sync6.im-apps.net",
+   "id5-sync.com",
+   "ep1.adtrafficquality.google",
+   "esp.rtbhouse.com",
+   "csi.gstatic.com",
+   "ep2.adtrafficquality.google",
+   "gum.criteo.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 52,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Every Relationship Is Worthy Of A Special Message"
+  ],
+  "bodyTextLen": 1458,
+  "screenshot": "screenshots/mobile_what_to_write_in_a_card.png"
+ },
+ {
+  "path": "/birthday-messages/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 126,
+  "bytes": 2114639,
+  "status": 200,
+  "loadMs": 4696,
+  "title": "500+ Birthday Messages — Heartfelt, Funny & Unique Wishes",
+  "domContentLoaded": 3710,
+  "loadEvent": 4690,
+  "transferKB": 338,
+  "resourceCount": 111,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "7a5eeab7270b24a51cc18a3f166b19b4.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "ep2.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 12,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 75,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Birthday Messages, Wishes & Card Ideas"
+  ],
+  "bodyTextLen": 1504,
+  "screenshot": "screenshots/mobile_birthday_messages.png"
+ },
+ {
+  "path": "/birthday-messages-for-mom/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 121,
+  "bytes": 1975939,
+  "status": 200,
+  "loadMs": 4562,
+  "title": "115+ Birthday Messages for Mom — Heartfelt, Funny & Sweet",
+  "domContentLoaded": 3502,
+  "loadEvent": 4559,
+  "transferKB": 196,
+  "resourceCount": 106,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "a55538219a786a8089d8aaff9af1a789.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 19,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Birthday messages, for Mom",
+   "Birthday Messages For Mom"
+  ],
+  "bodyTextLen": 1955,
+  "screenshot": "screenshots/mobile_birthday_messages_for_mom.png"
+ },
+ {
+  "path": "/national-tap-dance-day-messages/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 124,
+  "bytes": 1948403,
+  "status": 200,
+  "loadMs": 4418,
+  "title": "30+ National Tap Dance Day Messages & Wishes (May 25)",
+  "domContentLoaded": 3312,
+  "loadEvent": 4414,
+  "transferKB": 137,
+  "resourceCount": 109,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "56d81f1a220377628fa4d374c38e4c51.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "csi.gstatic.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 16,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "National Tap Dance Day Messages",
+   "National Tap Dance Day Messages"
+  ],
+  "bodyTextLen": 742,
+  "screenshot": "screenshots/mobile_national_tap_dance_day_messages.png"
+ },
+ {
+  "path": "/anniversary-messages/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 126,
+  "bytes": 2028528,
+  "status": 200,
+  "loadMs": 5013,
+  "title": "250+ Anniversary Messages — Heartfelt Wishes for Everyone",
+  "domContentLoaded": 3827,
+  "loadEvent": 5009,
+  "transferKB": 143,
+  "resourceCount": 111,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "ea53c18242c43c384d5400621dacd659.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 13,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 71,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Anniversary Messages, Wishes & Card Ideas"
+  ],
+  "bodyTextLen": 1360,
+  "screenshot": "screenshots/mobile_anniversary_messages.png"
+ },
+ {
+  "path": "/halloween-messages/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 127,
+  "bytes": 2026393,
+  "status": 200,
+  "loadMs": 4368,
+  "title": "Halloween Messages & Wishes: Spooky, Funny & Fun",
+  "domContentLoaded": 3170,
+  "loadEvent": 4361,
+  "transferKB": 152,
+  "resourceCount": 112,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "b60ac5e45eb43cb072e1bb18eb674488.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "csi.gstatic.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 24,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Halloween Messages"
+  ],
+  "bodyTextLen": 1743,
+  "screenshot": "screenshots/mobile_halloween_messages.png"
+ },
+ {
+  "path": "/thanksgiving-day-messages/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 127,
+  "bytes": 2026386,
+  "status": 200,
+  "loadMs": 4129,
+  "title": "Thanksgiving Day Messages & Wishes | Happy Thanksgiving",
+  "domContentLoaded": 2973,
+  "loadEvent": 4125,
+  "transferKB": 138,
+  "resourceCount": 112,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "31872e0cd93fffc06a541433631ff451.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "csi.gstatic.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 17,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Thanksgiving Day Messages"
+  ],
+  "bodyTextLen": 1593,
+  "screenshot": "screenshots/mobile_thanksgiving_day_messages.png"
+ },
+ {
+  "path": "/sympathy-condolences-messages/",
+  "viewport": "mobile",
+  "console": [
+   "warning: [GPT] PubAdsService.set is deprecated, use googletag.setConfig({adsenseAttributes: ...}) instead.\nhttps://goo.gle/gpt-message#170",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content.",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A0A0200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 121,
+  "bytes": 1975802,
+  "status": 200,
+  "loadMs": 4401,
+  "title": "100+ Condolence Messages — Comforting Words of Sympathy",
+  "domContentLoaded": 3393,
+  "loadEvent": 4389,
+  "transferKB": 138,
+  "resourceCount": 106,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "1437953666.rsc.cdn77.org",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "securepubads.g.doubleclick.net",
+   "pixel.wp.com",
+   "fundingchoicesmessages.google.com",
+   "3d392531dc586d7bd70875b1dd0dcff3.safeframe.googlesyndication.com",
+   "ep1.adtrafficquality.google",
+   "pagead2.googlesyndication.com",
+   "ep2.adtrafficquality.google",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 22,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#TR-7a488296-83fe-11f1-8ca4-c3dcd911aa47.",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "button#button-0.",
+    "h": 25,
+    "w": 25,
+    "top": 5
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Sympathy & Condolences Messages",
+   "Sympathy & Condolences Messages"
+  ],
+  "bodyTextLen": 2056,
+  "screenshot": "screenshots/mobile_sympathy_condolences_messages.png"
+ },
+ {
+  "path": "/mothers-day-messages-for-wife-what-she-actually-wants/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 95,
+  "bytes": 1627705,
+  "status": 200,
+  "loadMs": 4258,
+  "title": "Mother’s Day Messages for Wife: What She Actually Wants - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3753,
+  "loadEvent": 4252,
+  "transferKB": 105,
+  "resourceCount": 79,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com",
+   "www.google-analytics.com"
+  ],
+  "imageCount": 9,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 28,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Mother’s Day Messages for Wife: What She Actually Wants"
+  ],
+  "bodyTextLen": 8872,
+  "screenshot": "screenshots/mobile_mothers_day_messages_for_wife_what_she_actually_wants.png"
+ },
+ {
+  "path": "/five-minutes-with-bob-2nd-august/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 93,
+  "bytes": 1607749,
+  "status": 200,
+  "loadMs": 3676,
+  "title": "An Unusual Luxury | Five Minutes With Bob",
+  "domContentLoaded": 3215,
+  "loadEvent": 3674,
+  "transferKB": 54,
+  "resourceCount": 78,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "i0.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 9,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 24,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Five Minutes With Bob"
+  ],
+  "bodyTextLen": 3233,
+  "screenshot": "screenshots/mobile_five_minutes_with_bob_2nd_august.png"
+ },
+ {
+  "path": "/tag/alps/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 88,
+  "bytes": 1605199,
+  "status": 200,
+  "loadMs": 3571,
+  "title": "Alps Archives - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 2906,
+  "loadEvent": 3565,
+  "transferKB": 189,
+  "resourceCount": 76,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "i0.wp.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 14,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Alps"
+  ],
+  "bodyTextLen": 509,
+  "screenshot": "screenshots/mobile_tag_alps.png"
+ },
+ {
+  "path": "/category/123greetings/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 91,
+  "bytes": 1671247,
+  "status": 200,
+  "loadMs": 3288,
+  "title": "123greetings Archives - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 2880,
+  "loadEvent": 3286,
+  "transferKB": 140,
+  "resourceCount": 78,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "i0.wp.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 23,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "123greetings"
+  ],
+  "bodyTextLen": 1456,
+  "screenshot": "screenshots/mobile_category_123greetings.png"
+ },
+ {
+  "path": "/contact-us/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 93,
+  "bytes": 1627051,
+  "status": 200,
+  "loadMs": 3936,
+  "title": "Contact 123Greetings Blog – Suggest a Topic or Get in Touch",
+  "domContentLoaded": 3336,
+  "loadEvent": 3933,
+  "transferKB": 97,
+  "resourceCount": 79,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "i0.wp.com",
+   "s0.wp.com",
+   "www.googletagmanager.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 1,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 12,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "Contact Us"
+  ],
+  "bodyTextLen": 798,
+  "screenshot": "screenshots/mobile_contact_us.png"
+ },
+ {
+  "path": "/about-us/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 96,
+  "bytes": 1622569,
+  "status": 200,
+  "loadMs": 4886,
+  "title": "About 123Greetings Blog – The People Behind the Cards",
+  "domContentLoaded": 4429,
+  "loadEvent": 4883,
+  "transferKB": 191,
+  "resourceCount": 86,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "i0.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 14,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "About Us"
+  ],
+  "bodyTextLen": 1446,
+  "screenshot": "screenshots/mobile_about_us.png"
+ },
+ {
+  "path": "/?s=birthday",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 92,
+  "bytes": 1685765,
+  "status": 200,
+  "loadMs": 4202,
+  "title": "You searched for birthday - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 3703,
+  "loadEvent": 4189,
+  "transferKB": 111,
+  "resourceCount": 80,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "i0.wp.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 6,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 21,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [
+   "\"Birthday\""
+  ],
+  "bodyTextLen": 1876,
+  "screenshot": "screenshots/mobile_s_birthday.png"
+ },
+ {
+  "path": "/this-page-does-not-exist-audit-check/",
+  "viewport": "mobile",
+  "console": [
+   "error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "error: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "warning: [GroupMarkerNotSet(crbug.com/242999)!:A070200074310000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader (about:flags#enable-unsafe-swiftshader) flag to opt in to lower security guarantees for trusted content."
+  ],
+  "pageErrors": [],
+  "failed": [],
+  "httpErrors": [
+   "404 https://blog.123greetings.com/this-page-does-not-exist-audit-check/",
+   "401 https://www.google.com/recaptcha/api2/pat?k=6LeP38UsAAAAABM9MCJQ8nD9Zbb8cqqchMQgKpNL"
+  ],
+  "requests": 88,
+  "bytes": 1567724,
+  "status": 404,
+  "loadMs": 3260,
+  "title": "Page not found - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+  "domContentLoaded": 2837,
+  "loadEvent": 3252,
+  "transferKB": 36,
+  "resourceCount": 76,
+  "thirdPartyHosts": [
+   "fonts-api.wp.com",
+   "www.googletagmanager.com",
+   "s0.wp.com",
+   "www.google.com",
+   "stats.wp.com",
+   "www.google-analytics.com",
+   "www.gstatic.com",
+   "pixel.wp.com"
+  ],
+  "imageCount": 7,
+  "brokenImages": [],
+  "imagesNoAlt": 0,
+  "horizontalOverflowPx": 0,
+  "overflowingElements": [],
+  "smallTapTargets": 13,
+  "fixedElements": [
+   {
+    "el": "a#.close-mobile-menu-builder.mpos-left",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "div#penci_off_canvas.penci-builder-mobile-sidebar-nav.penci-menu-hbg",
+    "h": 844,
+    "w": 330,
+    "top": 0
+   },
+   {
+    "el": "div#.penci-go-to-top-floating.pgtt-style-1",
+    "h": 40,
+    "w": 40,
+    "top": 864
+   },
+   {
+    "el": "a#close-sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 390,
+    "top": 0
+   },
+   {
+    "el": "nav#sidebar-nav.header-1.mstyle-default",
+    "h": 844,
+    "w": 270,
+    "top": 0
+   },
+   {
+    "el": "div#.grecaptcha-badge",
+    "h": 60,
+    "w": 256,
+    "top": 770
+   },
+   {
+    "el": "div#.cc-window.cc-floating",
+    "h": 198,
+    "w": 390,
+    "top": 646
+   }
+  ],
+  "visibleHashLinks": 3,
+  "h1": [],
+  "bodyTextLen": 419,
+  "screenshot": "screenshots/mobile_this_page_does_not_exist_audit_check.png"
+ },
+ {
+  "viewport": "mobile",
+  "checks": {
+   "sideMenu": {
+    "visibleHashLinks": 0,
+    "sample": []
+   },
+   "search": {
+    "searchInputs": 0,
+    "visibleSearch": 0,
+    "searchToggle": 0,
+    "searchResults": {
+     "title": "You searched for birthday - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+     "articles": 20,
+     "text": "HOME\nABOUT US\nWHAT TO WRITE IN A CARD\nCONTACT US\nSearch Results For \"Birthday\"\nBirthday Card Messages: When My Brother and I Stopped Talking About Things That Mattered\nMay 15, 2026\n\nI was at the hardware store last Sunday and walked past the cordless drills my brother used to swear by. …\n\nREAD MORE\nFive Minutes With Bob\nAugust 1, 2026\n\nI woke up smiling today.\n\nREAD MORE\nFive Minutes With Bob\nJuly"
+    },
+    "noResultsMessage": "Sorry"
+   },
+   "contactForm": {
+    "found": true,
+    "cls": "wpcf7-form init",
+    "fields": [
+     {
+      "name": "your-name",
+      "type": "text",
+      "required": true,
+      "labelled": true
+     },
+     {
+      "name": "your-email",
+      "type": "email",
+      "required": true,
+      "labelled": true
+     },
+     {
+      "name": "your-subject",
+      "type": "text",
+      "required": false,
+      "labelled": true
+     },
+     {
+      "name": "your-message",
+      "type": "textarea",
+      "required": true,
+      "labelled": true
+     },
+     {
+      "name": "",
+      "type": "submit",
+      "required": false,
+      "labelled": false
+     },
+     {
+      "name": "_wpcf7_ak_hp_textarea",
+      "type": "textarea",
+      "required": false,
+      "labelled": true
+     }
+    ]
+   },
+   "notFound": {
+    "status": 404,
+    "title": "Page not found - 123Greetings Blog - Free eCards, Card Message Ideas & What to Write in Any Greeting Card",
+    "hasSearch": true,
+    "text": "HOME\nABOUT US\nWHAT TO WRITE IN A CARD\nCONTACT US\n\nOOPS! Page you're looking for doesn't exist. Please use search for help\n\nBACK TO HOME PAGE\n\nCopyright © 123Greetings.com, Inc. All rights reserved.\n\nTerms of Use\n \nPrivacy Policy\n \nCookie Policy\n \nCopyright Policy\n \nDo Not Sell My Info\n \nRequest Opt "
+   },
+   "mobileMenu": {
+    "hasBurger": true,
+    "opened": true
+   }
+  }
+ }
+]

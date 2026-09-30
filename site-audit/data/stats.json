@@ -1,0 +1,77 @@
+{
+ "urls_crawled": 668,
+ "by_type": {
+  "post": 49,
+  "page": 254,
+  "other": 2,
+  "tag": 352,
+  "category": 5,
+  "author": 5,
+  "404": 1
+ },
+ "content_pages": 296,
+ "tags_total": 1086,
+ "tags_with_0_posts": 739,
+ "tags_with_1_post": 317,
+ "tag_archives_crawled": 347,
+ "link_targets": 669,
+ "broken_targets": 8,
+ "median_ms": 65,
+ "slowest": [
+  [
+   201,
+   "https://blog.123greetings.com/mothers-day-messages-for-mom-what-to-write-when-she-saved-it-all/"
+  ],
+  [
+   200,
+   "https://blog.123greetings.com/tag/commitment/"
+  ],
+  [
+   172,
+   "https://blog.123greetings.com/tag/pneumonia/"
+  ],
+  [
+   165,
+   "https://blog.123greetings.com/birthday-thankyou-messages/"
+  ],
+  [
+   162,
+   "https://blog.123greetings.com/tag/canadian/"
+  ]
+ ],
+ "title_suffix_pages": 407,
+ "cross_page_dup_messages": 3,
+ "findings_by_check": {
+  "page-status": 1,
+  "broken-link-external": 13,
+  "ecard-link-redirects": 3,
+  "broken-link-internal": 1,
+  "internal-link-redirects": 8,
+  "http-links": 3,
+  "dead-anchor-links": 4,
+  "sitemap-template-leak": 2,
+  "author-slug-email": 5,
+  "title-too-long": 412,
+  "h1-multiple": 1,
+  "og-image-missing": 92,
+  "meta-description-missing": 2,
+  "h1-missing": 1,
+  "title-leftover-text": 1,
+  "meta-description-punctuation": 3,
+  "title-punctuation": 1,
+  "title-duplicate": 22,
+  "h1-duplicate-across-pages": 23,
+  "img-alt-generic": 152,
+  "img-alt-missing": 1,
+  "title-count-mismatch": 125,
+  "spacing-before-punctuation": 44,
+  "hidden-template-section": 134,
+  "thin-content": 198,
+  "leaked-template-text": 1,
+  "duplicate-message-in-page": 5,
+  "unpaired-quotes": 1,
+  "thin-tag-archive": 317,
+  "weakly-linked-page": 212,
+  "orphan-page": 8
+ }
+}

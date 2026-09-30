@@ -174,11 +174,13 @@ footer.foot { margin-top: 40px; color: var(--muted); font-size: 13px; max-width:
   const store = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} } };
   const K = D.kpis;
 
-  $('#lede').textContent = `Crawled ${fmt(K.urls)} URLs and ${fmt(K.link_targets)} link targets. All ${K.content_pages} pages and posts were read line by line, and every finding was checked by a second agent before it was kept.`;
+  $('#lede').textContent = `Crawled ${fmt(K.urls)} URLs and ${fmt(K.link_targets)} link targets. All ${K.content_pages} pages and posts were read line by line, and every finding was checked by a second agent before it was kept.` +
+    (D.pending && D.pending.length ? ` Still running: ${D.pending.join(', ')}.` : '') +
+    (D.unverified && D.unverified.length ? ` Awaiting verification: ${D.unverified.join(', ')}.` : '');
 
   const tiles = [
     [K.errors, 'verified wording and content errors', true],
-    [K.empty_pages, 'pages showing empty “” message blocks', true],
+    [K.leaked, 'editor or AI notes published on live pages', true],
     [K.promise_pages, `pages whose title promises more messages than they have (${fmt(K.promise_gap)} short)`, true],
     [K.thin, `thin pages of ${K.content_pages} (median page has ${K.median_messages} messages)`, false],
     [K.broken, `broken link targets, used ${K.broken_refs} times`, true],

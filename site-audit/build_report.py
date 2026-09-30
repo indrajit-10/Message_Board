@@ -179,6 +179,9 @@ kpis = {
     "errors": len(errors),
     "errors_high": sum(1 for e in errors if e["severity"] == "high"),
     "empty_pages": len({f["url"] for f in DET if f["check"] == "empty-message-blocks"}),
+    "hidden_pages": len({f["url"] for f in DET if f["check"] == "hidden-template-section"}),
+    "leaked": sum(1 for e in errors if e["type"] == "leaked-template-text"),
+    "factual": sum(1 for e in errors if e["type"] == "factual"),
     "promise_pages": len({f["url"] for f in DET if f["check"] == "title-count-mismatch"}),
     "promise_gap": sum(p["shortfall"] for p in pages if p["shortfall"]),
     "thin": sum(1 for p in pages if p["thin"]),
@@ -206,7 +209,8 @@ L.append(f"Crawled **{kpis['urls']} URLs** (sitemaps + every internal link), che
 L.append("## Headline numbers\n")
 L.append(f"| | |\n|---|---|\n"
          f"| Verified wording / content errors | **{kpis['errors']}** ({kpis['errors_high']} high severity) |\n"
-         f"| Pages showing empty “” message blocks | **{kpis['empty_pages']}** |\n"
+         f"| Editor / AI notes published on live pages | **{kpis['leaked']}** |\n"
+         f"| Factual errors (dates, history, anniversary gifts) | **{kpis['factual']}** |\n"
          f"| Pages whose title promises more messages than they have | **{kpis['promise_pages']}** (short by {kpis['promise_gap']:,} messages in total) |\n"
          f"| Thin pages that need more content | **{kpis['thin']}** of {kpis['content_pages']} |\n"
          f"| Broken link targets | **{kpis['broken']}** (used {kpis['broken_refs']} times) |\n"
@@ -259,7 +263,10 @@ L.append(f"\nMedium and low severity errors ({sum(1 for e in errors if e['severi
 open("REPORT.md", "w").write("\n".join(L))
 
 # ------------------------------------------------------------------ dashboard
-data = {"kpis": kpis, "priorities": PRIORITIES, "errors": errors, "pages": pages, "det": det, "site": site,
+ALL_AREAS = ["functionality", "performance", "seo", "accessibility", "content-strategy", "completeness"]
+pending = [AREA_LABEL[a] for a in ALL_AREAS if a not in SA]
+unverified = [AREA_LABEL.get(s["key"], s["key"]) for s in site if s["findings"] and all(f.get("verdict") == "unverified" for f in s["findings"])]
+data = {"pending": pending, "unverified": unverified, "kpis": kpis, "priorities": PRIORITIES, "errors": errors, "pages": pages, "det": det, "site": site,
         "broken": [{"target": b[0], "status": b[1], "refs": int(b[2]), "pages": b[4], "anchors": b[5]} for b in BROKEN]}
 tpl = open("report_template.html").read()
 blob = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
